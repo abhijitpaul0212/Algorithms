@@ -1,0 +1,27187 @@
+# Progress
+
+# 2022-12-26
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- LC learning
+	- bit-manipulation
+		- https://leetcode.com/explore/learn/card/bit-manipulation/669/bit-manipulation-concepts/4495/
+	- Heap
+		- https://leetcode.com/explore/learn/card/heap/643/heap/4017/
+- ================
+- Fucking algorithm
+	- 一次看懂遞迴 (Recursion) 的思維模式（一）筆記!
+		- https://medium.com/appworks-school/%E9%80%B2%E5%85%A5%E9%81%9E%E8%BF%B4-recursion-%E7%9A%84%E4%B8%96%E7%95%8C-%E4%B8%80-59fa4b394ef6
+
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- BST (inorder traversal)
+		- 230
+	    - 538
+	    - 1038
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- sort
+		- 912
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+- Spark/big data/data review
+
+# 2022-11-13
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- LC learning
+	- bit-manipulation
+		- https://leetcode.com/explore/learn/card/bit-manipulation/669/bit-manipulation-concepts/4495/
+	- Heap
+		- https://leetcode.com/explore/learn/card/heap/643/heap/4017/
+- ================
+- Fucking algorithm
+	- 一次看懂遞迴 (Recursion) 的思維模式（一）筆記!
+		- https://medium.com/appworks-school/%E9%80%B2%E5%85%A5%E9%81%9E%E8%BF%B4-recursion-%E7%9A%84%E4%B8%96%E7%95%8C-%E4%B8%80-59fa4b394ef6
+
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- BST (inorder traversal)
+		- 230
+	    - 538
+	    - 1038
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- sort
+		- 912
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-11-05
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- LC learning
+	- Recursion I
+		- completed
+	- Recursion II
+		- completed
+- ================
+- Fucking algorithm
+	- 一次看懂遞迴 (Recursion) 的思維模式（一）筆記!
+		- https://medium.com/appworks-school/%E9%80%B2%E5%85%A5%E9%81%9E%E8%BF%B4-recursion-%E7%9A%84%E4%B8%96%E7%95%8C-%E4%B8%80-59fa4b394ef6
+
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- BST (inorder traversal)
+		- 230
+	    - 538
+	    - 1038
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- sort
+		- 912
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-10-23
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- LC learning
+	- Recursion I
+		- completed
+	- Recursion II
+		- Largest Rectangle in Histogram
+			- https://leetcode.com/explore/learn/card/recursion-ii/507/beyond-recursion/2901/
+- ================
+- Fucking algorithm
+	- 一次看懂遞迴 (Recursion) 的思維模式（一）筆記!
+		- https://medium.com/appworks-school/%E9%80%B2%E5%85%A5%E9%81%9E%E8%BF%B4-recursion-%E7%9A%84%E4%B8%96%E7%95%8C-%E4%B8%80-59fa4b394ef6
+
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- BST (inorder traversal)
+		- 230
+	    - 538
+	    - 1038
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- sort
+		- 912
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-10-16
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- LC learning
+	- Recursion I
+		- completed
+	- Recursion II
+		- Largest Rectangle in Histogram
+			- https://leetcode.com/explore/learn/card/recursion-ii/507/beyond-recursion/2901/
+- ================
+- Fucking algorithm
+	- 二叉搜索树（基操篇）: 筆記!
+		- https://labuladong.github.io/algo/2/21/43/
+	- 二叉搜索树（特性篇）: 筆記!
+		- https://labuladong.github.io/algo/2/21/42/
+	- 二维数组的花式遍历技巧: 筆記!
+		- https://labuladong.github.io/algo/2/20/26/
+	- 一次看懂遞迴 (Recursion) 的思維模式（一）筆記!
+		- https://medium.com/appworks-school/%E9%80%B2%E5%85%A5%E9%81%9E%E8%BF%B4-recursion-%E7%9A%84%E4%B8%96%E7%95%8C-%E4%B8%80-59fa4b394ef6
+
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- sort
+		- 912
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-10-10
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- LC learning
+	- Recursion I
+		- completed
+	- Recursion II
+		- Combinations
+			- https://leetcode.com/explore/learn/card/recursion-ii/472/backtracking/2798/
+- ================
+- Fucking algorithm
+	- 二叉搜索树（基操篇）: 筆記!
+		- https://labuladong.github.io/algo/2/21/43/
+	- 二叉搜索树（特性篇）: 筆記!
+		- https://labuladong.github.io/algo/2/21/42/
+	- 二维数组的花式遍历技巧: 筆記!
+		- https://labuladong.github.io/algo/2/20/26/
+
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- sort
+		- 912
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-10-09
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- LC learning
+	- Recursion I
+		- completed
+	- Recursion II
+		- Robot Room Cleaner
+			- https://leetcode.com/explore/learn/card/recursion-ii/472/backtracking/2794/
+- ================
+- Fucking algorithm
+	- 二叉搜索树（基操篇）: 筆記!
+		- https://labuladong.github.io/algo/2/21/43/
+	- 二叉搜索树（特性篇）: 筆記!
+		- https://labuladong.github.io/algo/2/21/42/
+	- 二维数组的花式遍历技巧: 筆記!
+		- https://labuladong.github.io/algo/2/20/26/
+
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- sort
+		- 912
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-10-04
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- LC learning
+	- Recursion I
+		- completed
+	- Recursion II
+		- Backtracking Template
+			- https://leetcode.com/explore/learn/card/recursion-ii/472/backtracking/2793/
+- ================
+- Fucking algorithm
+	- 二叉搜索树（基操篇）: 筆記!
+		- https://labuladong.github.io/algo/2/21/43/
+	- 二叉搜索树（特性篇）: 筆記!
+		- https://labuladong.github.io/algo/2/21/42/		
+	- 二维数组的花式遍历技巧: 筆記!
+		- https://labuladong.github.io/algo/2/20/26/		
+
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- sort
+		- 912
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-10-01
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- LC learning
+	- Recursion I
+		- completed
+	- Recursion II
+		- Master Theorem
+			- https://leetcode.com/explore/learn/card/recursion-ii/470/divide-and-conquer/2871/
+		- Backtracking
+			- https://leetcode.com/explore/learn/card/recursion-ii/472/backtracking/2654/
+		- N-Queens II
+			- https://leetcode.com/explore/learn/card/recursion-ii/472/backtracking/2804/
+		- Backtracking Template
+			- https://leetcode.com/explore/learn/card/recursion-ii/472/backtracking/2793/
+- ================
+- Fucking algorithm
+	- 二叉搜索树（构造篇) : 筆記!
+		- https://labuladong.github.io/algo/2/21/44/
+	- 二叉搜索树（基操篇）: 筆記!
+		- https://labuladong.github.io/algo/2/21/43/
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- sort
+		- 912
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-09-29
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- LC learning
+	- Recursion I
+		- completed
+	- Recursion II
+		- Quick sort
+			- https://leetcode.com/explore/learn/card/recursion-ii/470/divide-and-conquer/2870/
+- ================
+- Fucking algorithm
+	- 二叉搜索树（构造篇) : 筆記!
+		- https://labuladong.github.io/algo/2/21/44/
+	- 二叉搜索树（基操篇）: 筆記!
+		- https://labuladong.github.io/algo/2/21/43/
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- sort
+		- 912
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-09-24
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- LC learning
+	- Recursion I
+		- completed
+	- Recursion II
+		- Quick sort
+			- https://leetcode.com/explore/learn/card/recursion-ii/470/divide-and-conquer/2870/
+- ================
+- Fucking algorithm
+	- 二叉搜索树（特性篇)
+		- https://labuladong.github.io/algo/2/21/42/
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- sort
+		- 912
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-09-18
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- Recursion I
+	- completed
+- Recursion II
+	- Quick sort
+		- https://leetcode.com/explore/learn/card/recursion-ii/470/divide-and-conquer/2870/
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- sort
+		- 912
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-09-17
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- Recursion I
+	- completed
+- Recursion II
+	- Search a 2D Matrix II
+		- https://leetcode.com/explore/learn/card/recursion-ii/470/divide-and-conquer/2872/
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- sort
+		- 912
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-09-04
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- Recursion I
+	- completed
+- Recursion II
+	- Merge sort
+		- https://leetcode.com/explore/learn/card/recursion-ii/470/divide-and-conquer/2868/
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-08-28
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- Recursion I
+	- Conclusion
+		- https://leetcode.com/explore/learn/card/recursion-i/253/conclusion/2384/
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-08-21
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- Recursion I
+	- Conclusion
+		- https://leetcode.com/explore/learn/card/recursion-i/253/conclusion/2382/
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-08-14
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- Recursion I
+	- pow
+		- https://leetcode.com/explore/learn/card/recursion-i/256/complexity-analysis/2380/
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-08-13
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- Recursion I
+	- complex analysis
+		- https://leetcode.com/explore/learn/card/recursion-i/256/complexity-analysis/1669/
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-08-07
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- Recursion I
+	- https://leetcode.com/explore/learn/card/recursion-i/
+		-  Recurrence Relation
+- ================
+- LC top 100 likes
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-08-06
+- ================
+- leetcode_company_V5/LC-goog.pdf
+- ================
+- Recursion I
+	- https://leetcode.com/explore/learn/card/recursion-i/
+		-  Solution - Reverse String
+- ================
+- LC top 100 likes
+	- 064 (dp) (again, not start)
+	- 072 (dp) (again, not start)
+	- 084 (again!)
+	- 085 (again)
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-07-03
+- ================
+- leetcode_company_V5/LC-goog.pdf
+	- 
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+	- 1011 (ok, but again)
+	- 1889 (not start)
+	- 2009 (not start)
+	- 968 (not start)
+	- 787 (not start)
+	- 815 (not start)
+	- 675 (not start)
+	- 864 (not start)
+	- 1162 (again)
+	- 529 (again)
+	- 547 (again)
+	- 1192 (again, not start)
+	- 1650 (again!!!!)
+	- 096
+	- 980 (again!!!)
+	- 120 (dp, not start)
+	- 123
+	- 221 (dp, not start)
+	- 096 (dp, not start)
+	- 120 (dp, not start)
+	- 123 (dp, not start)
+	- 221 (dp, not start)
+	- 801 (dp, not start)
+	- 1000 (dp, not start)
+	- 1312 (dp, not start)
+	- 1335 (dp, not start)
+	- 1799 (dp, not start)
+	- 045 (again !!!)
+	- 135 (not start)
+	- 330 (not start)
+- ================
+- LC top 100 likes
+	- 064
+	- 072
+	- 084
+	- 085
+	- 114
+	- 221
+	- 337
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-06-26
+- ================
+- leetcode_company_V5/LC-goog.pdf
+	- 
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+	- 1011 (ok, but again)
+	- 1889 (not start)
+	- 2009 (not start)
+	- 968 (not start)
+	- 787 (not start)
+	- 815 (not start)
+	- 675 (not start)
+	- 864 (not start)
+	- 1162 (again)
+	- 529 (again)
+	- 547 (again)
+	- 1192 (again, not start)
+	- 1650 (again!!!!)
+	- 096
+	- 980 (again!!!)
+	- 120 (dp, not start)
+	- 123
+	- 221 (dp, not start)
+	- 096 (dp, not start)
+	- 120 (dp, not start)
+	- 123 (dp, not start)
+	- 221 (dp, not start)
+	- 801 (dp, not start)
+	- 1000 (dp, not start)
+	- 1312 (dp, not start)
+	- 1335 (dp, not start)
+	- 1799 (dp, not start)
+	- 045 (again !!!)
+	- 135 (not start)
+	- 330 (not start)
+- ================
+- LC top 100 likes
+	- 064
+	- 072
+	- 084
+	- 085
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- 2 pointers
+		- 031
+	- prefix sum
+		- 926
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-06-18
+- ================
+- leetcode_company_V5/LC-goog.pdf
+	- 
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+	- 1011 (ok, but again)
+	- 1889 (not start)
+	- 2009 (not start)
+	- 968 (not start)
+	- 787 (not start)
+	- 815 (not start)
+	- 675 (not start)
+	- 864 (not start)
+	- 1162 (again)
+	- 529 (again)
+	- 547 (again)
+	- 1192 (again, not start)
+	- 1650 (again!!!!)
+	- 096
+	- 980 (again!!!)
+	- 120 (dp, not start)
+	- 123
+	- 221 (dp, not start)
+	- 096 (dp, not start)
+	- 120 (dp, not start)
+	- 123 (dp, not start)
+	- 221 (dp, not start)
+	- 801 (dp, not start)
+	- 1000 (dp, not start)
+	- 1312 (dp, not start)
+	- 1335 (dp, not start)
+	- 1799 (dp, not start)
+	- 045 (again !!!)
+	- 135 (not start)
+	- 330 (not start)
+- ================
+- LC top 100 likes
+	- 064
+	- 072
+	- 084
+	- 085
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-06-13
+- ================
+- leetcode_company_V5/LC-goog.pdf
+	- 
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+	- 1011 (ok, but again)
+	- 1889 (not start)
+	- 2009 (not start)
+	- 968 (not start)
+	- 787 (not start)
+	- 815 (not start)
+	- 675 (not start)
+	- 864 (not start)
+	- 1162 (again)
+	- 529 (again)
+	- 547 (again)
+	- 1192 (again, not start)
+	- 1650 (again!!!!)
+	- 096
+	- 980 (again!!!)
+	- 120 (dp, not start)
+	- 123
+	- 221 (dp, not start)
+- ================
+- LC top 100 likes
+	- 064
+	- 072
+	- 084
+	- 085
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-06-12
+- ================
+- leetcode_company_V5/LC-goog.pdf
+	- 
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+	- 1011 (ok, but again)
+	- 1889 (not start)
+	- 2009 (not start)
+	- 968 (not start)
+	- 787 (not start)
+	- 815 (not start)
+	- 675 (not start)
+	- 864 (not start)
+	- 1162 (again)
+	- 529 (again)
+	- 547 (again)
+	- 1192 (again, not start)
+	- 1650 (again!!!!)
+	- 980
+	- 096
+- ================
+- LC top 100 likes
+	- 064
+	- 072
+	- 084
+	- 085
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-06-10
+- ================
+- leetcode_company_V5/LC-goog.pdf
+	- 
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+	- 1011 (ok, but again)
+	- 1889 (not start)
+	- 2009 (not start)
+	- 968 (not start)
+	- 787 (not start)
+	- 815 (not start)
+	- 675 (not start)
+	- 864 (not start)
+	- 1162 (again)
+	- 529 (again)
+	- 547 (again)
+- ================
+- LC top 100 likes
+	- 064
+	- 072
+	- 084
+	- 085
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-06-08
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+- ================
+- leetcode_company_V5/LC-goog.pdf
+	- 
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+	- 1011 (ok, but again)
+	- 1889 (not start)
+	- 2009 (not start)
+	- 968 (not start)
+	- 787 (not start)
+	- 815 (not start)
+	- 675 (not start)
+	- 864 (not start)
+	- 1162 (again)
+- ================
+- LC top 100 likes
+	- 064
+	- 072
+	- 084
+	- 085
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-06-07
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- Blind Curated 75
+	- OK
+- ================
+- LC (amz_, latest 6 months) :
+- ================
+- leetcode_company_V5/LC-goog.pdf
+	- 
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+	- 1011 (ok, but again)
+	- 1889 (not start)
+	- 2009 (not start)
+	- 968 (not start)
+	- 787 (not start)
+	- 815 (not start)
+	- 675 (not start)
+- ================
+- LC top 100 likes
+	- 064
+	- 072
+	- 084
+	- 085
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-06-06
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- Blind Curated 75
+	- OK
+- ================
+- LC (amz_, latest 6 months) :
+- ================
+- leetcode_company_V5/LC-goog.pdf
+	- 
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+	- 1011 (ok, but again)
+	- 1889 (not start)
+	- 2009 (not start)
+	- 968 (not start)
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 064
+	- 072
+	- 084
+	- 085
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 1011
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-06-02
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 1011
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-05-29
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 642
+	- binary search
+		- 162
+		- 1011
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- tree
+		- 124
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-05-28
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+- ================
+- blind_curated_75.md
+	- 269 (not start)
+	- 1143 (not start)
+	- 322 (again!!!)
+	- 213 (again!!!)
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062 (AGAIN!)
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- dfs
+		- 652
+		- 490
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- tree
+		- 124
+	- dp
+		- 053
+		- 091
+		- 152 (again !!!)
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-05-24
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+- ================
+- blind_curated_75.md
+	- 269 (not start)
+	- 1143 (not start)
+	- 322 (again!!!)
+	- 213 (again!!!)
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212 (again!!!)
+		- 642
+	- binary search
+		- 162
+		- 1011
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- tree
+		- 124
+	- dp
+		- 053
+		- 091
+		- 152
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-05-22
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+- ================
+- blind_curated_75.md
+	- 269 (not start)
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- tree
+		- 124
+	- dp
+		- 053
+		- 091
+		- 152
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-05-21
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 010 (again)
+	- 325 (ok, but again!!!)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+	- 560 (again!!!)
+	- 721 (again !!!!!! not start)
+	- 825 (again)
+	- `002 - 708 (Linked list, pass)`
+	- 032 (again, not start)
+	- 071 (ok, but again)
+	- 173 (ok, but again)
+	- 227 (again!!!)
+	- 341 (ok, but again)
+	- 636 (again)
+	- 735 (again!!)
+	- 739 (ok!!)
+	- 1047 (ok!!!)
+	- 1209 (ok!!)
+	- `094 - 653 (tree, pass)`
+	- 1353 (again!!!)
+	- `136 - 067 (bit op, pass)`
+	- 161 (again!!!)
+	- 415 (ok, but again)
+	- 468 (not start)
+	- 647 (ok, but again)
+	- 680 (again!!!)
+	- 681
+	- 791 (again!!!)
+	- 824
+	- 281 (ok!!!)
+	- 346 (ok!)
+	- 101 (ok, but again)
+	- 150 (again)
+	- 295
+- cheatsheet review
+	- linked_list.md (ok)
+	- tree.md (ok)
+	- prefix_sum.md (ok)
+	- greedy.md (ok)
+	- 2_pointers.md (ok)
+	- binary_search (ok)
+	- intervals.md
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- tree
+		- 124
+	- dp
+		- 053
+		- 091
+		- 152
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-05-15
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+	- /LC-amazon-6-mointh.pdf
+		- (pdf : p.8)
+			- 138
+			- 054
+			- 277
+			- 540
+		- (pdf : p.9)
+			- 006
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 010 (again)
+	- 325 (ok, but again!!!)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+	- 560 (again!!!)
+	- 721 (again !!!!!! not start)
+	- 825 (again)
+	- `002 - 708 (Linked list, pass)`
+	- 032 (again, not start)
+	- 071 (ok, but again)
+	- 173 (ok, but again)
+	- 227 (again!!!)
+	- 341 (ok, but again)
+	- 636 (again)
+	- 735 (again!!)
+	- 739 (ok!!)
+	- 1047 (ok!!!)
+	- 1209 (ok!!)
+	- `094 - 653 (tree, pass)`
+	- 1353 (again!!!)
+	- `136 - 067 (bit op, pass)`
+	- 161 (again!!!)
+	- 415 (ok, but again)
+	- 468 (not start)
+	- 647 (ok, but again)
+	- 680 (again!!!)
+	- 681
+	- 791 (again!!!)
+	- 824
+	- 281 (ok!!!)
+	- 346 (ok!)
+	- 101 (ok, but again)
+	- 150 (again)
+	- 295
+- cheatsheet review
+	- linked_list.md (ok)
+	- tree.md (ok)
+	- prefix_sum.md (ok)
+	- greedy.md (ok)
+	- 2_pointers.md (ok)
+	- binary_search (ok)
+	- intervals.md
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 1022
+		- 322 (OK, BUT AGAIN!!!)
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- tree
+		- 124
+	- dp
+		- 053
+		- 091
+		- 152
+		- 1143
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-05-13
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+	- /LC-amazon-6-mointh.pdf
+		- (pdf : p.8)
+			- 138
+			- 054
+			- 277
+			- 540
+		- (pdf : p.9)
+			- 006
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 010 (again)
+	- 325 (ok, but again!!!)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+	- 560 (again!!!)
+	- 721 (again !!!!!! not start)
+	- 825 (again)
+	- `002 - 708 (Linked list, pass)`
+	- 032 (again, not start)
+	- 071 (ok, but again)
+	- 173 (ok, but again)
+	- 227 (again!!!)
+	- 341 (ok, but again)
+	- 636 (again)
+	- 735 (again!!)
+	- 739 (ok!!)
+	- 1047 (ok!!!)
+	- 1209 (ok!!)
+	- `094 - 653 (tree, pass)`
+	- 1353 (again!!!)
+	- `136 - 067 (bit op, pass)`
+	- 161 (again!!!)
+	- 415 (ok, but again)
+	- 468 (not start)
+	- 647 (ok, but again)
+	- 680 (again!!!)
+	- 681
+	- 791 (again!!!)
+	- 824
+	- 281 (ok!!!)
+	- 346 (ok!)
+	- 101 (ok, but again)
+	- 150 (again)
+	- 295
+- cheatsheet review
+	- linked_list.md (ok)
+	- tree.md (ok)
+	- prefix_sum.md (ok)
+	- greedy.md (ok)
+	- 2_pointers.md (ok)
+	- binary_search (ok)
+	- intervals.md
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- String
+		- 076
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 322
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+		- 323 (Union Find) (OK, but AGAIN!!!)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- tree
+		- 124
+	- dp
+		- 053
+		- 091
+		- 152
+		- 1143 (again, not start)
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-05-12
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+	- /LC-amazon-6-mointh.pdf
+		- (pdf : p.8)
+			- 138
+			- 054
+			- 277
+			- 540
+		- (pdf : p.9)
+			- 006
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 010 (again)
+	- 325 (ok, but again!!!)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+	- 560 (again!!!)
+	- 721 (again !!!!!! not start)
+	- 825 (again)
+	- `002 - 708 (Linked list, pass)`
+	- 032 (again, not start)
+	- 071 (ok, but again)
+	- 173 (ok, but again)
+	- 227 (again!!!)
+	- 341 (ok, but again)
+	- 636 (again)
+	- 735 (again!!)
+	- 739 (ok!!)
+	- 1047 (ok!!!)
+	- 1209 (ok!!)
+	- `094 - 653 (tree, pass)`
+	- 1353 (again!!!)
+	- `136 - 067 (bit op, pass)`
+	- 161 (again!!!)
+	- 415 (ok, but again)
+	- 468 (not start)
+	- 647 (ok, but again)
+	- 680 (again!!!)
+	- 681
+	- 791 (again!!!)
+	- 824
+	- 281 (ok!!!)
+	- 346 (ok!)
+	- 101 (ok, but again)
+	- 150 (again)
+	- 295
+- cheatsheet review
+	- linked_list.md (ok)
+	- tree.md (ok)
+	- prefix_sum.md (ok)
+	- greedy.md (ok)
+	- 2_pointers.md (ok)
+	- binary_search (ok)
+	- intervals.md
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 322
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+		- 033
+		- 034
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-05-04
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+	- /LC-amazon-6-mointh.pdf
+		- (pdf : p.8)
+			- 138
+			- 054
+			- 277
+			- 540
+		- (pdf : p.9)
+			- 006
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 253 (AGAIN !!!)
+	- 937 (ok, but again!!)
+	- 973 (ok)
+	- 1152 (again, not start)
+	- 2021 (again!!!)
+	- 042 (not start)
+	- 141 (ok)
+	- 167 (ok)
+	- 876 (ok)
+	- 1151 (again!!!)
+	- 1963 (again!)
+	- 2104 (ok, again)
+	- 010 (not start)
+	- 098 (ok, but again!)
+	- 100 (ok)
+	- 104 (ok!)
+	- 110 (again!!)
+	- 111 (ok)
+	- 116 (ok)
+	- 117 (ok, but again)
+	- 669 (again)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 010 (again)
+	- 325 (ok, but again!!!)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+	- 560 (again!!!)
+	- 721 (again !!!!!! not start)
+	- 825 (again)
+	- `002 - 708 (Linked list, pass)`
+	- 032 (again, not start)
+	- 071 (ok, but again)
+	- 173 (ok, but again)
+	- 227 (again!!!)
+	- 341 (ok, but again)
+	- 636 (again)
+	- 735 (again!!)
+	- 739 (ok!!)
+	- 1047 (ok!!!)
+	- 1209 (ok!!)
+	- `094 - 653 (tree, pass)`
+	- 1353 (again!!!)
+	- `136 - 067 (bit op, pass)`
+	- 161 (again!!!)
+	- 415 (ok, but again)
+	- 468 (not start)
+	- 647 (ok, but again)
+	- 680 (again!!!)
+	- 681
+	- 791 (again!!!)
+	- 824
+	- 281 (ok!!!)
+	- 346 (ok!)
+	- 101 (ok, but again)
+	- 150 (again)
+	- 295
+- cheatsheet review
+	- linked_list.md (ok)
+	- tree.md (ok)
+	- prefix_sum.md (ok)
+	- greedy.md (ok)
+	- 2_pointers.md (ok)
+	- binary_search (ok)
+	- intervals.md
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 322
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+		- 033
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-05-03
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+	- /LC-amazon-6-mointh.pdf
+		- (pdf : p.8)
+			- 138
+			- 054
+			- 277
+			- 540
+		- (pdf : p.9)
+			- 006
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 231 (ok!)
+	- 268 (ok)
+	- 389 (ok)
+	- 645 (ok)
+	- 762 (ok)
+	- 1573 (again, not start)
+	- 1915 (again, not start)
+	- 005 (ok, but again!!!)
+	- 008 (again, not start)
+	- 067 (ok, but again!)
+	- 125 (ok)
+	- 151 (ok)
+	- 165 (ok)
+	- 186 (ok)
+	- 242 (ok)
+	- 459 (ok, but again)
+	- 468 (not start)
+	- 696 (ok, but again)
+	- 791 (ok, but again)
+	- 796 (ok, but again)
+	- 819 (not start)
+	- 828 (not start)
+	- 1119 (ok)
+	- 622 (again!!!)
+	- 239
+	- `007 - 1492 (math, pass)`
+	- 088 (ok, but again!)
+	- 179 (ok, but again!)
+	- 252 (ok)
+	- 253 (AGAIN !!!)
+	- 347 (ok)
+	- 451 (ok)
+	- 692 (ok)
+	- 937 (ok, but again!!)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 010 (again)
+	- 325 (ok, but again!!!)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+	- 560 (again!!!)
+	- 721 (again !!!!!! not start)
+	- 825 (again)
+	- `002 - 708 (Linked list, pass)`
+	- 032 (again, not start)
+	- 071 (ok, but again)
+	- 173 (ok, but again)
+	- 227 (again!!!)
+	- 341 (ok, but again)
+	- 636 (again)
+	- 735 (again!!)
+	- 739 (ok!!)
+	- 1047 (ok!!!)
+	- 1209 (ok!!)
+	- `094 - 653 (tree, pass)`
+	- 1353 (again!!!)
+	- `136 - 067 (bit op, pass)`
+	- 161 (again!!!)
+	- 415 (ok, but again)
+	- 468 (not start)
+	- 647 (ok, but again)
+	- 680 (again!!!)
+	- 681
+	- 791 (again!!!)
+	- 824
+	- 281 (ok!!!)
+	- 346 (ok!)
+	- 101 (ok, but again)
+	- 150 (again)
+	- 295
+- cheatsheet review
+	- linked_list.md (ok)
+	- tree.md (ok)
+	- prefix_sum.md (ok)
+	- greedy.md (ok)
+	- 2_pointers.md (ok)
+	- binary_search (ok)
+	- intervals.md
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 322
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+		- 033
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-05-02
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+	- /LC-amazon-6-mointh.pdf
+		- (pdf : p.8)
+			- 138
+			- 054
+			- 277
+			- 540
+		- (pdf : p.9)
+			- 006
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+	- 173 (ok!!)
+	- 224 (again)
+	- 227 (again)
+	- 232 (ok)
+	- 341 (ok, but again)
+	- 394 (again!!!)
+	- 682 (ok)
+	- 735 (again)
+	- 739
+	- 895 (again)
+	- 1703 (not start)
+	- 1896 (not start)
+	- `208 - 1372 (tree, pass)`
+	- 703 (ok)
+	- 1167 (ok)
+	- 1353 (again!!)
+	- 1481 (again!!)
+	- 136 (ok)
+	- 231 (ok!)
+	- 268 (ok)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 010 (again)
+	- 325 (ok, but again!!!)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+	- 560 (again!!!)
+	- 721 (again !!!!!! not start)
+	- 825 (again)
+	- `002 - 708 (Linked list, pass)`
+	- 032 (again, not start)
+	- 071 (ok, but again)
+	- 173 (ok, but again)
+	- 227 (again!!!)
+	- 341 (ok, but again)
+	- 636 (again)
+	- 735 (again!!)
+	- 739 (ok!!)
+	- 1047 (ok!!!)
+	- 1209 (ok!!)
+	- `094 - 653 (tree, pass)`
+	- 1353 (again!!!)
+	- `136 - 067 (bit op, pass)`
+	- 161 (again!!!)
+	- 415 (ok, but again)
+	- 468 (not start)
+	- 647 (ok, but again)
+	- 680 (again!!!)
+	- 681
+	- 791 (again!!!)
+	- 824
+	- 281 (ok!!!)
+	- 346 (ok!)
+	- 101 (ok, but again)
+	- 150 (again)
+	- 295
+- cheatsheet review
+	- linked_list.md (ok)
+	- tree.md (ok)
+	- prefix_sum.md
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+		- 536
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 322
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+		- 092
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+		- 033
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-05-01
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+	- /LC-amazon-6-mointh.pdf
+		- (pdf : p.8)
+			- 138
+			- 054
+			- 277
+			- 540
+		- (pdf : p.9)
+			- 006
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 658 (again !!!!)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+	- 1041 (again)
+	- 024 (again!!!!)
+	- `025 - 708 (Linked list, pass)`
+	- 032 (not start)
+	- 071 (ok, but again)
+	- 155 (ok, but again)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 010 (again)
+	- 325 (ok, but again!!!)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+	- 560 (again!!!)
+	- 721 (again !!!!!! not start)
+	- 825 (again)
+	- `002 - 708 (Linked list, pass)`
+	- 032 (again, not start)
+	- 071 (ok, but again)
+	- 173 (ok, but again)
+	- 227 (again!!!)
+	- 341 (ok, but again)
+	- 636 (again)
+	- 735 (again!!)
+	- 739 (ok!!)
+	- 1047 (ok!!!)
+	- 1209 (ok!!)
+	- `094 - 653 (tree, pass)`
+	- 1353 (again!!!)
+	- `136 - 067 (bit op, pass)`
+	- 161 (again!!!)
+	- 415 (ok, but again)
+	- 468 (not start)
+	- 647 (ok, but again)
+	- 680 (again!!!)
+	- 681
+	- 791 (again!!!)
+	- 824
+	- 281 (ok!!!)
+	- 346 (ok!)
+	- 101 (ok, but again)
+	- 150 (again)
+- cheatsheet review
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 322
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+		- 033
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-04-30
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+	- /LC-amazon-6-mointh.pdf
+		- (pdf : p.8)
+			- 138
+			- 054
+			- 277
+			- 540
+		- (pdf : p.9)
+			- 006
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+	- 414 (ok)
+	- 658 (again !!!!)
+	- 661 (ok)
+	- 909
+	- 004
+	- 056 (again)
+	- 759 (again)
+	- 1027 (not start)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 010 (again)
+	- 325 (ok, but again!!!)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+	- 560 (again!!!)
+	- 721 (again !!!!!! not start)
+	- 825 (again)
+	- `002 - 708 (Linked list, pass)`
+	- 032 (again, not start)
+	- 071 (ok, but again)
+	- 173 (ok, but again)
+	- 227 (again!!!)
+	- 341 (ok, but again)
+	- 636 (again)
+	- 735 (again!!)
+	- 739 (ok!!)
+	- 1047 (ok!!!)
+	- 1209 (ok!!)
+	- `094 - 653 (tree, pass)`
+	- 1353 (again!!!)
+	- `136 - 067 (bit op, pass)`
+	- 161 (again!!!)
+	- 415 (ok, but again)
+	- 468 (not start)
+	- 647 (ok, but again)
+	- 680 (again!!!)
+	- 681
+	- 791 (again!!!)
+	- 824
+	- 281 (ok!!!)
+	- 346 (ok!)
+- cheatsheet review
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 322
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+		- 033
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-04-29
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+	- /LC-amazon-6-mointh.pdf
+		- (pdf : p.8)
+			- 138
+			- 054
+			- 277
+			- 540
+		- (pdf : p.9)
+			- 006
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 289 (again)
+	- 370 (again !!!)
+	- 396 (again, not a good problem)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 010 (again)
+	- 325 (ok, but again!!!)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+	- 560 (again!!!)
+	- 721 (again !!!!!! not start)
+	- 825 (again)
+	- `002 - 708 (Linked list, pass)`
+	- 032 (again, not start)
+	- 071 (ok, but again)
+	- 173 (ok, but again)
+	- 227 (again!!!)
+	- 341 (ok, but again)
+	- 636 (again)
+	- 735 (again!!)
+	- 739 (ok!!)
+	- 1047 (ok!!!)
+	- 1209 (ok!!)
+	- `094 - 653 (tree, pass)`
+	- 1353 (again!!!)
+	- `136 - 067 (bit op, pass)`
+	- 161 (again!!!)
+	- 415 (ok, but again)
+	- 468 (not start)
+	- 647 (ok, but again)
+	- 680 (again!!!)
+	- 681
+	- 791 (again!!!)
+	- 824
+	- 281 (ok!!!)
+	- 346 (ok!)
+- cheatsheet review
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 322
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+		- 033
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-04-28
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+	- /LC-amazon-6-mointh.pdf
+		- (pdf : p.8)
+			- 138
+			- 054
+			- 277
+			- 540
+		- (pdf : p.9)
+			- 006
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+	- 277 (ok, but again)
+	- 287 (ok)
+	- 289 (again)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 010 (again)
+	- 325 (ok, but again!!!)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+	- 560 (again!!!)
+	- 721 (again !!!!!! not start)
+	- 825 (again)
+	- `002 - 708 (Linked list, pass)`
+	- 032 (again, not start)
+	- 071 (ok, but again)
+	- 173 (ok, but again)
+	- 227 (again!!!)
+	- 341 (ok, but again)
+	- 636 (again)
+	- 735 (again!!)
+	- 739 (ok!!)
+	- 1047 (ok!!!)
+	- 1209 (ok!!)
+	- `094 - 653 (tree, pass)`
+	- 1353 (again!!!)
+	- `136 - 067 (bit op, pass)`
+	- 161 (again!!!)
+	- 415 (ok, but again)
+	- 468 (not start)
+	- 647 (ok, but again)
+	- 680 (again!!!)
+	- 681
+	- 791 (again!!!)
+	- 824
+	- 281 (ok!!!)
+	- 346 (ok!)
+- cheatsheet review
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 449
+		- 980
+		- 1650
+		- 297
+		- 449
+	- bfs
+		- 133
+		- 815
+		- 322
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-04-27
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+	- /LC-amazon-6-mointh.pdf
+		- (pdf : p.8)
+			- 138
+			- 054
+			- 277
+			- 540
+		- (pdf : p.9)
+			- 006
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 189 (ok, but again)
+	- 238
+	- 240 (ok, but again)
+	- 251 (ok, but again)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 010 (again)
+	- 325 (ok, but again!!!)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+	- 560 (again!!!)
+	- 721 (again !!!!!! not start)
+	- 825 (again)
+	- `002 - 708 (Linked list, pass)`
+	- 032 (again, not start)
+	- 071 (ok, but again)
+	- 173 (ok, but again)
+	- 227 (again!!!)
+	- 341 (ok, but again)
+	- 636 (again)
+	- 735 (again!!)
+	- 739 (ok!!)
+	- 1047 (ok!!!)
+	- 1209 (ok!!)
+	- `094 - 653 (tree, pass)`
+	- 1353 (again!!!)
+	- `136 - 067 (bit op, pass)`
+	- 161 (again!!!)
+	- 415 (ok, but again)
+	- 468 (not start)
+	- 647 (ok, but again)
+	- 680 (again!!!)
+	- 681
+	- 791 (again!!!)
+	- 824
+	- 281 (ok!!!)
+	- 346 (ok!)
+- cheatsheet review
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 297
+		- 449
+		- 980
+		- 1650
+	- bfs
+		- 133
+		- 815
+		- 322
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-04-25
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+	- /LC-amazon-6-mointh.pdf
+		- (pdf : p.8)
+			- 138
+			- 054
+			- 277
+			- 540
+		- (pdf : p.9)
+			- 006
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+	- 054 (not start)
+	- 059 (not start)
+	- 073 (ok)
+	- 157 (again)
+	- 163 (not start) (bad question)
+	- 169 (ok)
+	- 189 (ok, but again)
+	- 215 (ok)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 010 (again)
+	- 325 (ok, but again!!!)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+	- 560 (again!!!)
+	- 721 (again !!!!!! not start)
+	- 825 (again)
+	- `002 - 708 (Linked list, pass)`
+	- 032 (again, not start)
+	- 071 (ok, but again)
+	- 101 (ok)
+	- 173 (ok, but again)
+	- 227 (again!!!)
+	- 341 (ok, but again)
+	- 636 (again)
+	- 735 (again!!)
+	- 739 (ok!!)
+	- 1047 (ok!!!)
+	- 1209 (ok!!)
+	- `094 - 653 (tree, pass)`
+	- 1353 (again!!!)
+	- `136 - 067 (bit op, pass)`
+	- 125 (ok)
+	- 151 (ok)
+	- 161 (again!!!)
+	- 242 (ok)
+	- 415 (ok, but again)
+	- 468 (not start)
+	- 647 (ok, but again)
+	- 680 (again!!!)
+	- 681
+	- 791 (again!!!)
+	- 824
+	- 281 (ok!!!)
+	- 346 (ok!)
+- cheatsheet review
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 297
+		- 449
+		- 980
+		- 1650
+	- bfs
+		- 133
+		- 815
+		- 322
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-04-23
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+	- /LC-amazon-6-mointh.pdf
+		- (pdf : p.8)
+			- 138
+			- 054
+			- 277
+			- 540
+		- (pdf : p.9)
+			- 006
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+	- 041 (again!!)
+	- 048 (ok, but again!!!)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 010 (again)
+	- 325 (ok, but again!!!)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+	- 560 (again!!!)
+	- 721 (again !!!!!! not start)
+	- 825 (again)
+	- `002 - 708 (Linked list, pass)`
+	- 032 (again, not start)
+	- 071 (ok, but again)
+	- 101 (ok)
+	- 173 (ok, but again)
+	- 227 (again!!!)
+	- 341 (ok, but again)
+	- 636 (again)
+	- 735 (again!!)
+	- 739 (ok!!)
+	- 1047 (ok!!!)
+	- 1209 (ok!!)
+	- `094 - 653 (tree, pass)`
+	- 1353 (again!!!)
+	- `136 - 067 (bit op, pass)`
+	- 125 (ok)
+	- 151 (ok)
+	- 161 (again!!!)
+	- 242 (ok)
+	- 415 (ok, but again)
+	- 468 (not start)
+	- 647 (ok, but again)
+	- 680 (again!!!)
+	- 681
+	- 791 (again!!!)
+	- 824
+	- 281 (again!!! not start)
+	- 346 (not start)
+- cheatsheet review
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 297
+		- 449
+		- 980
+		- 1650
+	- bfs
+		- 133
+		- 815
+		- 322
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-04-22
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+	- /LC-amazon-6-mointh.pdf
+		- (pdf : p.8)
+			- 138
+			- 054
+			- 277
+			- 540
+		- (pdf : p.9)
+			- 006
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 010 (again)
+	- 325 (ok, but again!!!)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+	- 560 (again!!!)
+	- 721 (again !!!!!! not start)
+	- 825 (again)
+	- `002 - 708 (Linked list, pass)`
+	- 032 (again, not start)
+	- 071 (ok, but again)
+	- 101 (ok)
+	- 173 (ok, but again)
+	- 227 (again!!!)
+	- 341 (ok, but again)
+	- 636 (again)
+	- 735 (again!!)
+	- 739 (ok!!)
+	- 1047 (ok!!!)
+	- 1209 (ok!!)
+	- `094 - 653 (tree, pass)`
+	- 1353 (again!!!)
+	- `136 - 067 (bit op, pass)`
+	- 125 (ok)
+	- 151 (ok)
+	- 161 (again!!!)
+	- 242 (ok)
+	- 415 (ok, but again)
+	- 468 (not start)
+	- 647 (ok, but again)
+	- 680 (again!!!)
+	- 681
+	- 791 (again!!!)
+	- 824
+	- 281 (again!!! not start)
+	- 346 (not start)
+- cheatsheet review
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 297
+		- 449
+		- 980
+		- 1650
+	- bfs
+		- 133
+		- 815
+		- 322
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-04-21
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+	- /LC-amazon-6-mointh.pdf
+		- (pdf : p.8)
+			- 138
+			- 054
+			- 277
+			- 540
+		- (pdf : p.9)
+			- 006
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 010 (again)
+	- 325 (ok, but again!!!)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+	- 560 (again!!!)
+	- 721 (again !!!!!! not start)
+	- 825 (again)
+	- `002 - 708 (Linked list, pass)`
+	- 032 (again, not start)
+	- 071 (ok, but again)
+	- 101 (ok)
+	- 173 (ok, but again)
+	- 227 (again!!!)
+	- 341 (ok, but again)
+	- 636 (again)
+	- 735 (again!!)
+	- 739 (ok!!)
+	- 1047 (ok!!!)
+	- 1209 (ok!!)
+	- `094 - 653 (tree, pass)`
+	- 1353 (again!!!)
+	- `136 - 067 (bit op, pass)`
+	- 125 (ok)
+	- 151 (ok)
+	- 161 (again!!!)
+	- 242 (ok)
+	- 415 (ok, but again)
+	- 468 (not start)
+	- 647 (ok, but again)
+	- 680 (again!!!)
+	- 681
+	- 791 (again!!!)
+	- 824
+	- 281 (again!!! not start)
+	- 346 (not start)
+- cheatsheet review
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 297
+		- 449
+		- 980
+		- 1650
+	- bfs
+		- 133
+		- 815
+		- 322
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-04-19
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+	- /LC-amazon-6-mointh.pdf
+		- (pdf : p.8)
+			- 138
+			- 054
+			- 277
+			- 540
+		- (pdf : p.9)
+			- 006
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 010 (again)
+	- 325 (ok, but again!!!)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+	- 560 (again!!!)
+	- 721 (again !!!!!! not start)
+	- 825 (again)
+	- `002 - 708 (Linked list, pass)`
+	- 032 (again, not start)
+	- 071 (ok, but again)
+	- 101 (ok)
+	- 173 (ok, but again)
+	- 227 (again!!!)
+	- 341 (ok, but again)
+	- 636 (again)
+	- 735 (again!!)
+	- 739 (ok!!)
+	- 1047 (ok!!!)
+	- 1209 (ok!!)
+	- `094 - 653 (tree, pass)`
+	- 1353 (again!!!)
+	- `136 - 067 (bit op, pass)`
+	- 125 (ok)
+	- 151 (ok)
+	- 161 (again!!!)
+	- 242 (ok)
+	- 415 (ok, but again)
+	- 468 (not start)
+	- 647 (ok, but again)
+	- 680 (again!!!)
+	- 681
+	- 791 (again!!!)
+	- 824
+	- 281 (again!!! not start)
+	- 346 (not start)
+- cheatsheet review
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 297
+		- 449
+		- 980
+		- 1650
+	- bfs
+		- 133
+		- 815
+		- 322
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+	- Tinder design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-04-18
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+	- /LC-amazon-6-mointh.pdf
+		- (pdf : p.8)
+			- 138
+			- 054
+			- 277
+			- 540
+		- (pdf : p.9)
+			- 006
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 209
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 674
+	- 010 (again)
+	- 170
+	- 325 (ok, but again!!!)
+	- 387 (ok)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+	- 560 (again!!!)
+	- 721 (again !!!!!! not start)
+	- 825 (again)
+	- `002 - 708 (Linked list, pass)`
+	- 020 (ok)
+	- 032 (again, not start)
+	- 071 (ok, but again)
+	- 101 (ok)
+- cheatsheet review
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 297
+		- 449
+		- 980
+		- 1650
+	- bfs
+		- 133
+		- 815
+		- 322
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+	- Tinder design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-04-17
+- LC (goog_)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+		- (pdf : p.2)
+- ================
+- LC (amz_, latest 6 months) :
+	- /LC-amazon-6-mointh.pdf
+		- (pdf : p.8)
+			- 138
+			- 054
+			- 277
+			- 540
+		- (pdf : p.9)
+			- 006
+- ================
+- amazon/sde_2022/amz_cs_basic.md
+	- 016 (again!)
+	- 027
+	- 031 (again!!!!)
+	- 034 (again!!!!)
+- fb/sde_2022/cs_basic_fb.md
+	- 031 (again!!!!)
+	- 080 (again)
+	- 157 (again)
+	- 209
+	- 277 (again!!!)
+	- 311 (ok, but again)
+	- 498 (again)
+	- 674
+	- 010 (again)
+	- 170
+	- 325 (ok, but again!!!)
+	- 387 (ok)
+	- 438 (again)
+	- 463 (again)
+	- 523 (again!!!)
+	- 525 (again!!!)
+	- 554 (again!!!)
+- cheatsheet review
+- ================
+- LC top 100 likes
+	- 032
+	- 034
+	- 041
+	- 045
+	- 062
+	- 064
+	- 072
+	- 084
+	- 085
+	- 096
+	- 101
+	- 114
+	- 221
+	- 337
+	- 416
+	- 437
+- ================
+- LC general
+	- Tree
+	- =======
+	- bit manipulation
+		- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 393 again (not start)
+	- dfs
+		- 652
+		- 490
+		- 079
+		- 297
+		- 449
+		- 980
+		- 1650
+	- bfs
+		- 133
+		- 815
+		- 322
+		- 1022
+	- greedy
+		- 358 (again, not start!)
+			- check `heappush, heappop`
+		- 045
+	- union find
+		- 721
+		- 547
+	- design
+		- all remain (not start)
+		- 460
+		- 1166
+		- 146 (OrderedDict)
+		- 635
+	- hashmap
+		- 523
+	- graph
+		- 261 (Union Find) 
+		- 547 (Union Find) (not start)
+		- 323 (Union Find) (not start)
+		- 210 (Topological Sort) not start)
+		- 210 (Topological Sort)
+	- sliding window
+		- 300
+		- 491
+		- 673
+		- 239
+	- linked list
+		- 002
+		- 445
+		- 019
+	- stack
+		- 394
+		- 341
+		- 735
+	- array
+		- 041
+	- topology sorting
+		- 269 (not start! again)
+		- 444
+		- 054
+	- heap
+		- 239
+		- 895
+	- trie
+		- 208
+		- 212
+		- 642
+	- binary search
+		- 162
+		- 1011
+	- 2 pointers
+		- 1099
+	- dp
+		- 053
+		- 091
+	- others
+	- Review
+		- (OK)
+		- =============
+		- (ing)
+	- SQL
+- System Design
+	- Tinder design
+- algorithm book (labu)
+	- note
+		- p.363 -
+- LC basic:
+	- know time, space complexity on ALL main data structure, algorithm
+		- avg
+		- best, worst
+		- implementation
+	- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+- system design book - an insider's guide (GOTOP)
+	- 1st read (ok)
+	- 2nd read :
+		- read
+			- p.1 - p.35
+	- review/note
+
+# 2022-04-16
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.8)
+				- 138
+				- 054
+				- 277
+				- 540
+			- (pdf : p.9)
+				- 006
+	- ================
+	- amazon/sde_2022/amz_cs_basic.md
+		- 016 (again!)
+		- 027
+		- 031 (again!!!!)
+		- 034 (again!!!!)
+	- fb/sde_2022/cs_basic_fb.md
+		- 031 (again!!!!)
+		- 080 (again)
+		- 157 (again)
+		- 209
+		- 277 (again!!!)
+		- 311 (ok, but again)
+		- 334 (ok!)
+		- 498 (again)
+		- 670 (ok!)
+		- 674
+		- 896 (ok)
+		- 010 (again)
+		- 056 (ok)
+		- 003 (ok)
+		- 049 (ok)
+		- 170
+		- 246 (ok)
+		- 314 (ok)
+	- cheatsheet review
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+			- 1650
+		- bfs
+			- 133
+			- 815
+			- 322
+			- 1022
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+			- 045
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+			- 1166
+			- 146 (OrderedDict)
+			- 635
+		- hashmap
+			- 523
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 341
+			- 735
+		- array
+			- 041
+		- topology sorting
+			- 269 (not start! again)
+			- 444
+			- 054
+		- heap
+			- 239
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- binary search
+			- 162
+			- 1011
+		- 2 pointers
+			- 1099
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.1 - p.35
+		- review/note
+
+# 2022-04-15
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.8)
+				- 138
+				- 054
+				- 277
+				- 540
+			- (pdf : p.9)
+				- 006
+	- ================
+	- amazon/sde_2022/amz_cs_basic.md
+		- 016 (again!)
+		- 027
+		- 031 (again!!!!)
+		- 034 (again!!!!)
+	- fb/sde_2022/cs_basic_fb.md
+		- 031 (again!!!!)
+		- 080 (again)
+		- 157 (again)
+		- 209
+		- 277 (again)
+		- 311 (again)
+		- 334 (ok!)
+		- 498 (again)
+		- 670 (ok!)
+		- 674
+	- cheatsheet review
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+			- 1650
+		- bfs
+			- 133
+			- 815
+			- 322
+			- 1022
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+			- 045
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+			- 1166
+			- 146 (OrderedDict)
+			- 635
+		- hashmap
+			- 523
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 341
+			- 735
+		- array
+			- 041
+		- topology sorting
+			- 269 (not start! again)
+			- 444
+			- 054
+		- heap
+			- 239
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- binary search
+			- 162
+			- 1011
+		- 2 pointers
+			- 1099
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.1 - p.35
+		- review/note
+
+# 2022-04-14
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.8)
+				- 138
+				- 054
+				- 277
+				- 540
+			- (pdf : p.9)
+				- 006
+	- ================
+	- amazon/sde_2022/amz_cs_basic.md
+		- 016 (again!)
+		- 027
+		- 031 (again!!!!)
+		- 034 (again!!!!)
+	- fb/sde_2022/cs_basic_fb.md
+		- 031 (again!!!!)
+		- 080 (again)
+		- 157 (again)
+		- 209
+		- 228 (again)
+	- cheatsheet review
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+			- 1650
+		- bfs
+			- 133
+			- 815
+			- 322
+			- 1022
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+			- 045
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+			- 1166
+			- 146 (OrderedDict)
+			- 635
+		- hashmap
+			- 523
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503 (again!)
+			- 739
+			- 341
+			- 735
+		- array
+			- 041
+		- topology sorting
+			- 269 (not start! again)
+			- 444
+			- 054
+		- heap
+			- 703
+			- 239
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- binary search
+			- 162
+			- 1011
+		- 2 pointers
+			- 1099
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.251 -
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-04-12
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.8)
+				- 138
+				- 054
+				- 277
+				- 540
+			- (pdf : p.9)
+				- 006
+	- ================
+	- amazon/sde_2022/amz_cs_basic.md
+		- 016 (again!)
+		- 027
+		- 031 (again!!!!)
+		- 034 (again!!!!)
+	- cheatsheet review
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+			- 1650
+		- bfs
+			- 133
+			- 815
+			- 322
+			- 1022
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+			- 045
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+			- 1166
+			- 146 (OrderedDict)
+			- 635
+		- hashmap
+			- 523
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 341
+			- 735
+		- array
+			- 041
+		- topology sorting
+			- 269 (not start! again)
+			- 444
+			- 054
+		- heap
+			- 703
+			- 239
+			- 264 (again!!!)
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- binary search
+			- 162
+			- 1011
+		- 2 pointers
+			- 1099
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.251 -
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-04-10
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.8)
+				- 138
+				- 054
+				- 277
+				- 540
+			- (pdf : p.9)
+				- 006
+	- ================
+	- amazon/sde_2022/amz_cs_basic.md
+		- 016 (again!)
+		- 027
+		- 031 (again!!!!)
+		- 034 (again!!!!)
+	- cheatsheet review
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+			- 1650
+		- bfs
+			- 133
+			- 815
+			- 322
+			- 1022
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+			- 045
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+			- 1166
+			- 146 (OrderedDict)
+			- 635
+		- hashmap
+			- 523
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 341
+			- 735
+		- array
+			- 041
+		- topology sorting
+			- 269 (not start! again)
+			- 444
+			- 054
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481 (again!!!)
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- binary search
+			- 162
+			- 1011
+		- 2 pointers
+			- 1099
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.251 -
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-04-09
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.8)
+				- 138
+				- 054
+				- 277
+				- 540
+			- (pdf : p.9)
+				- 006
+	- ================
+	- amazon/sde_2022/amz_cs_basic.md
+		- 016 (again!)
+		- 027
+		- 031 (again!!!!)
+		- 034 (again!!!!)
+	- cheatsheet review
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+			- 1650
+		- bfs
+			- 133
+			- 815
+			- 322
+			- 1022
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+			- 045
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+			- 1166
+			- 146 (OrderedDict)
+			- 635
+		- hashmap
+			- 523
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 341
+			- 735
+		- array
+			- 041
+		- topology sorting
+			- 269 (not start! again)
+			- 444
+			- 054
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- binary search
+			- 162
+			- 1011
+		- 2 pointers
+			- 1099
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.251 -
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-04-08
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.8)
+				- 138
+				- 054
+				- 277
+				- 540
+			- (pdf : p.9)
+				- 006
+	- ================
+	- amazon/sde_2022/amz_cs_basic.md
+		- 016 (again!)
+		- 027
+		- 031 (again!!!!)
+		- 034 (again!!!!)
+	- cheatsheet review
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+			- 1650
+		- bfs
+			- 133
+			- 815
+			- 322
+			- 1022
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+			- 045
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+			- 1166
+			- 146 (OrderedDict)
+			- 635
+		- hashmap
+			- 523
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 341
+			- 735
+		- array
+			- 670 (again!!!)
+			- 041
+			- 300 (again!!!)
+		- topology sorting
+			- 269 (not start! again)
+			- 444
+			- 054
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- binary search
+			- 162
+			- 1011
+		- 2 pointers
+			- 1099
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.251 -
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-04-04
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.8)
+				- 138
+				- 054
+				- 277
+				- 540
+			- (pdf : p.9)
+				- 006
+	- ================
+	- amazon/sde_2022/amz_cs_basic.md
+		- 016 (again!)
+		- 027
+		- 031 (again!!!!)
+		- 034 (again!!!!)
+	- cheatsheet review
+		- 2_pointers.md (non LC example OK)
+		- Collection.md (ok)
+		- Dijkstra.md (`not yet`)
+		- array.md (non LC example OK)
+		- backtrack.md (non LC example OK)
+		- bfs.md (non LC example OK)
+		- bit_manipulation.md (non LC example OK)
+		- brute_force.md (ok)
+		- bst.md (non LC example OK)
+		- design.md (non LC example OK)
+		- dfs.md (non LC example OK)	
+		- binary_search.md  (non LC example OK)
+		- binary_tree.md (non LC example OK)
+		- graph.md (non LC example OK)
+		- greedy.md (non LC example OK)
+		- hash_map.md (non LC example OK)
+		- heap.md (non LC example OK)
+		- intervals.md (non LC example OK)
+		- linked_list.md (non LC example OK)
+		- math.md (non LC example OK)
+		- n_sum.md (non LC example OK)
+		- palindrome.md
+		- prefix_sum.md (non LC example OK)
+		- python_trick.md (non LC example OK)
+		- queue.md (non LC example OK)
+		- recursion.md (OK)
+		- scanning_line.md (OK)
+		- set.md (OK)
+		- sliding_window.md (non LC example OK)
+		- sort.md (OK)
+		- stack.md (OK)
+		- string.md (non LC example OK)
+		- topology_sorting.md (non LC example OK)
+		- tree.md (non LC example OK)
+		- trie.md (non LC example OK)
+		- union_find.md
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+			- 1650
+		- bfs
+			- 133
+			- 815
+			- 322
+			- 1022
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+			- 045
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+			- 1166
+			- 146 (OrderedDict)
+			- 635
+		- hashmap
+			- 523
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 341
+			- 735
+		- array
+			- 670
+			- 041
+			- 300
+		- topology sorting
+			- 269 (not start! again)
+			- 444
+			- 054
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- binary search
+			- 162
+			- 1011
+		- 2 pointers
+			- 1099
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.251 -
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-04-02
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.8)
+				- 138
+				- 054
+				- 277
+				- 540
+			- (pdf : p.9)
+				- 006
+	- ================
+	- amazon/sde_2022/amz_cs_basic.md
+		- 016 (again!)
+		- 027
+		- 031 (again!!!!)
+		- 034 (again!!!!)
+	- cheatsheet review
+		- 2_pointers.md (non LC example OK)
+		- Collection.md (ok)
+		- Dijkstra.md
+		- array.md (non LC example OK)
+		- backtrack.md (non LC example OK)
+		- bfs.md (non LC example OK)
+		- bit_manipulation.md (non LC example OK)
+		- brute_force.md (ok)
+		- bst.md (non LC example OK)
+		- design.md (non LC example OK)
+		- dfs.md (non LC example OK)	
+		- binary_search.md  (non LC example OK)
+		- binary_tree.md (non LC example OK)
+		- graph.md (non LC example OK)
+		- greedy.md (non LC example OK)
+		- hash_map.md (non LC example OK)
+		- heap.md (non LC example OK)
+		- intervals.md (non LC example OK)
+		- linked_list.md (non LC example OK)
+		- math.md (non LC example OK)
+		- n_sum.md (non LC example OK)
+		- palindrome.md
+		- prefix_sum.md (non LC example OK)
+		- python_trick.md
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+			- 1650
+		- bfs
+			- 133
+			- 815
+			- 322
+			- 1022
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+			- 045
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+			- 1166
+			- 146 (OrderedDict)
+			- 635
+		- hashmap
+			- 523
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 341
+			- 735
+		- array
+			- 670
+			- 041
+			- 300
+		- topology sorting
+			- 269 (not start! again)
+			- 444
+			- 054
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- binary search
+			- 162
+			- 1011
+		- 2 pointers
+			- 1099
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.251 -
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-04-01
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.8)
+				- 138
+				- 054
+				- 277
+				- 540
+			- (pdf : p.9)
+				- 006
+	- ================
+	- AMZ review
+		- 
+	- cheatsheet review
+		- 2_pointers.md (non LC example OK)
+		- Collection.md (ok)
+		- Dijkstra.md
+		- array.md (non LC example OK)
+		- backtrack.md (non LC example OK)
+		- bfs.md (non LC example OK)
+		- bit_manipulation.md (non LC example OK)
+		- brute_force.md (ok)
+		- bst.md (non LC example OK)
+		- design.md (non LC example OK)
+		- dfs.md (non LC example OK)	
+		- binary_search.md  (non LC example OK)
+		- binary_tree.md (non LC example OK)
+		- graph.md (non LC example OK)
+		- greedy.md (non LC example OK)
+		- hash_map.md (non LC example OK)
+		- heap.md
+	- ================ 
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+			- 1650
+		- bfs
+			- 133
+			- 815
+			- 322
+			- 1022
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+			- 045
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+			- 1166
+			- 146 (OrderedDict)
+			- 635
+		- hashmap
+			- 523
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 341
+			- 735
+		- array
+			- 670
+			- 041
+			- 300
+		- topology sorting
+			- 269 (not start! again)
+			- 444
+			- 054
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- binary search
+			- 162
+			- 1011
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.251 -
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-31
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.8)
+				- 138
+				- 054
+				- 277
+				- 540
+			- (pdf : p.9)
+				- 006
+	- ================
+	- AMZ review
+		- 
+	- cheatsheet review
+		- 2_pointers.md (non LC example OK)
+		- Collection.md (ok)
+		- Dijkstra.md
+		- array.md (non LC example OK)
+		- backtrack.md (non LC example OK)
+		- bfs.md (non LC example OK)
+		- binary_search.md  (non LC example OK)
+		- binary_tree.md (non LC example OK)
+		- bit_manipulation.md (non LC example OK)
+		- brute_force.md
+	- ================ 
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+			- 1650
+		- bfs
+			- 133
+			- 815
+			- 322
+			- 1022
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+			- 045
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+			- 1166
+			- 146 (OrderedDict)
+		- hashmap
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 341
+			- 735
+		- array
+			- 670
+			- 041
+		- topology sorting
+			- 269 (not start! again)
+			- 444
+			- 054
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- binary search
+			- 162
+			- 1011
+			- 875 (ok, but again!)
+		- backtrack
+			- 131 (AGAIN!!!!)
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.251 -
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-30
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.8)
+				- 138
+				- 054
+				- 277
+				- 540
+			- (pdf : p.9)
+				- 1603 (ok)
+				- 006
+	- ================
+	- AMZ review
+		- 
+	- cheatsheet review
+		- 2_pointers.md (non LC example OK)
+		- Collection.md (ok)
+		- Dijkstra.md
+		- array.md (non LC example OK)
+		- backtrack.md
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+			- 1650
+		- bfs
+			- 133
+			- 815
+			- 322
+			- 1022
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+			- 045
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+			- 1166
+			- 146 (OrderedDict)
+		- hashmap
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 341
+			- 735
+		- array
+			- 670
+			- 041
+		- topology sorting
+			- 269 (not start! again)
+			- 444
+			- 054
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449 (again!)
+		- string
+			- 482 (ok)
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+			- 2009
+			- 1889
+		- backtrack
+			- 131
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.251 -
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-29
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.8)
+				- 663 (again!!)
+				- 236 (again!!)
+				- 347 (ok)
+				- 1963 (ok!)
+				- 138
+				- 054
+				- 277
+				- 540
+			- (pdf : p.9)
+				- 1603
+				- 006
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+			- 1650
+		- bfs
+			- 133
+			- 815
+			- 322
+			- 1022
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+			- 045
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+			- 1166
+		- hashmap
+			- 525  (OK!!!)
+			- 560  (OK!!!)
+			- 1248 (OK, BUT AGAIN!!!)
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 341
+			- 735
+		- array
+			- 670
+			- 041
+		- topology sorting
+			- 269 (not start! again)
+			- 444
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- string
+			- 482
+			- 696 (again)
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+			- 2009
+			- 1889
+		- backtrack
+			- 131
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.251 -
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-28
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.8)
+				- 663
+				- 236
+				- 347
+				- 1963
+				- 138
+				- 054
+				- 277
+				- 540
+			- (pdf : p.9)
+				- 1603
+				- 006
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+		- bfs
+			- 133
+			- 815
+			- 322
+			- 1022
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+			- 045
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+			- 1166
+		- hashmap
+			- 525
+			- 560
+			- 1248 (todo !!!)
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 341
+			- 735
+		- array
+			- 670
+			- 041
+		- topology sorting
+			- 269 (not start! again)
+			- 444
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168 (ok, again!)
+		- string
+			- 482
+			- 696 (again)
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+			- 2009
+			- 1889
+		- backtrack
+			- 131
+		- sort
+			- 969 (again!!!)
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.251 -
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-27
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.8)
+				- 663
+				- 236
+				- 347
+				- 1963
+				- 138
+				- 054
+				- 277
+				- 540
+			- (pdf : p.9)
+				- 1603
+				- 006
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+		- bfs
+			- 133
+			- 815
+			- 322
+			- 1022
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+			- 1963 (OK, again!)
+			- 045
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+			- 1166
+		- hashmap
+			- 525
+			- 560
+			- 1248 (todo !!!)
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 341
+			- 735
+			- 227 (ok!!!)
+		- array
+			- 670
+			- 041
+		- topology sorting
+			- 269 (not start! again)
+			- 444
+			- 207 (ok!!)
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+			- 504 (OK)
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+			- 2009
+			- 1889
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.251 -
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-26
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.8)
+				- 663
+				- 45 (not start, again!!)
+				- 236
+				- 347
+				- 1963
+				- 138
+				- 054
+				- 277
+				- 540
+			- (pdf : p.9)
+				- 1603
+				- 006
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+		- bfs
+			- 227
+			- 133
+			- 815
+			- 322
+			- 1022
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+			- 1963
+			- 045
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+			- 1166
+		- hashmap
+			- 525
+			- 560
+			- 1248 (todo !!!)
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 341
+			- 1209 (ok!!!!)
+			- 1047 (ok!!!)
+		- array
+			- 670
+			- 041
+		- topology sorting
+			- 269 (not start! again)
+			- 207
+			- 444
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+			- 504
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+			- 2009
+			- 1889
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.251 -
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-25
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.8)
+				- 015 (ok, good basic)
+				- 020 (ok)
+				- 733 (ok)
+				- 663
+				- 238
+				- 45
+				- 236
+				- 347
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+		- bfs
+			- 227
+			- 133
+			- 815
+			- 322
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+			- 1963
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 525
+			- 560
+			- 1248 (todo !!!)
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 341
+			- 1209
+			- 1047
+		- array
+			- 670
+			- 041
+		- topology sorting
+			- 269 (not start! again)
+			- 207
+			- 444
+		- 2 pointers
+			- 163
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+			- 504
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+			- 2009
+			- 1889
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.251 -
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-23
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.7)
+				- 025 (again!)
+			- (pdf : p.8)
+				- 015
+				- 135 (again, not start)
+				- 020
+				- 733
+				- 663
+				- 1000 (not start)
+				- 238
+				- 45
+				- 236
+				- 347
+				- 1963 (again)
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+		- bfs
+			- 227
+			- 133
+			- 815
+			- 322
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+			- 1963
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 525
+			- 560
+			- 1248 (todo !!!)
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 341
+		- array
+			- 670
+			- 041
+		- topology sorting
+			- 269 (not start! again)
+			- 207
+			- 444
+		- 2 pointers
+			- 163
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+			- 2009
+			- 1889
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.251 -
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-20
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.7)
+				- 025
+				- 269
+				- 1889 (again, not start)
+				- 403 (again, not start)
+			- (pdf : p.8)
+				- 015
+				- 135
+				- 020
+				- 733
+				- 663
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+		- bfs
+			- 227
+			- 133
+			- 815
+			- 322
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 525
+			- 560
+			- 1248 (todo !!!)
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 341
+		- array
+			- 670
+			- 041
+			- 080 (again!!)
+		- topology sorting
+			- 269 (not start! again)
+			- 207
+			- 444
+		- 2 pointers
+			- 163
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+			- 2009
+			- 1889
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.251 -
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-19
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.7)
+				- 227 (AGAIN!!!)
+				- 1312 (not start)
+				- 2009 (again!)
+				- 895 (again!!)
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+		- bfs
+			- 227
+			- 133
+			- 815
+			- 322
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 525
+			- 560
+			- 1248 (todo !!!)
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 341
+			- 227 (again)
+			- 224 (again)
+		- array
+			- 670
+			- 041
+			- 080 (again!!)
+		- topology sorting
+			- 269 (not start! again)
+			- 207
+			- 444
+		- 2 pointers
+			- 163
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+			- 895
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+			- 2009
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- LC basic:
+		- know time, space complexity on ALL main data structure, algorithm
+			- avg
+			- best, worst
+			- implementation
+		- know tradeoff on why choose DS a, algorithm b, but not DS c, algorithm d...
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.251 -
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-18
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.7)
+				- 227
+				- 1312
+				- 2009
+				- 895
+				- 025
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+		- bfs
+			- 227
+			- 133
+			- 815
+			- 322
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 525
+			- 560
+			- 1248 (todo !!!)
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+			- 041
+		- topology sorting
+			- 269 (not start! again)
+			- 207
+			- 444
+		- 2 pointers
+			- 163
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.213 - 251
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-17
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.7)
+				- 165 (ok)
+				- 017 (ok)
+				- 227
+				- 1312
+				- 2009
+				- 895
+				- 025
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+		- bfs
+			- 227
+			- 133
+			- 815
+			- 322
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 525
+			- 560
+			- 1248
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+			- 041
+		- topology sorting
+			- 269 (not start! again)
+			- 207
+			- 444
+		- 2 pointers
+			- 163
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.213 - 251
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-16
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.7)
+				- 165
+				- 017
+				- 227
+				- 041 (again!!!!)
+				- 980 (again, not start)
+				- 121 (again!)
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+			- 980
+		- bfs
+			- 227
+			- 133
+			- 815
+			- 322
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 525
+			- 560
+			- 1248
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 143 (AGAIN!!!!!)
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+			- 041
+		- topology sorting
+			- 269 (not start! again)
+			- 207
+			- 444
+		- 2 pointers
+			- 163
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.213 - 251
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-14
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.7)
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+		- bfs
+			- 227
+			- 133
+			- 815
+			- 322
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 525
+			- 560
+			- 1248
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 143 (OK, AGAIN!!!)
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.203 - 213
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+					- API
+						- GET, POST with auth_token
+					- chatting system
+						- client-server prototype
+							- HTTP
+							- Polling (輪詢)
+							- Long polling (長輪詢)
+							- webSocket
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-13
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.7)
+				- 003 (ok, but again!!!!)
+				- 140 (ok!)
+				- 165
+				- 017
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+		- bfs
+			- 227
+			- 133
+			- 815
+			- 322
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 525
+			- 560
+			- 1248
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 143
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.179 - 203
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+					- API
+						- GET, POST with auth_token
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-12
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.6)
+				- 815 (ok, again)
+				- 1972 (ok)
+			- (pdf : p.7)
+				- 297 (again!!!!)
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+			- 297
+			- 449
+		- bfs
+			- 227
+			- 133
+			- 815
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 525
+			- 560
+			- 1248
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 143
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.145 - 179
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-11
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.6)
+				- 669 (ok, but again)
+				- 1353 (again!)
+				- 1923 (not start)
+				- 330 (again)
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- bfs
+			- 227
+			- 133
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 525
+			- 560
+			- 1248
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 210 (Topological Sort)
+			- 207 (OK!, Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 143
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+			- 1353
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- scanning line
+			- 2021 (ok, but again!!!)
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.131 - 145
+					- Cassandra
+						- SSTable
+						- Bloom filter
+					- base 62
+						- 11570 (10 based) = [2,T,X] (62 based)
+
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-10
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.6)
+				- 002 (ok)
+				- 53 (again! dp basic)
+				- 91 (again! dp)
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- bfs
+			- 227
+			- 133
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 525
+			- 560
+			- 1248
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- scanning line
+			- 2021
+		- dp
+			- 053
+			- 091
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.121 - 131
+					- Cassandra
+						- SSTable
+						- Bloom filter
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-09
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.6)
+				- 694 (again!)
+				- 1915 (again, not start)
+				- 002
+				- 53
+				- 91
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- bfs
+			- 227
+			- 133
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 525
+			- 560
+			- 1248
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- scanning line
+			- 2021
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.109 - 121
+					- Cassandra
+						- SSTable
+						- Bloom filter
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-08
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.6)
+				- 1109 (again!)
+				- 545 (again)
+				- 2021 (again!!)
+				- 694
+				- 1915
+				- 002
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- bfs
+			- 227
+			- 133
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 525
+			- 560
+			- 1248
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- scanning line
+			- 2021
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.101 - 109
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-07
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.5)
+				- 207 (AGAIN!!! MUST)
+				- 155 (ok)
+				- 1135 (again)
+				- 1703 (again, not start)
+				- 992 (again, not start)
+			- (pdf : p.6)
+				- 1109
+				- 545
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- bfs
+			- 227
+			- 133
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 525
+			- 560
+			- 1248
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.95 - 101
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-06
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.5)
+				- 1248 (again!!!!)
+				- 828 (again!!)
+				- 023 (ok)
+				- 139 (again!!!!!)
+				- 1372 (again!!!)
+	- ================
+	- LC top 100 likes
+		- 032
+		- 034
+		- 041
+		- 045
+		- 062
+		- 064
+		- 072
+		- 084
+		- 085
+		- 096
+		- 101
+		- 114
+		- 221
+		- 337
+		- 416
+		- 437
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- bfs
+			- 227
+			- 133
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 525
+			- 560
+			- 1248
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- others
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read :
+			- read
+				- p.95 
+			- note
+				- p.1 - p.35
+		- review/note
+
+# 2022-03-05
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.4)
+				- 103 (ok)
+			- (pdf : p.5)
+				- 004 (ok, again)
+				- 1567 (ok, again!!!)
+				- 012 (ok, again!)
+				- 863 (AGAIN!!!!)
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- bfs
+			- 227
+			- 133
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 525
+			- 560
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- heap
+			- 703
+			- 239
+			- 264
+			- 1481
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 013 (ok, again!)
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- others
+		- prefix sum
+			- 926 (again!!!!!!)
+			- 370 (ok!!!!)
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-03-04
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.4)
+				- 909 (again)
+				- 1041 (again)
+				- 1339 (again!!)
+				- 0380 (ok)
+				- 1914 (again, not start)
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- bfs
+			- 133 (ok2, but again!!!)
+			- 227
+			- 133
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 036 (not start)
+			- 525
+			- 560
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- heap
+			- 295 (again!)
+			- 703
+			- 239
+			- 264
+			- 1481
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+			- 139 (again!!)
+			- 140 (ok!!)
+		- sort
+			- 969
+		- others
+			- 1342
+			- 1375 (again)
+		- prefix sum
+			- 926 (again!!!!)
+			- 370 (again!!!)
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-03-03
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.4)
+				- 1010 (ok, but again)
+				- 387 (ok)
+				- 767 (ok, but again!!)
+				- 079 (again!)
+				- 1275 (ok)
+				- 582 (again!!)
+				- 1896 (again, not start)
+				- 891 (again, not start)
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- bfs
+			- 133 (ok, but again!!!)
+			- 227
+			- 133
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 036 (not start)
+			- 525
+			- 560
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- heap
+			- 295 (again!)
+			- 703
+			- 239
+			- 264
+			- 1481
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+			- 139
+			- 140
+		- sort
+			- 969
+		- others
+			- 1342
+			- 1375 (again)
+		- prefix sum
+			- 926 (again!!!!)
+			- 370 (again!!!)
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-03-02
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.4)
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- bfs
+			- 133 (ok, but again!!!)
+			- 227
+			- 133
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 036 (not start)
+			- 525
+			- 560
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- heap
+			- 295 (again!)
+			- 703
+			- 239
+			- 264
+			- 1481
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+			- 139
+			- 140
+		- sort
+			- 969
+		- others
+			- 1342
+			- 1375 (again)
+		- prefix sum
+			- 926 (again!!!!)
+			- 370 (again!!!)
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-03-01
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.4)
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- bfs
+			- 133 (ok, but again!!!)
+			- 227
+			- 133
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 036 (not start)
+			- 525
+			- 560
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- heap
+			- 295 (again!)
+			- 703
+			- 239
+			- 264
+			- 1481
+		- trie
+			- 208
+			- 212
+			- 642
+		- bst
+			- 449
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- others
+			- 1342
+			- 1375 (again)
+		- prefix sum
+			- 926 (again!!!!)
+			- 370 (again!!!)
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+			- done
+				- stack.md
+				- queue.md
+				- array.md
+				- heap.md
+				- 2_pointers.md
+				- Collection.md
+				- math.md
+				- binary_search.md
+				- palindrome.md
+				- bit_manipulation.md
+				- string.md
+				- sort.md
+				- sliding_window.md
+				- scanning_line.md
+				- prefix_sum.md
+				- linked_list.md
+				- backtrack.md
+				- hash_map.md
+				- greedy.md
+				- bfs.md
+				- intervals.md
+				- python_trick.md
+			- ing
+				- n_sum.md
+				- graph.md
+				- dfs.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-28
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.3)
+				- 642 (again)
+				- 1597 (again, not start)
+				- 460 (again)
+				- 1481 (again)
+				- 049 (ok)
+			- (pdf : p.4)
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- bfs
+			- 133 (ok, but again!!!)
+			- 227
+			- 133
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+			- 460
+		- hashmap
+			- 036 (not start)
+			- 525
+			- 560
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+			- 019
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- heap
+			- 295 (again!)
+			- 703
+			- 239
+			- 264
+			- 1481
+		- trie
+			- 208
+			- 212
+			- 642
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- others
+			- 1342
+			- 1375 (again)
+		- prefix sum
+			- 926 (again!!!!)
+			- 370 (again!!!)
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+			- done
+				- stack.md
+				- queue.md
+				- array.md
+				- heap.md
+				- 2_pointers.md
+				- Collection.md
+				- math.md
+				- binary_search.md
+				- palindrome.md
+				- bit_manipulation.md
+				- string.md
+				- sort.md
+				- sliding_window.md
+				- scanning_line.md
+				- prefix_sum.md
+				- linked_list.md
+				- backtrack.md
+				- hash_map.md
+				- greedy.md
+				- bfs.md
+			- ing
+				- python_trick.md
+				- n_sum.md
+				- intervals.md
+				- graph.md
+				- dfs.md
+				- bst.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-27
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.3)
+				- 239 (again!!!!)
+				- 210
+				- 273 (passed)
+				- 994 (ok)
+				- 348 (ok)
+				- 735 (ok, again!)
+				- 295 (ok)
+				- 001 (ok)
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+			- 089 (ok, but again)
+			- 190 (again!!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- bfs
+			- 133 (ok, but again!!!)
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+			- 567
+			- 713
+			- 209
+			- 1151
+		- linked list
+			- 002
+			- 445
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- heap
+			- 295 (again!)
+			- 703
+			- 239
+			- 264
+		- trie
+			- 208
+			- 212
+		- math
+			- 168
+		- string
+			- 482
+			- 696
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+		- sort
+			- 969
+		- others
+			- 1342
+			- 1375 (again)
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+			- done
+				- stack.md
+				- queue.md
+				- array.md
+				- heap.md
+				- 2_pointers.md
+				- Collection.md
+				- math.md
+				- binary_search.md
+				- palindrome.md
+				- bit_manipulation.md
+				- string.md
+				- sort.md
+				- sliding_window.md
+			- ing
+				- hash_map.md
+				- scanning_line.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-26
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.2)
+				- 588 (again)
+				- 1730 (ok)
+			- (pdf : p.3)
+				- 42 (again)
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- bfs
+			- 133 (ok, but again!!!)
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 002
+			- 445
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- heap
+			- 295 (again!)
+			- 703
+			- 239
+			- 264
+		- trie
+			- 208
+			- 212
+		- math
+			- 168
+		- binary search
+			- 162
+			- 1011
+			- 410 (not start yet)
+			- 875
+		- backtrack
+			- 131
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+			- done
+				- stack.md
+				- queue.md
+				- array.md
+				- heap.md
+				- 2_pointers.md
+				- Collection.md
+				- math.md
+				- binary_search.md
+				- palindrome.md
+			- ing
+				- hash_map.md
+				- string.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-25
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.2)
+				- 1151 (again)
+				- 1167 (ok)
+				- 2104 (again)
+				- 212 (again!!!)
+				- 1648 (again!!, not start)
+				- 973 (ok)
+				- 1628 (again, not start)
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- bfs
+			- 133 (ok, but again!!!)
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 019 (OK, but again!!!!)
+			- 002
+			- 445
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- string
+			- 038
+		- heap
+			- 295 (again!)
+			- 703
+			- 239
+			- 264
+		- trie
+			- 208
+			- 212
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+			- done
+				- stack.md
+				- queue.md
+				- array.md
+				- heap.md
+				- 2_pointers.md
+			- ing
+				- hash_map.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-24
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.2)
+				- 907 (AGAIN!!)
+				- 252 (ok, again!)
+				- 253 (again!!!!)
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- bfs
+			- 133 (ok, but again!!!)
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 019
+			- 002
+			- 445
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+			- 080
+		- topology sorting
+			- 269 (not start! again)
+		- 2 pointers
+			- 163
+		- queue
+			- 346 (ok)
+		- heap
+			- 295 (again!)
+			- 703
+			- 239
+			- 264
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+			- done
+				- stack.md
+				- queue.md
+				- array.md
+				- heap.md
+				- 2_pointers.md
+			- ing
+				- hash_map.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-23
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.1)
+				- 1710 (ok, but again)
+				- 472 (ok, but again!!!)
+			- (pdf : p.2)
+				- 200 (ok)
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- bfs
+			- 133 (ok, but again!!!)
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+			- 239
+		- linked list
+			- 019
+			- 002
+			- 445
+		- stack
+			- 394
+			- 496
+			- 503
+			- 739
+			- 227
+			- 224
+			- 341
+		- array
+			- 670
+		- topology sorting
+			- 269 (not start! again)
+		- queue
+			- 346 (ok)
+		- heap
+			- 295 (again!)
+			- 703
+			- 239
+			- 264
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+			- done
+				- stack.md
+				- queue.md
+				- array.md
+				- heap.md
+			- ing
+				- hash_map.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-22
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.1)
+				- 370 (AGAIN!!!!)
+				- 56 (ok)
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+			- 393 again (not start)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- bfs
+			- 133 (ok, but again!!!)
+		- tree
+			- 094
+			- 144			
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+		- linked list
+			- 002
+			- 445
+		- stack
+			- 394
+			- 496
+			- 503
+			- 227
+		- topology sorting
+			- 269 (not start! again)
+		- queue
+			- 346 (ok)
+		- heap
+			- 295 (again!)
+			- 703
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-21
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.1)
+				- 1152 (again!!!)
+				- 1492 (ok, but again)
+				- 146 (ok, but again!!!)
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- dfs
+			- 652
+			- 490
+			- 079
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+		- linked list
+			- 002
+			- 445
+		- stack
+			- 394
+			- 496
+			- 503
+			- 227
+		- topology sorting
+			- 269 (not start! again)
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-20
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+	- ================
+	- LC (amz_, latest 6 months) :
+		- /LC-amazon-6-mointh.pdf
+			- (pdf : p.1)
+				- 828 (not start)
+				- 937 (ok, but again!!!)
+				- 1268 (again!!!)
+				- 926 (again, not start!!!)
+				- 696 (again, not start!!!)
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- dfs
+			- 652
+			- 490
+			- 079
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+		- sliding window
+			- 300
+			- 491
+			- 673
+		- linked list
+			- 002
+			- 445
+		- stack
+			- 394
+			- 496
+			- 503
+			- 227
+		- topology sorting
+			- 269 (not start! again)
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-19
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.2)
+				- 734 (ok, but again)
+				- 737 (again!!!)
+	- ================
+		- LC (amz_, latest 6 months) :
+			- /LC-amazon-6-mointh.pdf
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- dfs
+			- 652
+			- 490
+			- 079
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 130 (Union Find) (again!!)
+			- 261 (Union Find) 
+			- 547 (Union Find) (not start)
+			- 323 (Union Find) (not start)
+			- 210 (Topological Sort) not start)
+			- 207 (Topological Sort)
+			- 210 (Topological Sort)
+			- 743 (dijkstra) (not start)
+			- 787 (dijkstra) (not start)
+		- sliding window
+			- 300
+			- 491
+			- 673
+		- linked list
+			- 445
+		- stack
+			- 394
+			- 496
+			- 503
+			- 227
+		- topology sorting
+			- 269 (not start! again)
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-18
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- (pdf : p.1)
+				- 686 (again!!)
+			- (pdf : p.2)
+				- 298 (ok)
+	- ================
+		- LC (amz_, LC discuss sharing) : review
+			- https://leetcode.com/discuss/interview-question/1349954/Amazon-or-Bloomberg-or-Interview-questions-or-July-2020-July-2021
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- bfs
+			- 127 (ok, but again!!!)
+			- 126 (again)
+			- 133 (again !!!)
+		- dfs
+			- 652
+			- 490
+			- 079
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+			- 207
+			- 210
+		- sliding window
+			- 300
+			- 491
+			- 673
+		- linked list
+			- 206 (ok!)
+			- 445
+		- stack
+			- 394
+			- 496
+			- 503
+			- 227
+		- topology sorting
+			- 269 (not start! again)
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+			- (completed)
+			- (ing)
+				- dfs.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-17
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- 308 (again)
+			- 346 (ok)
+	- ================
+		- LC (appl_, LC discuss sharing)
+			- https://leetcode.com/discuss/interview-question/1367526/apple-uber-flipkart-swiggy-interview-questions-july-2020-july-2021
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- bfs
+			- 127
+			- 133
+		- dfs
+			- 652
+			- 490
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+			- 207
+			- 210
+		- sliding window
+			- 300
+			- 491
+			- 673
+		- linked list
+			- 445
+		- stack
+			- 394
+			- 496
+			- 503
+			- 227
+		- topology sorting
+			- 269 (not start! again)
+		- Review
+			- (OK)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+			- (completed)
+			- (ing)
+				- dfs.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-16
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- 681 (ok)
+			- 340 (again)
+			- 482 (ok!)
+	- ================
+		- LC (appl_, LC discuss sharing)
+			- https://leetcode.com/discuss/interview-question/1367526/apple-uber-flipkart-swiggy-interview-questions-july-2020-july-2021
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 2 pointers
+			- 080 (again!!!)
+		- math
+			- 413 (ok!)
+		- array
+			- 054 (again!!!)
+		- bfs
+			- 127
+			- 133
+		- dfs
+			- 652
+			- 490
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+			- 207
+			- 210
+		- sliding window
+			- 300
+			- 491
+			- 673
+		- linked list
+			- 445
+		- stack
+			- 394
+			- 496
+			- 503
+			- 227
+		- topology sorting
+			- 269
+		- Review
+			- (OK)
+			- 080 (AGAIN!!)
+			- 565 (not start!)
+			- 190 (not start!)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+			- (completed)
+			- (ing)
+				- dfs.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-15
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+			- 388 (again!!)
+			- 683 (not start)
+	- ================
+		- LC (appl_, LC discuss sharing)
+			- https://leetcode.com/discuss/interview-question/1367526/apple-uber-flipkart-swiggy-interview-questions-july-2020-july-2021
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 2 pointers
+			- 080
+		- math
+			- 413
+		- array
+			- 054
+		- bfs
+			- 127
+			- 133
+		- dfs
+			- 652
+			- 490
+		- greedy
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+			- 207
+			- 210
+		- sliding window
+			- 300
+			- 491
+			- 673
+		- linked list
+			- 445
+		- stack
+			- 394
+			- 496
+			- 503
+			- 227
+		- topology sorting
+			- 269
+		- Review
+			- (OK)
+			- 080 (AGAIN!!)
+			- 565 (not start!)
+			- 190 (not start!)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+			- (completed)
+			- (ing)
+				- dfs.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-14
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+	- ================
+		- LC (appl_, LC discuss sharing)
+			- https://leetcode.com/discuss/interview-question/1367526/apple-uber-flipkart-swiggy-interview-questions-july-2020-july-2021
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 2 pointers
+			- 080
+		- math
+			- 413
+		- array
+			- 054
+		- bfs
+			- 127
+			- 133
+		- dfs
+			- 652
+			- 490
+		- greedy
+			- 767 (ok, but agiain!!)
+			- 358 (again, not start!)
+				- check `heappush, heappop`
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+			- 207
+			- 210
+		- sliding window
+			- 300
+			- 491
+			- 673
+		- linked list
+			- 445
+		- stack
+			- 394
+			- 496
+			- 503
+			- 227
+		- topology sorting
+			- 269
+		- Review
+			- (OK)
+			- 080 (AGAIN!!)
+			- 128 (ok!, but can again)
+			- 565 (not start!)
+			- 190 (not start!)
+			- =============
+			- (ing)
+		- SQL
+		- cheatsheet review
+			- (completed)
+			- (ing)
+				- dfs.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-13
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+	- ================
+		- LC (appl_, LC discuss sharing)
+			- https://leetcode.com/discuss/interview-question/1367526/apple-uber-flipkart-swiggy-interview-questions-july-2020-july-2021
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 2 pointers
+			- 080
+		- math
+			- 413
+		- array
+			- 054
+		- bfs
+			- 127
+			- 133
+		- dfs
+			- 652
+			- 490
+		- greedy
+			- 767
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+			- 207
+			- 210
+		- sliding window
+			- 300
+			- 491
+			- 673
+		- linked list
+			- 445
+		- stack
+			- 394
+			- 496
+			- 503
+			- 227
+		- topology sorting
+			- 269
+		- Review
+			- (OK)
+			- 080 (AGAIN!!)
+			- 128 (ok!, but can again)
+			- 207 (ok, but again!)
+			- 210 (ok, but again!)
+			- 111 (ok)
+			- 104 (ok)
+			- =============
+			- (ing)
+			- 565 (not start!)
+			- 190 (not start!)
+		- SQL
+		- cheatsheet review
+			- (completed)
+			- (ing)
+				- dfs.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-11
+- DOING:
+	- LC (goog_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf
+	- ================
+		- LC (appl_, LC discuss sharing)
+			- https://leetcode.com/discuss/interview-question/1367526/apple-uber-flipkart-swiggy-interview-questions-july-2020-july-2021
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 2 pointers
+			- 080
+		- array
+			- 054
+		- bfs
+			- 127
+			- 133
+		- dfs
+			- 652
+		- greedy
+			- 767
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+			- 207
+			- 210
+		- sliding window
+			- 300
+			- 491
+			- 673
+		- linked list
+			- 445
+		- stack
+			- 394
+			- 496
+			- 503
+			- 227
+		- topology sorting
+			- 269
+		- Review
+			- 054
+			- 525
+			- 523
+			- 026
+			- 080 (AGAIN!!)
+			- 257
+			- 011
+			- 128 (ok!, but can again)
+		- SQL
+		- cheatsheet review
+			- (completed)
+			- (ing)
+				- dfs.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-10
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+			- OK
+				- 565 (ok, but again!!)
+	- ================
+		- LC (LC discuss sharing)
+			- https://leetcode.com/discuss/interview-question/1367526/apple-uber-flipkart-swiggy-interview-questions-july-2020-july-2021
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 2 pointers
+			- 080
+		- array
+			- 054
+		- bfs
+			- 127
+			- 133
+		- dfs
+			- 652
+		- greedy
+			- 767
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+			- 207
+			- 210
+		- sliding window
+			- 300
+			- 491
+			- 673
+		- linked list
+			- 445
+		- stack
+			- 394
+			- 496
+			- 503
+			- 227
+		- topology sorting
+			- 269
+		- Review
+			- 670
+			- 406
+			- 1010
+		- SQL
+		- cheatsheet review
+			- (completed)
+			- (ing)
+				- dfs.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- 2nd read : note
+			- p.1 - p.35
+		- review/note
+
+# 2022-02-08
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+			- (pdf : p.2)
+				- 269
+				- 565
+	- ================
+		- LC (LC discuss sharing)
+			- https://leetcode.com/discuss/interview-question/1367526/apple-uber-flipkart-swiggy-interview-questions-july-2020-july-2021
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 2 pointers
+			- 080
+		- array
+			- 054
+		- bfs
+			- 127
+			- 133
+		- dfs
+			- 652
+		- greedy
+			- 767
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+			- 207
+			- 210
+		- sliding window
+			- 300
+			- 491
+			- 673
+		- linked list
+			- 445
+		- stack
+			- 394
+			- 496
+			- 503
+			- 227
+		- SQL
+		- cheatsheet review
+			- (completed)
+				- Collection.md
+				- 2_pointers.md
+				- array.md
+				- hash_map.md
+				- string.md
+				- n_sum.md
+				- queue.md
+				- stack.md
+				- greedy.md
+				- bfs.md
+			- (ing)
+				- dfs.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- review/note
+
+# 2022-02-07
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+			- (pdf : p.2)
+				- 269
+				- 257 (AGAIN!!!)
+				- 565
+	- ================
+		- LC (LC discuss sharing)
+			- https://leetcode.com/discuss/interview-question/1367526/apple-uber-flipkart-swiggy-interview-questions-july-2020-july-2021
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- 2 pointers
+			- 080
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- sliding window
+			- 300
+			- 491
+			- 673
+		- SQL
+		- cheatsheet review
+			- (completed)
+				- Collection.md
+				- 2_pointers.md
+			- (ing)
+				- array.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- review/note
+
+# 2022-02-06
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+			- (pdf : p.2)
+				- 69 (ok)
+				- 207 (AGAIN!!!)
+				- 210 (AGAIN!!!)
+				- 269
+				- 257
+	- ================
+		- LC (LC discuss sharing)
+			- https://leetcode.com/discuss/interview-question/1367526/apple-uber-flipkart-swiggy-interview-questions-july-2020-july-2021
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- union find
+			- 721
+			- 547
+		- design
+			- all remain (not start)
+		- greedy
+		- hashmap
+			- 036 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- sliding window
+			- 300
+			- 491
+			- 673
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- review/note
+
+# 2022-02-04
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+			- (pdf : p.2)
+				- 111 (ok, but again!)
+				- 118 (ok)
+				- 165 (ok)
+	- ================
+		- LC (LC discuss sharing)
+			- https://leetcode.com/discuss/interview-question/1367526/apple-uber-flipkart-swiggy-interview-questions-july-2020-july-2021
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- union find
+			- 721
+			- 547
+		- intervals
+			- 57 (ok, but AGAIN !!!)
+			- 56 (ok !!!)
+		- design
+			- all remain (not start)
+		- greedy
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (ok, but again)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- sliding window
+			- 300
+			- 491
+			- 673
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.363 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- review/note
+
+# 2022-02-01
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+			- (pdf : p.2)
+				- 215 (ok)
+				- 104 (ok)
+	- ================
+		- LC (LC discuss sharing)
+			- https://leetcode.com/discuss/interview-question/1367526/apple-uber-flipkart-swiggy-interview-questions-july-2020-july-2021
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- union find
+			- 721
+			- 547
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.353 - P.363
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- review/note
+
+# 2022-01-31
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+			- (pdf : p.2)
+				- 151 (ok)
+				- 190 (again!)
+	- ================
+		- LC (LC discuss sharing)
+			- https://leetcode.com/discuss/interview-question/1367526/apple-uber-flipkart-swiggy-interview-questions-july-2020-july-2021
+	- ================
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.353 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- review/note
+
+# 2022-01-30
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+			- (pdf : p.1)
+				- 236 (again!)
+				- 235 (again!)
+			- (pdf : p.2)
+				- 021 (ok)
+				- 007 (ok)
+	- ================ 
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+			- 1197 (ok, but again)
+			- 1756 (again)
+			- 1472 (again)
+			- 1268 (again !!!!)
+		- greedy
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.353 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- review/note
+
+# 2022-01-28
+- DOING:
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.12)
+	- ================ 
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+			- (ordering)
+			- (completed)
+			- 1159
+			- (todo)
+			- https://quip.com/2gwZArKuWk7W : The Best Medium-Hard Data Analyst SQL Interview Questions 
+		- cheatsheet review
+			- (completed)
+			- heap.md
+			- binary_tree.md
+			- bfs.md
+			- dfs.md
+			- tree.md
+			- linked_list.md
+			- (todo)
+			- bit_manipulation.md
+			- trie.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.353 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- review/note
+
+# 2022-01-27
+- DOING:
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.12)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+		- Premium questions : (OK)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+			- (ordering)
+			- (completed)
+			- 1083 (again)
+			- 1084
+			- 1097
+			- 1098
+			- 1112
+			- 1126
+			- 1127
+			- 1132 (ok, but again)
+			- 1141
+			- 1158
+			- 1159
+			- (todo)
+			- https://quip.com/2gwZArKuWk7W : The Best Medium-Hard Data Analyst SQL Interview Questions 
+		- cheatsheet review
+			- (completed)
+			- Collection.md
+			- backtrack.md
+			- greedy.md
+			- string.md
+			- brute_force.md
+			- sorting_string.md
+			- sort.md
+			- sliding_window.md
+			- queue.md
+			- stack.md
+			- (todo)
+			- bfs.md
+			- binary_tree.md
+			- bit_manipulation.md
+			- bst.md
+			- dfs.md
+			- heap.md
+			- tree.md
+			- trie.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.353 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- review/note
+
+# 2022-01-26
+- DOING:
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.12)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+		- Premium questions : (OK)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+			- (ordering)
+			- (completed)
+			- 0176
+			- 0178
+			- 0183
+			- 0184
+			- 0185
+			- 0262
+			- 0512
+			- 0534
+			- 0550
+			- 578
+			- 579
+			- 580
+			- 597
+			- 602
+			- 603 (again!)
+			- 627
+			- 1045
+			- 1076
+			- 1077
+			- 1082 (again)
+			- (todo)
+			- 1083 (again)
+			- 1084
+			- 1097
+			- 1098
+			- 1112
+			- 1126
+			- 1127
+			- 1132 (ok, but again)
+			- 1141
+			- 1158
+			- 1159
+		- cheatsheet review
+			- 2_pointers.md (ok)
+			- hash_map.md (ok)
+			- array.md (ok)
+			- Collection.md
+			- backtrack.md
+			- bfs.md
+			- binary_tree.md
+			- bit_manipulation.md
+			- brute_force.md
+			- bst.md
+			- dfs.md
+			- greedy.md
+			- heap.md
+			- queue.md
+			- sliding_window.md
+			- sort.md
+			- sorting_string.md
+			- stack.md
+			- string.md
+			- tree.md
+			- trie.md
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.353 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- review/note
+
+# 2022-01-25
+- DOING:
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.12)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+		- Premium questions : (OK)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+		- cheatsheet review
+			- 2_pointers.md (ok)
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.353 -
+	- system design book - an insider's guide (GOTOP)
+		- 1st read (ok)
+		- review/note
+
+# 2022-01-24
+- DOING:
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.12)
+				- 645 (ok)
+				- 791 (ok)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+		- Premium questions : (OK)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.353 -
+	- system design book - an insider's guide (GOTOP)
+		- p.299 - end
+
+# 2022-01-23
+- DOING:
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.12)
+				- 459 (ok)
+				- 640 (ok)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+		- Premium questions : (OK)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- Tree
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.353 -
+	- system design book - an insider's guide (GOTOP)
+		- p.294 - p.299
+
+# 2022-01-22
+- DOING:
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.11)
+				- 355
+				- 537 (ok)
+			- (pdf : p.12)
+				- 553 (ok)
+				- 606 (ok, but again)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+		- Premium questions : (OK)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- Tree
+			- 662 (ok!)
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 295 (again!)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.353 -
+	- system design book - an insider's guide (GOTOP)
+		- p.287 - p.294
+
+# 2022-01-21
+- DOING:
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.11)
+				- 355
+				- 119 (ok)
+				- 536 (again!!)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+		- Premium questions : (OK)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- Tree
+			- 662 (*not start*)
+			- 662
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.353 -
+	- system design book - an insider's guide (GOTOP)
+		- p.284 - p.287
+
+# 2022-01-20
+- DOING:
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.11)
+				- 355
+				- 532 (ok, but again!!!)
+				- 155
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+		- Premium questions : (OK)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- Tree
+			- 662 (*not start*)
+			- 662
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.353 -
+	- system design book - an insider's guide (GOTOP)
+		- p.281 - p.284
+
+# 2022-01-19
+- DOING:
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.11)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+		- Premium questions : (OK)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508 (again!!!)
+			- 776 (again)
+			- 572 (ok!)
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+		- hashmap
+			- 525 (ok, but AGAIN!)
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.353 -
+	- system design book - an insider's guide (GOTOP)
+		- p.272 - p.281
+
+# 2022-01-18
+- DOING:
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.11)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+		- Premium questions : (OK)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+			- 572
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.353 -
+	- system design book - an insider's guide (GOTOP)
+		- p.268 - p.272
+
+# 2022-01-17
+- DOING:
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.11)
+				- 189 (ok)
+				- 617 (ok, but again)
+				- 355
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+		- Premium questions : (OK)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+			- 572
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.353 -
+	- system design book - an insider's guide (GOTOP)
+		- p.260 - p.268
+
+# 2022-01-16
+- DOING:
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.11)
+				- 204 (ok)
+				- 414 (ok)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+		- Premium questions : (OK)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+			- 572
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+		- hashmap
+			- 036 (not start)
+			- 560 (OK, but AGAIN!!!!)
+		- heap
+			- 355 (not start)
+			- 703 (AGAIN!!)
+			- 264 (ok, but again)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.349 - p.353
+	- system design book - an insider's guide (GOTOP)
+		- p.251 - p.260
+
+# 2022-01-15
+- DOING:
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.10)
+				- 538 (ok!)
+				- 089 (AGAIN)
+				- 451 (ok)
+			- (pdf : p.11) 
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+		- Premium questions : (OK)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+			- 572
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 134 (OK, BUT start)
+		- hashmap
+			- 036 (not start)
+			- 1010 (ok, but AGAIN!!!)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.349
+	- system design book - an insider's guide (GOTOP)
+		- p.243 - p.251
+
+# 2022-01-14
+- DOING:
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.10)
+				- 538 (ok, but again)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+		- Premium questions : (OK)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+			- 572
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 134 (not start)
+			- 647 (ok!)
+		- hashmap
+			- 036 (not start)
+			- 1010 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.349
+	- system design book - an insider's guide (GOTOP)
+		- p.229 - p.243
+
+# 2022-01-13
+- DOING:
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.10)
+				- 008 (ok, but again)
+				- 538
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+		- Premium questions : (OK)
+			- https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/ LC 323 (not start)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+			- 572
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 134 (not start)
+		- hashmap
+			- 036 (not start)
+			- 1010 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+			- 323 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.349
+	- system design book - an insider's guide (GOTOP)
+		- p.217 - p.229
+
+# 2022-01-12
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.10)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+		- 725 (ok!!!)
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+		- Premium questions : (ing)
+			- https://leetcode.com/problems/max-stack/ LC 716 (again)
+			- https://leetcode.com/problems/missing-ranges/ LC 136 (again)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+			- 572
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 134 (not start)
+			- 767 (ok, again!!)
+			- 621 (ok, again)
+		- hashmap
+			- 036 (not start)
+			- 1010 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+			- 210 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.349
+	- system design book - an insider's guide (GOTOP)
+		- p.203 - p.217
+
+# 2022-01-11
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.10)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+		- 725 (ok, but again!!!)
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+		- Premium questions : (ing)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+			- 572
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 134 (not start)
+			- 767 (not start)
+			- 621
+		- hashmap
+			- 036 (not start)
+			- 1010 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+		- stack
+			- 227 (ok, but again!)
+			- 224 (ok, but again!)
+		- graph
+			- 210 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.349
+	- system design book - an insider's guide (GOTOP)
+		- p.195 - p.203
+
+# 2022-01-10
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.10)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+		- 725 (ok, but again!!!)
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+		- Premium questions : (ing)
+			- https://leetcode.com/problems/employee-free-time/ LC 759 (again)
+			- https://leetcode.com/problems/first-unique-number/ LC 1429 (again)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- **back track**
+			- 077 (ok, AGAIN !!!!)
+			- 046 (ok!)
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+			- 572
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 134 (not start)
+			- 767 (not start)
+			- 621
+		- hashmap
+			- 036 (not start)
+			- 1010 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+		- stack
+			- 227 (not start)
+			- 224 (not start)
+		- sort
+			- 969 (OK! but again!)
+			- 128 (ok, but again!!!!)
+		- graph
+			- 210 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.349
+	- system design book - an insider's guide (GOTOP)
+		- p.189 - p.195
+
+# 2022-01-09
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.10)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+		- 725 (ok, but again!!!)
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (OK)
+			- https://leetcode.com/problems/shortest-path-to-get-all-keys/ LC 864 (not start)
+		- Premium questions : (ing)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- **back track**
+			- 077 (AGAIN !!!!)
+			- 046
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+			- 572
+		- binary search
+			- 658 (ok!)
+		- String
+			- 005 (ok, but again !!!)
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- union find
+		- quick sort
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 134 (not start)
+			- 767 (not start)
+			- 621
+		- hashmap
+			- 036 (not start)
+			- 1010 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+		- stack
+			- 227 (not start)
+			- 224 (not start)
+		- sort
+			- 969 (not start)
+		- BFS
+			- 210 (not start)
+		- DFS
+			- 128
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.349
+	- system design book - an insider's guide (GOTOP)
+		- p.181 - p.189
+
+# 2022-01-08
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.10)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+		- 725 (ok, but again!!!)
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (ing)
+		- https://leetcode.com/problems/erect-the-fence/ LC 587 (not start)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- **back track**
+			- 077 (AGAIN !!!!)
+			- 046
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+		- binary search
+			- 875  (ok, but again!)
+			- 658
+		- String
+			- 005 (again !!!)
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- union find
+		- quick sort
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 646 (ok, but again !!)
+			- 435 (ok!!!)
+			- 055 (ok, but again !!)
+			- 134 (not start)
+			- 767 (not start)
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+		- stack
+			- 227 (not start)
+			- 224 (not start)
+		- sort
+			- 969 (not start)
+		- BFS
+			- 210 (not start)
+		- DFS
+			- 128
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.349
+	- system design book - an insider's guide (GOTOP)
+		- p.171 - p.181
+
+# 2022-01-07
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.10)
+				- 508 (ok)
+				- 663 (ok)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+		- 725 (ok, but again!!!)
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (ing)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- **back track**
+			- 077 (AGAIN !!!!)
+			- 046
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+		- binary search
+			- 278  (ok)
+			- 035  (ok)
+			- 875  (ok, but again!)
+		- String
+			- 005 (again !!!)
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- union find
+		- quick sort
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 646 (not start)
+			- 055 (not start)
+			- 134 (not start)
+			- 435 (not start)
+			- 767 (not start)
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+		- stack
+			- 227 (not start)
+			- 224 (not start)
+		- sort
+			- 969 (not start)
+		- BFS
+			- 210 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.349
+	- system design book - an insider's guide (GOTOP)
+		- p.154 - p.171
+
+# 2022-01-06
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.10)
+				- 529 (ok, again)
+				- 508 (ok, but AGAIN !!!!)
+				- 663
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+		- 725 (ok, but again!!!)
+	- LC (Jul 2020 - Dec 2020 (about 4 months before above)) (ing)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- **back track**
+			- 077
+			- 046
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+		- binary search
+			- 278  (not start)
+			- 035  (not start)
+			- 875  (not start)
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- union find
+		- quick sort
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 646 (not start)
+			- 055 (not start)
+			- 134 (not start)
+			- 435 (not start)
+			- 767 (not start)
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+		- stack
+			- 227 (not start)
+			- 224 (not start)
+		- sort
+			- 969 (not start)
+		- BFS
+			- 210 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.349
+	- system design book - an insider's guide (GOTOP)
+		- p.145 - p.154
+
+# 2022-01-05
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.10)
+				- 529 (not start)
+				- 073 (ok)
+				- 199 (ok)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+	- ================
+	- LC (amz_, July 2020 - July 2021) (OK)
+		- Premium questions : OK
+	- Jul 2020 - Dec 2020 (about 4 months before above) (ing)
+		- https://leetcode.com/problems/binary-tree-cameras/ LC 988 (not start)
+		- https://leetcode.com/problems/critical-connections-in-a-network/ LC 1192 (not start)
+	- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================ 
+	- LC general
+		- **back track**
+			- 077
+			- 046
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+		- binary search
+			- 278  (not start)
+			- 035  (not start)
+			- 875  (not start)
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- union find
+		- quick sort
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 646 (not start)
+			- 055 (not start)
+			- 134 (not start)
+			- 435 (not start)
+			- 767 (not start)
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+		- stack
+			- 227 (not start)
+			- 224 (not start)
+		- sort
+			- 969 (not start)
+		- BFS
+			- 210 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.349
+	- system design book - an insider's guide (GOTOP)
+		- p.121 - p.145
+
+# 2022-01-04
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.10)
+				- 529 (not start)
+				- 725 (ok, but again!)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+
+	- ================
+	- LC (amz_, July 2020 - July 2021)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+			- https://leetcode.com/problems/minimum-cost-to-connect-sticks/ : LC 1167 (not start)
+			- https://leetcode.com/problems/shortest-path-to-get-food/ : LC 1730 (ok)
+			- https://leetcode.com/problems/two-sum-less-than-k/ : LC 1099 (not start)
+	- ================ 
+	- LC general
+		- **back track**
+			- 077
+			- 046
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+		- binary search
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- union find
+		- quick sort
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 646 (not start)
+			- 055 (not start)
+			- 134 (not start)
+			- 435 (not start)
+			- 767 (not start)
+		- hashmap
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+		- stack
+			- 227 (not start)
+			- 224 (not start)
+		- sort
+			- 969 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.344 - p.349
+	- system design book - an insider's guide (GOTOP)
+		- p.109 - p.121
+
+# 2022-01-03
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.10)
+				- 529 (not start)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+
+	- ================
+	- LC (amz_, July 2020 - July 2021)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+			- https://leetcode.com/problems/sell-diminishing-valued-colored-balls/ LC 1648 (again)
+			- https://leetcode.com/problems/design-in-memory-file-system/ LC 588  (again)
+	- ================
+	- LC general
+		- **back track**
+			- 077
+			- 046
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+		- binary search
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- union find
+		- quick sort
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 646 (not start)
+			- 055 (not start)
+			- 134 (not start)
+			- 435 (not start)
+			- 767 (not start)
+		- hashmap
+			- 523 (ok, but again !!!!!!)
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+		- stack
+			- 227 (not start)
+			- 224 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- 336 - 344
+	- system design book - an insider's guide (GOTOP)
+		- p.105 - p.109
+
+# 2022-01-02
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.10)
+				- 529 (not start)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+
+	- ================
+	- LC (amz_, July 2020 - July 2021)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+			- https://leetcode.com/problems/reorder-data-in-log-files/ LC 937 (ok, again)
+			- https://leetcode.com/problems/robot-bounded-in-circle/ LC 1041 (ok, again)
+			- https://leetcode.com/problems/rotting-oranges/ LC 994 (ok, again)
+	- ================
+	- LC general
+		- **back track**
+			- 077
+			- 046
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+		- binary search
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- union find
+		- quick sort
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 646 (not start)
+			- 055 (not start)
+			- 134 (not start)
+			- 435 (not start)
+			- 767 (not start)
+		- hashmap
+			- 523 (ok, but again !!!!)
+			- 525 (ok !!!!)
+			- 204 (ok, but again)
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- 327 - 336
+	- system design book - an insider's guide (GOTOP)
+		- p.99 - p.105
+
+# 2022-01-01
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.10)
+				- 725 (ok, but again !!!)
+				- 090 (ok !)
+				- 529 (not start)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+
+	- ================
+	- LC (amz_, July 2020 - July 2021)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+			- https://leetcode.com/problems/peak-index-in-a-mountain-array/ LC 852 (ok)
+			- https://leetcode.com/problems/rank-transform-of-an-array/ LC 1131 (ok)
+			- https://leetcode.com/problems/regular-expression-matching/ LC 10 (not start)
+	- ================
+	- LC general
+		- **back track**
+			- 077
+			- 046
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+		- binary search
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- union find
+		- quick sort
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 646 (not start)
+			- 055 (not start)
+			- 134 (not start)
+			- 435 (not start)
+			- 767 (not start)
+		- hashmap
+			- 523 (ok, but again !!!!)
+			- 525 (ok, but again !!!!)
+			- 204 (not start)
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- 327 -
+	- system design book - an insider's guide (GOTOP)
+		- p.95 - p.99
+
+# 2021-12-31
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+			- https://leetcode.com/problems/number-of-provinces/ LC 547 (again!)
+			- https://leetcode.com/problems/number-of-ways-to-split-a-string/ LC 1573 (again!)
+			- https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/ LC 1010 (again!)
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.10)
+				- 090 (not start)
+				- 529 (not start)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+
+	- ================
+	- LC (amz_, July 2020 - July 2021)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================
+	- LC general
+		- **back track**
+			- 077
+			- 046
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+		- binary search
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- union find
+		- quick sort
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 646 (not start)
+			- 055 (not start)
+			- 134 (not start)
+			- 435 (not start)
+			- 767 (not start)
+		- hashmap
+			- 523 (ok, but again !!!!)
+			- 525 (ok, but again !!!!)
+			- 204 (not start)
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- graph
+			- 547 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- 327 -
+	- system design book - an insider's guide (GOTOP)
+		- p.95 -
+
+# 2021-12-30
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.9)
+				- 090 (not start)
+				- 015 (ok, but again)
+				- 535 (ok, but again)
+			- (pdf : p.10)
+				- 529 (not start)
+		- ==========
+			- fast review (inverse order)
+			- --> Breadth-First-Search
+
+	- ================
+	- LC (amz_, July 2020 - July 2021)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+			- https://leetcode.com/problems/contiguous-array/ LC 525 (again)
+			- https://leetcode.com/problems/design-front-middle-back-queue/ LC 1670 (again!)
+			- https://leetcode.com/problems/k-closest-points-to-origin/ LC 973 (again)
+			- https://leetcode.com/problems/maximum-units-on-a-truck/ LC 1710  (again)
+	- ================
+	- LC general
+		- **back track**
+			- 020 (ok)
+			- 022 (ok!)
+			- 078 (ok!)
+			- 077
+			- 046
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+			- 525
+		- binary search
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- union find
+		- quick sort
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 646 (not start)
+			- 055 (not start)
+			- 134 (not start)
+			- 435 (not start)
+			- 767 (not start)
+		- hashmap
+			- 523 (not start)
+			- 204 (not start)
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- SQL
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- 327 -
+	- system design book - an insider's guide (GOTOP)
+		- p.95 -
+
+# 2021-12-29
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.9)
+				- 090 (not start)
+				- 015 (ok, but again)
+				- 535 (ok, but again)
+			- (pdf : p.10)
+				- 529 (not start)
+		- ==========
+			- fast review (inverse order)
+			- --> design, greedy
+			- 642 (again)
+			- 460 (again)
+			- 0380 (ok)
+			- 355 (again)
+			- 0146 (again)
+			- 767 (again)
+			- 738
+			- 646
+			- 055 (again)
+			- 011 (again !!)
+			- --> backtracking
+			- 131 (again!)
+			- 093 (again!)
+			- 079 (again)
+			- 039 (again !!!)
+			- DFS
+			- 529 (not start)
+			- 851 (not start)
+			- 785 (not start)
+			- 733 (again)
+			- 695
+			- 694 (again)
+			- 257 (again !)
+			- 113 (again)
+			- 112 (again)
+			- --> Breadth-First-Search
+
+	- ================
+	- LC (amz_, July 2020 - July 2021)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================
+	- LC general
+		- **back track**
+			- 020
+			- 022
+			- 078
+			- 077
+			- 046
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+		- binary search
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- union find
+		- quick sort
+		- intervals
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 646 (not start)
+			- 055 (not start)
+			- 134 (not start)
+			- 435 (not start)
+			- 767 (not start)
+		- hashmap
+			- 523 (not start)
+			- 204 (not start)
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- SQL
+			- (ordering)
+			- 1098
+			- 1112
+			- 1126
+			- 1127
+			- 1132 (ok, but again)
+			- 1141
+			- 1158
+			- 1159
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- 327 -
+	- system design book - an insider's guide (GOTOP)
+		- p.74 - p.95
+	- cheatsheet review
+		- (order) (binary_search.md - linked_list.md) -> completed
+		- linked_list.md (ok)
+
+# 2021-12-28
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.9)
+				- 141 (ok)
+				- 142 (ok, but again)
+				- 167 (ok)
+				- 151 (ok)
+				- 186 (ok)
+				- 78 (ok, but again !!!!!)
+				- 090
+	- ================
+	- LC (amz_, July 2020 - July 2021)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================
+	- LC general
+		- **back track**
+			- 020
+			- 022
+			- 078
+			- 077
+			- 046
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+		- binary search
+			- 162 (ok, again !!)
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- union find
+		- quick sort
+		- intervals
+			- 435 (ok, but again!!)
+			- 57 (again !!!)
+			- 56 (again !!!)
+		- design
+			- all remain (not start)
+		- greedy
+			- 646 (not start)
+			- 055 (not start)
+			- 134 (not start)
+			- 435 (not start)
+			- 767 (not start)
+		- hashmap
+			- 523 (not start)
+			- 204 (not start)
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- SQL
+			- (ordering)
+			- 0185
+			- 0262
+			- 0512
+			- 0534
+			- 0550
+			- 578
+			- 579
+			- 580
+			- 597
+			- 602
+			- 603 (again!)
+			- 627
+			- 1045
+			- 1076
+			- 1077
+			- 1082 (again)
+			- 1083 (again)
+			- 1084
+			- 1097
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- 327 -
+	- system design book - an insider's guide (GOTOP)
+		- p.54 - p.74
+	- cheatsheet review
+		- (order) (binary_search.md - linked_list.md)
+		- intervals.md (ok)
+		- linked_list.md (ing)
+			- 1-1-11) add 2 linked list
+
+# 2021-12-27
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.9)
+	- ================
+	- LC (amz_, July 2020 - July 2021)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================
+	- LC general
+		- **back track**
+			- 020
+			- 022
+			- 078
+			- 077
+			- 046
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+		- binary search
+			- 162 (ok, again !!)
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- union find
+		- quick sort
+		- intervals
+		- design
+			- all remain (not start)
+		- greedy
+			- 646 (not start)
+			- 055 (not start)
+			- 134 (not start)
+			- 435 (not start)
+			- 767 (not start)
+		- hashmap
+			- 523 (not start)
+			- 204 (not start)
+			- 036 (not start)
+		- heap
+			- 355 (not start)
+			- 703 (not start)
+			- 264 (not start)
+			- 295 (not start)
+		- SQL
+			- (ordering)
+			- 0176
+			- 0178
+			- 0183
+			- 0184
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- 318 - 327
+	- system design book - an insider's guide (GOTOP)
+		- p.44 - p.54
+	- cheatsheet review
+		- (order) (binary_search.md - linked_list.md)
+		- heap.md (ok)
+		- intervals.md (ing)
+
+# 2021-12-26
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- 003 (OK)
+			- (pdf : p.8)
+				- 160 (ok, but again!!!!)
+				- 102 (ok)
+			- (pdf : p.9)
+	- ================
+	- LC (amz_, July 2020 - July 2021)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================
+	- LC general
+		- **back track**
+			- 020
+			- 022
+			- 078
+			- 077
+			- 046
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+		- binary search
+			- 162 (ok, again !!)
+		- =======
+		- bit manipulation
+			- [Curated-List-of-Top-100-LC](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : binary
+		- union find
+		- quick sort
+		- intervals
+		- design
+			- all remain (not start)
+		- greedy
+			- 646 (not start)
+			- 055 (not start)
+			- 134 (not start)
+			- 435 (not start)
+			- 767 (not start)
+		- hashmap
+			- 763 (ok)
+			- 525 (ok, but again!!!)
+			- 523 (not start)
+			- 204 (not start)
+			- 036 (not start)
+		- SQL
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- 314 -318
+	- system design book - an insider's guide (GOTOP)
+		- p.27 - p.44
+	- cheatsheet review
+		- (order) (binary_search.md - linked_list.md)
+		- graph.md (ok)
+		- greedy.md (ok)
+		- hash_map.md (ok)
+		- heap.md (ing)
+
+# 2021-12-25
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.7)
+				- 003 (OK, but again !!!!!!!!)
+				- 215 (ok)
+			- (pdf : p.8)
+	- ================
+	- LC (amz_, July 2020 - July 2021)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================
+	- LC general
+		- **back track**
+			- 078
+			- 077
+			- 046
+		- Tree
+			- 662 (*not start*)
+			- 662
+			- 508
+			- 776
+		- binary search
+			- 162 (ok, again !!)
+		- =======
+		- bit manipulation
+		- union find
+		- quick sort
+		- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.309 - 314
+	- system design book - an insider's guide (GOTOP)
+		- p.20 - p.27
+	- cheatsheet review
+		- (order) (binary_search.md - linked_list.md)
+		- dfs.md (ok)
+		- graph.md (ing)
+
+# 2021-12-24
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.7)
+	- ================
+	- LC (amz_, July 2020 - July 2021)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+	- ================
+	- LC general
+		- **back track**
+			- 078
+			- 077
+			- 046
+		- Tree
+			- 662 (*not start*)
+			- 776
+		- binary search
+			- 162
+		- =======
+		- bit manipulation
+		- union find
+		- quick sort
+		- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.309
+	- system design book - an insider's guide (GOTOP)
+		- p.20 -
+	- cheatsheet review
+		- (order) (binary_search.md - linked_list.md)
+		- dfs.md (ing)
+
+# 2021-12-23
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.6)
+				- 0381
+			- (pdf : p.7)
+				- 545 (again !)
+				- 021 (ok)
+				- 025 (not start, again !)
+	- ================
+	- LC (amz_, July 2020 - July 2021)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V3/amz_interview_q.txt
+			- 018 4sum (again !)
+			- 454 4sum-ii (again !)
+			- 1162 as-far-from-land-as-possible (again)
+			- 1011 capacity-to-ship-packages-within-d-days (again !!!)
+	- ================
+	- LC general
+		- **back track**
+			- 078
+			- 077
+		- Tree
+			- 662 (*not start*)
+			- 776
+		- binary search
+			- 162
+		- =======
+		- bit manipulation
+		- union find
+		- quick sort
+		- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.306
+	- system design book - an insider's guide (GOTOP)
+		- p.6 - p.16
+	- cheatsheet review
+		- (order) (binary_search.md - linked_list.md)
+		- binary_tree.md (ok)
+		- brute_force.md (ok)
+		- bst.md (ok)
+		- dfs.md (ing)
+
+# 2021-12-22
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.6)
+				- 098 (ok, but again!!!)
+				- 0380 (ok)
+				- 0381
+			- (pdf : p.7)
+				- 021 (ok, but again)
+				- 023 (ok, but again)
+				- 025
+			- =======
+			- **back track**
+			- Tree
+				- 662 (*not start*)
+			- binary search
+				- 162
+			- =======
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- note
+			- p.300
+	- system design book - an insider's guide (GOTOP)
+		- p.6 -
+	- cheatsheet review
+		- (order) (binary_search.md - linked_list.md)
+		- binary_tree.md (ing)
+
+# 2021-12-21
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.6)
+				- 449 (ok, but again !!!!!!)
+			- =======
+			- **back track**
+			- Tree
+				- 662 (*not start*)
+			- binary search
+				- 162
+			- =======
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- read
+			- P.428 - 430 (end)
+		- note
+			- p.295
+	- system design book - an insider's guide (GOTOP)
+		- p.1 - p.6
+	- cheatsheet review
+		- (order) (binary_search.md - linked_list.md)
+		- binary_search.md (ok)
+		- binary_tree.md (ing)
+
+# 2021-12-20
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.6)
+				- 240
+				- 049
+			- =======
+			- **back track**
+			- Tree
+				- 449 (not start)
+				- 669 (ok, but again !!!)
+				- 538 (ok, but again !!!)
+				- 652 (ok, but again !!!)
+				- 662 (*not start*)
+			- String
+				- 468 (again!)
+			- =======
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- read
+			- P.424 - 428
+		- note
+			- p.289
+	- cheatsheet review
+		- (order)
+		- binary_search.md (ing)
+
+# 2021-12-19
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.5)
+				- 682
+				- 155
+				- 235 (ok, but again!)
+			- (pdf : p.6)
+			- =======
+			- **back track**
+			- Tree
+				- 449 (not start)
+				- 669 (not start)
+				- 538 (not start)
+				- 652 (not start !!)
+				- 662 (*not start*)
+			- =======
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- read
+			- P.420 - 424
+		- note
+			- p.289
+	- cheatsheet review
+		- (order)
+		- binary_search.md (ing)
+
+# 2021-12-17
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.5)
+			- =======
+			- **back track**
+			- Tree
+				- 449 (not start)
+				- 669 (not start)
+				- 538 (not start)
+				- 652 (not start !!)
+				- 662 (*not start*)
+			- Sort
+				- 347
+			- Heap
+				- 295 (AGAIN!!!)
+			- =======
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- read
+			- P.420 -
+		- note
+			- p.289
+	- cheatsheet review
+		- (order)
+		- binary_search.md (ing)
+
+# 2021-12-16
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.5)
+			- =======
+			- **back track**
+			- Tree
+				- 211 (again !!)
+				- 212 (not start, hard)
+				- 235 (ok, but again !!!)
+				- 449 (not start)
+				- 776 (again)
+				- 669 (not start)
+				- 538 (not start)
+				- 652 (not start !!)
+				- 662 (*not start*)
+			- =======
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- read
+			- P.415 - 420
+		- note
+			- p.279
+	- cheatsheet review
+		- (order)
+		- binary_search.md (ing)
+
+# 2021-12-15
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.5)
+			- =======
+			- **back track**
+				- 079 (again !)
+				- 078 (again !!!)
+			- Tree
+				- 208 (again !!)
+			- =======
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- read
+			- P.413 - 415
+		- note
+			- p.279
+	- cheatsheet review
+		- (order)
+		- binary_search.md (ing)
+
+# 2021-12-14
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.5)
+				- 002
+				- 206 
+			- =======
+			- **back track**
+				- 039
+				- 040 (again !!!)
+				- 079 (again !)
+				- 078 (again !)
+			- Tree
+				- 211 (not start)
+				- 212 (not start)
+				- 235 (not start !!!)
+				- 449 (not start)
+				- 776 (not start)
+				- 669 (not start)
+				- 538 (not start)
+				- 652 (not start !!)
+				- 662 (*not start*)
+			- =======
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- read
+			- P.408 - 413
+		- note
+			- p.279
+	- cheatsheet review
+		- (order)
+		- dfs.md (ok)
+		- binary_search.md (ing)
+		- =======
+		- (inverse order)
+		- trie.md (ok)
+		- string.md (ok)
+		- stack.md (ok)
+		- string.md
+		- stack.md
+		- scanning_line.md
+		- queue.md
+		- palindrome.md
+		- n_sum.md
+		- math.md
+
+# 2021-12-12
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.4)
+				- 017
+			- (pdf : p.5)
+				- 127 (again)
+			- =======
+			- **back track**
+				- 040 (again !)
+				- 079 (again !)
+				- 078 (again !)
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+				- 211 (not start)
+				- 212 (not start)
+				- 235 (not start !!!)
+				- 449 (not start)
+				- 776 (not start)
+				- 669 (not start)
+				- 538 (not start)
+				- 652 (not start !!)
+				- 662 (*not start*)
+			- bfs
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+			- faq_sql.md
+			- =======
+			- (essential)
+			- 0534
+			- 0550
+			- 580
+			- 1596 (again !)
+			- 1322 
+			- 1241 (again)
+			- =======
+			- (order)
+			- 0178
+			- 0180
+			- 0185
+			- 0512
+			- 579
+			- 597
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- read
+			- P.408 -
+		- note
+			- p.279
+	- cheatsheet review
+		- (order)
+		- dfs.md (ok)
+		- binary_search.md (ing)
+		- =======
+		- (inverse order)
+		- trie.md (ok)
+		- string.md (ok)
+		- stack.md (ing)
+
+# 2021-12-11
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.3)
+				- 235 (ok, but again !!)
+				- 236 (ok, but again !!)
+				- 005 (ok, but again !!)
+				- 121 (ok, but again !!)
+			- (pdf : p.4)
+			- =======
+			- **back track**
+				- 039 (ok, but again)
+				- 040 (again !)
+				- 079 (again !)
+				- 078 (again !)
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+				- 211 (not start)
+				- 212 (not start)
+				- 235 (not start !!!)
+				- 449 (not start)
+				- 776 (not start)
+			- bfs
+				- 127 (again)
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- read
+			- P.408 -
+		- note
+			- p.279
+	- cheatsheet review
+		- bst.md
+		- dfs.md (ing)
+
+# 2021-12-10
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.3)
+			- =======
+			- **back track**
+				- 039 (ok, but again)
+				- 040 (again !)
+				- 079 (again !)
+				- 078 (again !)
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+				- 208 (again !!!)
+				- 211 (not start)
+				- 212 (not start)
+			- bfs
+				- 127 (again)
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- read
+			- P.404 - 408
+		- note
+			- p.279
+	- cheatsheet review
+		- bst.md (ing)
+
+# 2021-12-09
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.3)
+			- =======
+			- **back track**
+				- 017 (ok, but again)
+				- 039 (again !)
+				- 040 (again !)
+				- 079 (again !)
+				- 078 (again !)
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+			- bfs
+				- 127 (again)
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- read
+			- P.404 -
+		- note
+			- p.279
+	- cheatsheet review
+		- binary_search.md
+		- binary_tree.md
+		- bst.md (ing)
+
+# 2021-12-08
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.2)
+				- 438 (again)
+			- (pdf : p.3)
+				- 138 (again)
+			- =======
+			- **back track**
+				- 017 (again !)
+				- 039 (again !)
+				- 040 (again !)
+				- 079 (again !)
+				- 078 (again !)
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+			- bfs
+				- 127 (again)
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- read
+			- P.399 - 404
+		- note
+			- p.279
+	- cheatsheet review
+		- backtrack.md
+		- bfs.md
+		- binary_search.md (ing)
+
+# 2021-12-07
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.1)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Tinder design
+	- algorithm book (labu)
+		- read
+			- P.399 -
+		- note
+			- p.279
+	- cheatsheet review
+		- 2_pointers.md
+		- Collection.md
+		- array.md
+
+# 2021-12-05
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.1)
+				- 001
+			- (pdf : p.2)
+				- 200
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+				- 098 (again !)
+				- 105 (again !)
+				- 106 (OK!)
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- read
+			- P.387 - 399
+		- note
+			- p.279
+
+# 2021-12-04
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+	- ================
+	- LC review (amz_)
+		- ref: https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+			- 763
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.1)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- read
+			- P.384 - 387
+		- note
+			- p.279
+
+# 2021-12-03
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.1)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+				- 098 (again !!!)
+				- 105 (again !!!)
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- read
+			- P.381 - 384
+		- note
+			- p.279
+
+# 2021-12-02
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.1)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+		 	- (normal order)
+		 	- 0176
+		 	- 0178
+		 	- 0180
+		 	- 0183
+		 	- 0184
+		 	- 0185
+		 	- 0196
+		 	- 0262
+		 	- 0512
+		 	- 0534 (again !!)
+		 	- 0550 (again !!)
+		 	- 578
+		 	- 579
+		 	- 580 (again !!)
+		 	- 597
+		 	- 601
+		 	- 602
+		 	- 603
+		 	- 627
+		 	- 1045
+		 	- 1076
+		 	- 1077
+		 	- 1082
+		 	- 1083
+		 	- 1084
+		 	- 1097
+		 	- 1112
+			- =======
+			- (inverse order)
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- read
+			- P.381 -
+		- note
+			- p.279
+
+# 2021-12-01
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.1)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+			- =======
+			- (inverse order)
+			- 1831
+			- 1811
+			- 1809
+			- 1795
+			- 1789
+			- 1783
+			- 1777
+			- 1747
+			- 1715
+			- 1709
+			- 1699
+			- 1661
+			- 1613
+			- 1596 (again !!)
+			- 1581
+			- 1571
+			- 1555
+			- 1549
+			- 1532
+			- 1511
+			- 1501
+			- 1479
+			- 1412
+			- 1407
+			- 1369
+			- 1322 (again !!)
+			- 1321
+			- 1308
+			- 1270
+			- 1264
+			- 1251
+			- 1241 (again !!)
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- read
+			- P.381 -
+		- note
+			- p.279
+
+# 2021-11-30
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.1)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+			- =======
+			- (inverse order)
+			- 1972
+			- 1965
+			- 1951
+			- 1949
+			- 1939
+			- 1934
+			- 1917
+			- 1843
+			- 1841
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- read
+			- P.381 -
+		- note
+			- p.279
+
+# 2021-11-29
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.1)
+				- 383
+				- 74
+				- 240
+				- 036
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- read
+			- P.377 - 381
+		- note
+			- p.279
+
+# 2021-11-28
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.1)
+				- 191
+				- 237 (ok)
+				- 435 (again !!!)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+				- 206 (OK!)
+				- 92 (again !!)
+			- sliding window
+			- Tree
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- read
+			- P.376 - 377
+		- note
+			- p.279
+
+# 2021-11-27
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.1)
+				- 284		
+			- =======
+			- **back track**
+			- Binary Search Tree
+				- 102 (ok)
+				- 100 (ok)
+				- 572 (ok !!)
+				- 297 (again !!!)
+				- 124 (again!)
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- read
+			- P.371 - 376
+		- note
+			- p.279
+
+# 2021-11-25
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.1)
+				- 435
+			- =======
+			- **back track**
+			- Binary Search Tree
+				- 102 (ok)
+				- 297 (again !!)
+				- 572 (again !)
+				- 124 (not start)
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- read
+			- P.371 -
+		- note
+			- p.279
+
+# 2021-11-24
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.1)
+				- 042
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+				- 206 (again!!!)
+			- sliding window
+			- Tree
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- P.367 - 371
+
+# 2021-11-23
+- DOING:
+	- LC (appl_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.1)
+				- 238 (ok!)
+				- 226 (again!)
+				- 739 (again !!!!!)
+				- 496 (ok !)
+				- 503 (again !)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- P.364 - 367
+
+# 2021-11-21
+- DOING:
+	- LC (appl_)
+		- ref :https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Apple%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.1)
+				- 496 (again !)
+				- 503 (again !)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- P.360 - 364
+
+# 2021-11-20
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.13)
+				- 776 (again!)
+				- 646 (again!)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- P.353 - 360
+
+# 2021-11-19
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.13)
+				- 762
+				- 771
+				- 775 (again)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- P.349 - 353
+
+# 2021-11-18
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.13)
+				- 742 (again)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- P.345 - 349
+
+# 2021-11-17
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.13)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+				- 236 (again!)
+				- 235 (ok)
+				- 226 (again !)
+				- 104
+				- 100
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- P.339 - 345
+
+# 2021-11-16
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.12)
+				- 459
+				- 662 (again!)
+				- 663 (again)
+			- (pdf : p.13)
+				- 738 (again!)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- Tree
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- P.336 - 339
+
+# 2021-11-15
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.12)
+				- 606 (again!)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- P.330 - 336
+
+# 2021-11-14
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.12)
+				- 200
+				- 694
+				- 711
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- P.327 - 330
+
+# 2021-11-13
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.12)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- P.318 - 327
+
+# 2021-11-12
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.12)
+				- 662 (again !!!)
+				- 663
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+				- 003 (OK)
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+
+# 2021-11-11
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.12)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+				- 003 (not yet)
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+			- (review # 2)
+				- ref : https://github.com/yennanliu/CS_basics#sql
+					- 1132
+					- 1141
+					- 1142
+					- 1149
+					- 1158
+					- 1159
+					- 1164
+					- 1174 (again)
+					- 1194
+					- 1204 (again)
+					- 1205
+					- 1212
+					- 1225
+					- 1241
+					- 1251 (again)
+					- 1270
+					- 1308
+					- 1321 (again)
+					- 1322
+					- 1369
+					- 1407
+					- 1412 (again)
+					- 1454
+					- 1479
+					- 1501
+					- 1511
+					- 1532
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+
+# 2021-11-10
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.12)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+				- 003 (not yet)
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+			- (review # 1)
+				- ref : https://leetcode.com/problem-list/5htp6xyg/?page=1
+				- 511
+				- 512
+				- 534 (again!)
+				- 550 (again!)
+				- 571 (again)
+				- 580
+				- 586
+				- 603
+				- 607
+				- 608 (again!)
+			- (review # 2)
+				- ref : https://github.com/yennanliu/CS_basics#sql
+					- 0178 (again!)
+					- 0180
+					- 0183
+					- 0184
+					- 0185
+					- 0196
+					- 0262
+					- 569
+					- 578
+					- 579
+					- 602
+			- =======
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- P.314 - 318
+
+# 2021-11-09
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.12)
+				- 661
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+				- 438 (again!)
+				- 003 (not yet)
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Netflix system design
+	- algorithm book (labu)
+		- P.309 - 314
+
+# 2021-11-08
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.12)
+				- 645
+				- 791
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+				- 438 (not yet)
+				- 003 (not yet)
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Dropbox/google drive system design
+	- algorithm book (labu)
+		- P.306 - 309
+
+# 2021-11-07
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.12)
+				- 459
+				- 640
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+				- 567 (ok!)
+				- 438 (not yet)
+				- 003 (not yet)
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+		- SQL
+	- Crack Code
+	- System Design
+		- Dropbox/google drive system design
+	- algorithm book (labu)
+		- P.300 - 306
+
+# 2021-11-06
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.12)
+				- 553
+				- 606
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+				- 57 (ok)
+				- 56 (ok)
+		- SQL
+	- Crack Code
+	- System Design
+		- Dropbox/google drive system design
+	- algorithm book (labu)
+		- P.293 - 300
+
+# 2021-11-05
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.12)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- intervals
+				- 57 (again!)
+				- 56 (again!)
+		- SQL
+	- Crack Code
+	- System Design
+		- Dropbox/google drive system design
+	- algorithm book (labu)
+		- P.288 - 293
+
+# 2021-11-04
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+			- (normal order)
+			- (pdf : p.11)
+				- 537
+			- (pdf : p.12)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+				- 209 (again!!)
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+		- Twitter system design
+	- algorithm book (labu)
+		- P.284 - 288
+
+# 2021-11-03
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+				- 162
+			- (normal order)
+			- (pdf : p.11)
+				- 536
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+				- 438 (again!)
+				- 713 (again!!!)
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+		- Twitter system design
+	- algorithm book (labu)
+		- P.279 - 284
+
+# 2021-11-02
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+				- 162
+			- (normal order)
+			- (pdf : p.11)
+				- 617
+				- 532
+				- 119
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+		- Twitter system design
+	- algorithm book (labu)
+		- P.274 - 279
+
+# 2021-11-01
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- review
+				- 204 (again)
+				- 162
+				- 450
+				- 538
+			- (normal order)
+			- (pdf : p.11)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+		- Twitter system design
+	- algorithm book (labu)
+		- P.272 - 274
+
+# 2021-10-31
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.11)
+				- 189
+				- 355
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+		- Twitter system design
+	- algorithm book (labu)
+		- P.266 - 272
+
+# 2021-10-30
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.11)
+				- 204 (again!)
+				- 414
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- P.262 - 266
+
+# 2021-10-29
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.10)
+				- 396
+				- 451
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+				- 162
+				- 367
+				- 69
+			- linked list
+			- sliding window
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- P.258 - 262
+
+# 2021-10-28
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.10)
+				- 89 (again)
+			- =======
+			- **back track**
+			- Binary Search Tree
+				- 450
+			- Binary Search
+			- linked list
+			- sliding window
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- P.253 - 258
+
+# 2021-10-27
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.10)
+				- 008
+				- 538
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- P.249 - 253
+
+# 2021-10-26
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.10)
+				- 508 (again!)
+			- =======
+			- **back track**
+			- Binary Search Tree
+				- 105 (again!)
+				- 106 (again!)
+			- Binary Search
+			- linked list
+			- sliding window
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- P.244 - 249
+
+# 2021-10-25
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.10)
+				- 199
+			- =======
+			- **back track**
+			- Binary Search Tree
+				- 105 (again!)
+			- Binary Search
+			- linked list
+			- sliding window
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- P.241 - 244
+
+# 2021-10-24
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.10)
+				- 073
+			- =======
+			- **back track**
+				- 017
+				- 039
+				- 040 (again)
+				- 079
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- P.233 - 241
+
+# 2021-10-23
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.9)
+				- 535
+			- (pdf : p.10)
+				- 529 (again)
+				- 725
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- P.222 - 233
+
+# 2021-10-22
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.9)
+			- 001
+			- 015
+			- =======
+			- **back track**
+				- 017
+				- 039
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- p.96 - p.98
+		- P.222 -
+
+# 2021-10-21
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.9)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+			- sliding window
+				- 567
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- p.89 - p.96
+
+# 2021-10-20
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.8)
+			- 102
+			- (pdf : p.9)
+			- 167
+			- 186
+			- 078
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- Binary Search
+			- linked list
+				- 142
+			- =======
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- p.84 - p.89
+
+# 2021-10-19
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.8)
+			- 102
+			- (pdf : p.9)
+			- 141
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+			- linked list
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- p.81 - p.84
+
+# 2021-10-18
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.8)
+			- 692 (again!)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- p.73 - p.81
+
+# 2021-10-17
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.7)
+			- 215
+			- (pdf : p.8)
+			- 160  (again!)
+			- =======
+			- **back track**
+			- Binary Search Tree
+				- 450
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- p.68 - p.73
+
+# 2021-10-16
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.7)
+			- 003 (Again !)
+			- =======
+			- **back track**
+			- Binary Search Tree
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- p.62 - p.68
+
+# 2021-10-15
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.7)
+			- 021 (Again !)
+			- 545 (Again !)
+			- =======
+			- **back track**
+			- Binary Search Tree
+				- 285
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- p.54 - p.62
+
+# 2021-10-14
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.6)
+			- 098 (AGAIN!)
+			- 380
+			- =======
+			- **back track**
+			- Binary Search Tree
+				- 230
+				- 270
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- p.50 - p.54
+
+# 2021-10-13
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.6)
+			- 234
+			- =======
+			- **back track**
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- p.42 - p.50
+
+# 2021-10-12
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.6)
+			- 049
+			- 449 (AGAIN !!!)
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- p.38 - p.42
+
+# 2021-10-11
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.6)
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- p.30 - p.38
+
+# 2021-10-10
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.6)
+			- 240
+			- 105 (fb, classics) (AGAIN !!!)
+			- 106 (fb, similar as 105) (AGAIN !!!)
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- p.24 - p.30
+
+# 2021-10-09
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.5)
+			- 235
+			- (pdf : p.6)
+			- =======
+			- (inverse order)
+			- =======
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- p.2 - p.24
+
+# 2021-10-08
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf
+		- programming
+			- (normal order)
+			- (pdf : p.5)
+			- 206
+			- 155
+			- =======
+			- (inverse order)
+			- =======
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- p.2 - p.24
+
+# 2021-10-07
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.5)
+			- 388 (mock interview)
+			- =======
+			- (inverse order)
+			- =======
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+	- algorithm book (labu)
+		- p.2 - p.24
+
+# 2021-10-06
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.5)
+			- 002
+			- =======
+			- (inverse order)
+			- =======
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+
+# 2021-10-05
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.4)
+			- (pdf : p.5)
+			- 127
+			- =======
+			- (inverse order)
+			- =======
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+
+# 2021-10-04
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.1)
+			- (pdf : p.2)
+			- (pdf : p.3)
+			- (pdf : p.4)
+			- 239
+			- 017
+			- =======
+			- (inverse order)
+			- =======
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+
+# 2021-10-03
+- DOING:
+	- LC (am_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.1)
+			- 394
+			- 763
+			- =======
+			- (inverse order)
+			- =======
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+	- Crack Code
+	- System Design
+
+# 2021-09-24
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- =======
+			- (high freq 50)
+			- https://blog.csdn.net/qq_44186838/article/details/118713154
+			- 1308
+			- 570
+			- 580
+			- 1407
+			- 1795
+			- 550
+			- 579
+			- =======
+			- (review)
+			- 1241
+			- TO REVIEW:
+				- window func
+					- rank()
+		- Data model
+			- relational_db_design_implementation
+				- TO READ:
+					- ch 6 : normalization
+					- ch 7 : performance tuning
+				- Contents
+					- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+			- Kimball-Data-Warehouse-Toolkit
+				- ch6 : p.167 - 
+				- ch19 : p.479 - 496
+				- ch20 : p.497 - 519
+					- Develop Incremental ETL Processing : p.512 ***
+			- TODO:
+				- D*
+					- https://systemdesignprimer.com/dropbox-system-design/
+					- https://systemdesignprimer.com/netflix-system-design/#database-schema
+					- https://documentation.invantive.com/2017R2/dropbox-data-model/webhelp/invantive-dropbox-provider-dropbox-dropbox-account.html
+					- https://stackoverflow.com/questions/9736548/database-schema-how-the-relationship-can-be-designed-between-user-file-and-fol
+
+				- U*
+					- https://allbigdatathings.blogspot.com/2019/04/uber-data-model.html
+					- https://medium.com/geekculture/data-warehouse-design-data-model-for-ride-sharing-or-taxi-service-5fc20d8eb424
+					- https://www.w3.org/2019/09/trans-data-ws/W3C_workshop__Extensible_Entity_Data_Models_at_Uber.pdf
+					- https://www.reddit.com/r/SQL/comments/gxbs71/data_model_for_rideshare_app/
+					- https://www.vertabelo.com/blog/calling-all-cabs-a-database-model-for-a-taxi-service/
+					- https://www.educative.io/blog/uber-backend-system-design
+
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-23
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- =======
+			- (high freq 50)
+			- https://blog.csdn.net/qq_44186838/article/details/118713154
+			- =======
+			- (review)
+			- 1097
+			- TO REVIEW:
+				- window func
+					- rank()
+		- Data model
+			- relational_db_design_implementation
+				- TO READ:
+					- ch 6 : normalization
+					- ch 7 : performance tuning
+				- Contents
+					- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+			- Kimball-Data-Warehouse-Toolkit
+				- ch6 : p.167 - 
+				- ch19 : p.479 - 496
+				- ch20 : p.497 - 519
+					- Develop Incremental ETL Processing : p.512 ***
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-22
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1990
+			- 2004
+			- =======
+			- (high freq 50)
+			- https://blog.csdn.net/qq_44186838/article/details/118713154
+			- =======
+			- (review)
+			- TO REVIEW:
+				- window func
+					- rank()
+		- Data model
+			- relational_db_design_implementation
+				- TO READ:
+					- ch 6 : normalization
+					- ch 7 : performance tuning
+				- Contents
+					- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+			- Kimball-Data-Warehouse-Toolkit
+				- ch6 : p.167 - 
+				- ch19 : p.479 - 496
+				- ch20 : p.497 - 519
+					- Develop Incremental ETL Processing : p.512 ***
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-21
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1990
+			- 2004
+			- =======
+			- (high freq 50)
+			- https://blog.csdn.net/qq_44186838/article/details/118713154
+			- 1821
+			- 1204 (OK, *but again*)
+			- 1082
+			- 1270
+			- 597
+			- 1193
+			- 1280
+			- 1715
+			- 1809
+			- 577
+			- 603
+			- 1112
+			- =======
+			- (review)
+			- TO REVIEW:
+				- window func
+					- rank()
+		- Data model
+			- relational_db_design_implementation
+				- TO READ:
+					- ch 6 : normalization
+					- ch 7 : performance tuning
+				- Contents
+					- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+			- Kimball-Data-Warehouse-Toolkit
+				- ch6 : p.167 - 
+				- ch19 : p.479 - 496
+				- ch20 : p.497 - 519
+					- Develop Incremental ETL Processing : p.512 ***
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-20
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1990
+			- 2004
+			- =======
+			- (high freq 50)
+			- https://blog.csdn.net/qq_44186838/article/details/118713154
+			- 0626
+			- 0620
+			- 0627
+			- 0183
+			- 0511
+			- 0595
+			- 1873
+			- 1097
+			- 0569
+			- 1841
+			- 0571 (again)
+			- 0618
+			- 1083
+			- 1205
+			- 1501 (ok, but *again*)
+			- =======
+			- (review)
+			- TO REVIEW:
+				- window func
+					- rank()
+		- Data model
+			- relational_db_design_implementation
+				- ch 9 : 175 - 180
+				- ch 11 : 214 - 229
+				- ch 12 : 230 - 270
+				- TO READ:
+					- ch 6 : normalization
+					- ch 7 : performance tuning
+				- Contents
+					- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+			- Kimball-Data-Warehouse-Toolkit
+				- ch1 : OK
+				- ch2 : p.37 - 105
+				- ch3 : p.98 - 110
+				- ch4 : p.119 - 140
+				- ch5 : p.160 - 166
+				- ch6 : p.167 - 
+				- ch19 : p.475 - 479
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-19
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1990
+			- 2004
+			- =======
+			- (high freq 50)
+			- https://blog.csdn.net/qq_44186838/article/details/118713154
+			- 0175
+			- 0176
+			- 0184
+			- 0177 (again)
+			- 0180
+			- 0185 (ok, but *again*)
+			- 1777
+			- 0178
+			- 0181
+			- 0262
+			- 601
+			- 0196
+			- 1179
+			- 0182
+			- 0197
+			- =======
+			- (review)
+			- TO REVIEW:
+				- window func
+					- rank()
+		- Data model
+			- relational_db_design_implementation
+				- ch 9 : 175 - 180
+				- ch 11 : 214 - 229
+				- ch 12 : 230 - 270
+				- TO READ:
+					- ch 6 : normalization
+					- ch 7 : performance tuning
+				- Contents
+					- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+			- Kimball-Data-Warehouse-Toolkit
+				- ch1 : OK
+				- ch2 : p.37 - 105
+				- ch3 : p.98 - 110
+				- ch4 : p.119 - 140
+				- ch5 : p.160 - 166
+				- ch6 : p.167 - 
+				- ch19 : p.475 - 479
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-18
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1972
+			- 1978
+			- 1988
+			- =======
+			- (review)
+			- TO REVIEW:
+				- window func
+					- rank()
+		- Data model
+			- relational_db_design_implementation
+				- ch 9 : 175 - 180
+				- ch 11 : 214 - 229
+				- ch 12 : 230 - 270
+				- TO READ:
+					- ch 6 : normalization
+					- ch 7 : performance tuning
+				- Contents
+					- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+			- Kimball-Data-Warehouse-Toolkit
+				- ch1 : OK
+				- ch2 : p.37 - 105
+				- ch3 : p.98 - 110
+				- ch4 : p.119 - 140
+				- ch5 : p.160 - 166
+				- ch6 : p.167 - 
+				- ch19 : p.468 - p.475
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-17
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1949
+			- 1951
+			- 1965
+			- =======
+			- (review)
+			- TO REVIEW:
+				- window func
+					- rank()
+		- Data model
+			- relational_db_design_implementation
+				- ch 9 : 175 - 180
+				- ch 11 : 214 - 229
+				- ch 12 : 230 - 270
+				- TO READ:
+					- ch 6 : normalization
+					- ch 7 : performance tuning
+				- Contents
+					- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+			- Kimball-Data-Warehouse-Toolkit
+				- ch1 : OK
+				- ch2 : p.37 - 105
+				- ch3 : p.98 - 110
+				- ch4 : p.119 - 140
+				- ch5 : p.159 - 160
+				- ch19 : p.467 - 468
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-16
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1919
+			- 1934
+			- 1939
+			- =======
+			- (review)
+			- TO REVIEW:
+				- window func
+					- rank()
+		- Data model
+			- relational_db_design_implementation
+				- ch 9 : 175 - 180
+				- ch 11 : 214 - 229
+				- ch 12 : 230 - 270
+				- TO READ:
+					- ch 6 : normalization
+					- ch 7 : performance tuning
+				- Contents
+					- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+			- Kimball-Data-Warehouse-Toolkit
+				- ch1 : OK
+				- ch2 : p.37 - 105
+				- ch3 : p.98 - 110
+				- ch4 : p.119 - 140
+				- ch5 : p.141 - 159
+				- ch19 : p.467 - 468
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-15
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1892
+			- 1907
+			- 1917
+			- =======
+			- (review)
+			- TO REVIEW:
+				- window func
+					- rank()
+		- Data model
+			- relational_db_design_implementation
+				- ch 9 : 175 - 180
+				- ch 11 : 214 - 229
+				- ch 12 : 230 - 270
+				- TO READ:
+					- ch 6 : normalization
+					- ch 7 : performance tuning
+				- Contents
+					- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+			- Kimball-Data-Warehouse-Toolkit
+				- ch1 : OK
+				- ch2 : p.37 - 105
+				- ch3 : p.98 - 110
+				- ch4 : p.119 - 140
+				- ch5 : p.141 - 153
+				- ch19 : p.443 - 467
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-14
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1873
+			- 1875
+			- 1890
+			- =======
+			- (review)
+			- TO REVIEW:
+				- window func
+					- rank()
+		- Data model
+			- relational_db_design_implementation
+				- ch 9 : 175 - 180
+				- ch 11 : 214 - 229
+				- ch 12 : 230 - 270
+				- TO READ:
+					- ch 6 : normalization
+					- ch 7 : performance tuning
+				- Contents
+					- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+			- Kimball-Data-Warehouse-Toolkit
+				- ch1 : OK
+				- ch2 : p.37 - 105
+				- ch3 : p.98 - 110
+				- ch4 : p.111 - 119
+				- ch19 : p.443 - 465
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-13
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1843
+			- 1853
+			- 1867
+			- =======
+			- (review)
+			- TO REVIEW:
+				- window func
+					- rank()
+		- Data model
+			- relational_db_design_implementation
+				- ch 9 : 175 - 180
+				- ch 11 : 214 - 229
+				- ch 12 : 230 - 270
+				- TO READ:
+					- ch 6 : normalization
+					- ch 7 : performance tuning
+				- Contents
+					- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+			- Kimball-Data-Warehouse-Toolkit
+				- ch1 : OK
+				- ch2 : p.37 - 105
+				- ch3 : p.98 - 110
+				- ch4 : p.111
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-12
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1821
+			- 1831
+			- 1841
+			- =======
+			- (review)
+			- TO REVIEW:
+				- window func
+					- rank()
+		- Data model
+			- relational_db_design_implementation
+				- ch 9 : 175 - 180
+				- ch 11 : 214 - 229
+				- ch 12 : 230 - 270
+				- TO READ:
+					- ch 6 : normalization
+					- ch 7 : performance tuning
+				- Contents
+					- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+			- Kimball-Data-Warehouse-Toolkit
+				- ch1 : OK
+				- ch2 : p.37 - 105
+				- ch3 : p.69 - 98
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-11
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1795
+			- 1809
+			- 1811
+			- =======
+			- (review)
+		- Data model
+			- relational_db_design_implementation
+				- ch 9 : 175 - 180
+				- ch 11 : 214 - 229
+				- ch 12 : 230 - 270
+				- TO READ:
+					- ch 6 : normalization
+					- ch 7 : performance tuning
+				- Contents
+					- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+			- Kimball-Data-Warehouse-Toolkit
+				- ch1 : OK
+				- ch2 : p.37 - 105
+				- ch3 : p.69 - 78
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-10
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1777
+			- 1783
+			- 1789
+			- =======
+			- (review)
+		- Data model
+			- relational_db_design_implementation
+				- ch 9 : 175 - 180
+				- ch 11 : 214 - 229
+				- ch 12 : 230 - 270
+				- TO READ:
+					- ch 6 : normalization
+					- ch 7 : performance tuning
+				- Contents
+					- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+			- Kimball-Data-Warehouse-Toolkit
+				- ch1 : OK
+				- ch2 : p.37 - 67
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-09
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1777
+			- 1783
+			- 1789
+			- =======
+			- (review)
+		- Data model
+			- relational_db_design_implementation
+				- ch 9 : 175 - 180
+				- ch 11 : 214 - 229
+				- ch 12 : 230 - 270
+				- TO READ:
+					- ch 6 : normalization
+					- ch 7 : performance tuning
+				- Contents
+					- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+			- Kimball-Data-Warehouse-Toolkit
+				- ch1 : OK
+				- ch2 : p.37 - 42
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-08
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- =======
+			- (review)
+		- Data model
+			- relational_db_design_implementation
+				- ch 9 : 175 - 180
+				- ch 11 : 214 - 229
+				- ch 12 : 230 - 270
+				- TO READ:
+					- ch 6 : normalization
+					- ch 7 : performance tuning
+				- Contents
+					- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+			- Kimball-Data-Warehouse-Toolkit
+				- ch1 : 11 - 16
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-07
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1747
+			- 1757
+			- 1767
+			- =======
+			- (review)
+		- Data model
+			- relational_db_design_implementation
+				- ch 9 : 175 - 180
+				- ch 11 : 214 - 229
+				- ch 12 : 230 - 270
+				- TO READ:
+					- ch 6 : normalization
+					- ch 7 : performance tuning
+				- Contents
+					- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+			- Kimball-Data-Warehouse-Toolkit
+				- ch1 : 11
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-06
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- =======
+			- (review)
+		- Data model
+			- ch 9 : 175 - 180
+			- ch 11 : 195 - 214
+			- TO READ:
+				- ch 6 : normalization
+				- ch 7 : performance tuning
+			- Contents
+				- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-05
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- =======
+			- (review)
+		- Data model
+			- ch 9 : 175 - 180
+			- ch 11 : 195
+			- TO READ:
+				- ch 6 : normalization
+				- ch 7 : performance tuning
+			- Contents
+				- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-04
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1729
+			- 1731
+			- 1741
+			- =======
+			- (review)
+		- Data model
+			- ch 9 : 160 - 175
+			- TO READ:
+				- ch 6 : normalization
+				- ch 7 : performance tuning
+			- Contents
+				- https://www.sciencedirect.com/book/9780128043998/relational-database-design-and-implementation
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-03
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- 161
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1699
+			- 1709
+			- 1715
+			- =======
+			- (review)
+		- Data model
+			- ch 9 : 150 - 160
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-02
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1677
+			- 1683
+			- 1693
+			- =======
+			- (review)
+		- Data model
+			- ch 9 : 150 - 154
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-09-01
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.7)
+			- 133
+			- 098
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- 1651
+			- 1661
+			- 1667
+			- =======
+			- (review)
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-31
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.8)
+			- 597
+			- 602
+			- 215
+			- 285
+			- (pdf : p.7)
+			- 078
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+			- quick sort
+		- SQL
+			- (new)
+			- =======
+			- (review)
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-30
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.8)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+		- SQL
+			- (new)
+			- 1633
+			- 1635
+			- 1645
+			- =======
+			- (review)
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-29
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.9)
+			- 88
+			- 238
+			- (pdf : p.8)
+			- 670
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+		- SQL
+			- (new)
+			- =======
+			- (review)
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-28
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.9)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+		- SQL
+			- (new)
+			- 1607
+			- 1613
+			- 1623
+			- =======
+			- (review)
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-27
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.10)
+			- (pdf : p.9)
+			- 033
+			- 075
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+		- SQL
+			- (new)
+			- 1581
+			- 1587
+			- 1596
+			- =======
+			- (review)
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-26
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.10)
+			- (pdf : p.9)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- 721
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+			- union find
+		- SQL
+			- (new)
+			- 1555
+			- 1565
+			- 1571
+			- =======
+			- (review)
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-25
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.10)
+			- 079
+			- 013
+			- =======
+			- (not yet)
+			- 785
+			- 477
+			- =======
+			- back track
+			- hash table
+			- bit manipulation
+		- SQL
+			- (new)
+			- 1532
+			- 1543
+			- 1549
+			- =======
+			- (review)
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-24
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			 (pdf : p.11)
+			 - 49
+			 - 20
+			 - 236
+			 (pdf : p.10)
+			- =======
+			- (not yet)
+			- 785
+			- 477
+		- SQL
+			- (new)
+			- 1511
+			- 1517
+			- 1527
+			- =======
+			- (review)
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-23
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.12)
+			- 477
+			 (pdf : p.11)
+			 - 523
+			- =======
+			- (not yet)
+			- 785
+			- 477
+		- SQL
+			- (new)
+			- 1484
+			- 1495
+			- 1501
+			- =======
+			- (review)
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-22
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.12)
+			- 038
+			- 286
+			- =======
+			- (not yet)
+			- 785
+		- SQL
+			- (new)
+			- 1459
+			- 1468
+			- 1479
+			- =======
+			- (review)
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-21
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.12)
+			- 208
+		- SQL
+			- (new)
+			- 1412
+			- 1435
+			- 1440
+			- 1445
+			- 1454
+			- =======
+			- (review)
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-20
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.13)
+			- 102
+			- (pdf : p.12)
+		- SQL
+			- (new)
+			- 1393
+			- 1398
+			- 1407
+			- 1412
+			- =======
+			- (review)
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-18
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (normal order)
+			- (pdf : p.2)
+			- =======
+			- (inverse order)
+			- (pdf : p.13)
+			- 341
+		- SQL
+			- (new)
+			- 1369
+			- 1378
+			- 1384
+			- =======
+			- (review)
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-12
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (pdf : p.1)
+			- (normal order)
+			- 253
+			- 252
+			- (pdf : p.2)
+			- 325
+			- =======
+			- (inverse order)
+			- (pdf : p.13)
+		- SQL
+			- (new)
+			- =======
+			- (review)
+			- 597
+			- 602
+			- 1045
+			- 1050
+			- 1068
+			- 1069
+			- 1070
+			- 1075
+			- 1076
+			- 1077
+			- 1082
+			- 1083
+			- 1084
+			- 1097
+			- 1098
+			- 1107
+			- 1112
+			- 1113
+			- 1126
+			- 1127
+			- 1132
+			- 1141
+			- 1142
+			- 1148
+			- 1149
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-11
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (pdf : p.14)
+			- 380
+			- 674
+			- 127
+			- (pdf : p.13)
+			- 71
+			- 554
+			- 398
+			- 209
+		- SQL
+			- (new)
+			- =======
+			- (review)
+			- 0178
+			- 0180
+			- 0181
+			- 0182
+			- 0183
+			- 0184
+			- 0185
+			- 0196
+			- 0197
+			- 0262
+			- 0511
+			- 0512
+			- 0534
+			- 0550
+			- 578
+			- 579
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-10
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (pdf : p.15)
+			- 647
+			- 028
+			- (pdf : p.14)
+			- 090
+		- SQL
+			- 1322
+			- 1327
+			- 1336
+			- 1341
+			- 1350
+			- 1355
+			- 1364
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-09
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (pdf : p.16)
+			- 116
+			- 117
+			- (pdf : p.15)
+			- 235
+			- 334
+		- SQL
+			- 1280
+			- 1285
+			- 1294
+			- 1303
+			- 1308
+			- 1321
+			- =======
+			- 0175
+			- 0176
+			- 0177
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-07
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (pdf : p.17)
+			- 210
+			- 207
+			- 026
+			- (pdf : p.16)
+			- 050
+			- 461
+			- 069
+		- SQL
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-06
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (pdf : p.17)
+			- 234
+			- 274
+		- SQL
+			- 1251
+			- 1264
+			- 1270
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-05
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (pdf : p.18)
+			- 26
+			- 80
+			- 268
+			- (pdf : p.17)
+			- 404
+		- SQL
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-04
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (pdf : p.18)
+		- SQL
+			- 1212
+			- 1225
+			- 1241
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-03
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (pdf : p.18)
+			- 525
+			- 653
+			- 535
+			- 168
+		- SQL
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-02
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (pdf : p.18)
+			- 637
+		- SQL
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-08-01
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (pdf : p.19)
+			- 572
+		- SQL
+			- window func (sum over ..)
+				- https://stackoverflow.com/questions/10039431/how-can-i-use-sum-over
+				- pattern : `SUM(Quantity) OVER (PARTITION BY AccountID ORDER BY ID)`
+			- 1179
+			- 1193
+			- 1194
+			- 1204
+			- 1205
+			- 1211
+			- 578
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-07-31
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (pdf : p.19)
+			- 261
+			- 274
+			- 275
+			- 745
+		- SQL
+			- window func (sum over ..)
+		- AGAIN:
+			- union find
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-07-30
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- (pdf : p.19)
+		- SQL
+			- 1159
+			- 1164
+			- 1173
+			- 1174
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-07-29
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+		- SQL
+			- 1148
+			- 1149
+			- 1158
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-07-28
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- 621
+			- 283
+			- 67
+		- SQL
+			- 1141
+			- 1142
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+
+# 2021-07-27
+- DOING:
+	- LC (f_)
+		- ref : https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf (inverse order)
+		- programming
+			- 784
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-07-25
+- DOING:
+	- Crack code 6 edition
+		- ============ 1st read OK ============
+		- p.181 (p.193 in pdf) (moderate -> remaining are all "problems")
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-07-24
+- DOING:
+	- Crack code 6 edition
+		- p.146 (p.158 in pdf)
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+# 2021-07-23
+- DOING:
+	- Crack code 6 edition
+		- p.137 (p.149 in pdf)
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+# 2021-07-22
+- DOING:
+	- Crack code 6 edition
+		- p.114 (p.126 in pdf)
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+# 2021-07-20
+- DOING:
+	- Crack code 6 edition
+		- p.112 (p.124 in pdf)
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+# 2021-07-19
+- DOING:
+	- Crack code 6 edition
+		- p.107 (p.119 in pdf)
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-06-14
+- DOING:
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Tree
+		- String
+
+# 2021-06-11
+- DOING:
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Matrix
+		- String
+
+# 2021-06-05
+- DOING:
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Graph
+		- Interval
+		- Linked List
+
+# 2021-05-26
+- DOING:
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Graph
+
+# 2021-05-25
+- DOING:
+	- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- Array
+		- Binary
+		- Dynamic Programming (pass)
+
+# 2020-08-09
+- DONE :
+	- Review `to_review.txt`
+- Reviewed:
+	- Review `data/to_review.txt`
+	- Review again `fb`, `amz`
+		- [fb V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Facebook%20-%20LeetCode.pdf)
+		- [amz V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf)
+
+- DOING : 
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+	- `Backtracking` review
+- REDO:
+	- Backtrack
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 261 Graph Valid Tree
+	- 393 UTF-8 Validation
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- 249 Group Shifted Strings
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-08-01
+- DONE :
+	- Review `to_review.txt`
+	- 284 Peeking Iterator
+	- 524 Longest Word in Dictionary through Deleting
+- Reviewed:
+	- Review `data/to_review.txt`
+		- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf) - 6/29
+- DOING : 
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+	- `Backtracking` review
+- REDO:
+	- Backtrack
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 261 Graph Valid Tree
+	- 393 UTF-8 Validation
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- 249 Group Shifted Strings
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-07-28
+- DONE :
+	- Review `to_review.txt`
+	- 766 Toeplitz Matrix
+	- 228 Summary Ranges
+- Reviewed:
+	- Review `data/to_review.txt`
+		- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf) - 6/29
+- DOING : 
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+	- `Backtracking` review
+- REDO:
+	- Backtrack
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 261 Graph Valid Tree
+	- 393 UTF-8 Validation
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- 249 Group Shifted Strings
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-07-27
+- DONE :
+	- Review `to_review.txt`
+	- 406 Queue Reconstruction by Height
+	- 246 Strobogrammatic Number
+- Reviewed:
+	- Review `data/to_review.txt`
+		- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf) - 6/29
+- DOING : 
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+	- `Backtracking` review
+- REDO:
+	- Backtrack
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 261 Graph Valid Tree
+	- 393 UTF-8 Validation
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- 249 Group Shifted Strings
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-07-25
+- DONE :
+	- Review `to_review.txt`
+	- 279 Perfect Squares
+	- 249 Group Shifted Strings
+- Reviewed:
+	- Review `data/to_review.txt`
+		- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf) - 5/29
+- DOING : 
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+	- `Backtracking` review
+- REDO:
+	- Backtrack
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 261 Graph Valid Tree
+	- 393 UTF-8 Validation
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- 249 Group Shifted Strings
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-07-24
+- DONE :
+	- Review `to_review.txt`
+	- 435 Reverse Vowels of a String
+	- 417 Pacific Atlantic Water Flow
+- Reviewed:
+	- Review `data/to_review.txt`
+		- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf) - 5/29
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+	- `Backtracking` review
+- REDO:
+	- Backtrack
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 261 Graph Valid Tree
+	- 393 UTF-8 Validation
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-07-15
+- DONE :
+	- Review `to_review.txt`
+- Reviewed:
+	- Review `data/to_review.txt`
+		- 399 Evaluate Division
+		- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf) - 4/29
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- Backtrack
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 261 Graph Valid Tree
+	- 393 UTF-8 Validation
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-07-14
+- DONE :
+	- Review `to_review.txt`
+- Reviewed:
+	- Review `data/to_review.txt`
+		- 616 Add Bold Tag in String
+		- 687 Longest Univalue Path
+		- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf) - 4/29
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- Backtrack
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 261 Graph Valid Tree
+	- 393 UTF-8 Validation
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-07-13
+- DONE :
+	- Review `to_review.txt`
+- Reviewed:
+	- Review `data/to_review.txt`
+		- 351 Android Unlock Patterns
+		- 288 Unique Word Abbreviation
+		- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf) - 3/29
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- Backtrack
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 261 Graph Valid Tree
+	- 393 UTF-8 Validation
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-07-06
+- DONE :
+	- Review `to_review.txt`
+- Reviewed:
+	- Review `data/to_review.txt`
+		- 066 Plus One
+		- 271 Encode and Decode Strings
+		- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf) - 2/29
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- Backtrack
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 261 Graph Valid Tree
+	- 393 UTF-8 Validation
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-07-03
+- DONE :
+	- Review `to_review.txt`
+- Reviewed:
+	- Review `data/to_review.txt`
+		- 163 Missing Ranges
+		- 286 Walls and Gates
+		- 490 The Maze
+		- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf) - 2/29
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- Backtrack
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 261 Graph Valid Tree
+	- 393 UTF-8 Validation
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-29
+- DONE :
+	- Review `to_review.txt`
+- Reviewed:
+	- Review `data/to_review.txt`
+		- 210 Course Schedule II
+		- 261 Graph Valid Tree
+		- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf) - 2/29
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- Backtrack
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 261 Graph Valid Tree
+	- 393 UTF-8 Validation
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-28
+- DONE :
+	- Review `to_review.txt`
+- Reviewed:
+	- Review `data/to_review.txt`
+		- 361 Bomb Enemy
+		- 393 UTF-8 Validation
+		- 133 Clone Graph
+		- 207 Course Schedule
+		- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf) - 2/29
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- Backtrack
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 393 UTF-8 Validation
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-27
+- DONE :
+	- Review `to_review.txt`
+- Reviewed:
+	- Review `data/to_review.txt`
+		- 734 Sentence Similarity
+		- 737 Sentence Similarity II
+		- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf) - 2/29
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- Backtrack
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-24
+- DONE :
+	- Review `to_review.txt`
+- Reviewed:
+	- Review `data/to_review.txt`
+		- 298 Binary Tree Longest Consecutive Sequence
+		- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf) - 2/29
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- Backtrack
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-23
+- DONE :
+	- Review `to_review.txt`
+- Reviewed:
+	- Review `data/to_review.txt`
+		- 130 Surrounded Regions
+		- BFS cheatsheet
+		- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf) - 2/29
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- Backtrack
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-22
+- DONE :
+	- Review `to_review.txt`
+- Reviewed:
+	- Review `data/to_review.txt`
+		- BFS cheatsheet
+		- 346 Moving Average from Data Stream
+		- 686 Repeated String Match
+		- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf) - 2/29
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- Backtrack
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-20
+- DONE :
+	- Review `to_review.txt`
+- Reviewed:
+	- Review `data/to_review.txt`
+		- BFS cheatsheet
+		- 482 License Key Formatting
+		- 127 Word Ladder
+		- 102 Binary Tree Level Order Traversal
+		- 107 Binary Tree Level Order Traversal II
+		- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf) - 1/29
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- Backtrack
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-19
+- DONE :
+	- Review `to_review.txt`
+- Reviewed:
+	- Review `data/to_review.txt`
+		- 388 Longest Absolute File Path
+		- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf) - 1/29
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- BFS
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-17
+- DONE :
+	- 646 Maximum Length of Pair Chain
+	- Review `to_review.txt`
+- Reviewed:
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 13/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- [GOOG V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Google%20-%20LeetCode.pdf)
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- BFS
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-16
+- DONE :
+	- 776 Split BST
+	- Review `to_review.txt`
+- Reviewed:
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 13/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- BFS
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 776 Split BST
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-14
+- DONE :
+	- 771 Jewels and Stones
+	- 775 Global and Local Inversions
+	- Review `to_review.txt`
+- Reviewed:
+	- 189 Rotate Array
+	- 414 Third Maximum Number
+	- 451 Sort Characters By Frequency
+	- 657 Robot Return to Origin
+	- 652 Find Duplicate Subtrees
+	- 642 Design Search Autocomplete System
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 13/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- BFS
+	- Trie
+	- regular expression (640 Solve the Equation)
+	- 775 Global and Local Inversions
+	- 642 Design Search Autocomplete System
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-12
+- DONE :
+	- 762 Prime Number of Set Bits in Binary Representation	
+	- Review `to_review.txt`
+- Reviewed:
+	- 742 Closest Leaf in a Binary Tree
+	- 738 Monotone Increasing Digits
+	- 663 Equal Tree Partition
+	- 606 Construct String from Binary Tree
+	- 459 Repeated Substring Pattern
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 13/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- regular expression (640 Solve the Equation)
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-11
+- DONE :
+	- 742 Closest Leaf in a Binary Tree
+	- Review `to_review.txt`
+- Reviewed:
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 13/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- regular expression (640 Solve the Equation)
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-09
+- DONE :
+	- 738 Monotone Increasing Digits
+	- Review `to_review.txt`
+- Reviewed:
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 13/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- regular expression (640 Solve the Equation)
+	- 738 Monotone Increasing Digits
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-08
+- DONE :
+	- 396 Rotate Function
+	- Review `to_review.txt`
+- Reviewed:
+	- 694 Number of Distinct Islands
+	- 200 Number of Islands
+	- 661 Image Smoother
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 12/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- regular expression (640 Solve the Equation)
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-05
+- DONE :
+	- Review `to_review.txt`
+	- 694 Number of Distinct Islands
+- Reviewed:
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 12/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- regular expression (640 Solve the Equation)
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-04
+- DONE :
+	- 663 Equal Tree Partition
+	- Review `to_review.txt`
+- Reviewed:
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 12/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- regular expression (640 Solve the Equation)
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-03
+- DONE :
+	- 661 Image Smoother
+	- 662 Maximum Width of Binary Tree
+	- Review `to_review.txt`
+- Reviewed:
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 12/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- regular expression (640 Solve the Equation)
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-02
+- DONE :
+	- Review `to_review.txt`
+- Reviewed:
+	- 131 Palindrome Partitioning
+	- 134 Gas Station
+	- 150 Evaluate Reverse Polish Notation
+	- 669 Trim a Binary Search Tree
+	- 682 Baseball Game
+	- 739 Daily Temperatures
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 12/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- regular expression (640 Solve the Equation)
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-06-01
+- DONE :
+	- 701 Insert into a Binary Search Tree
+	- 450 Delete Node in a BST
+- Reviewed:
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 12/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- regular expression (640 Solve the Equation)
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-31
+- DONE :
+	- 640 Solve the Equation
+	- 645 Set Mismatch
+- Reviewed:
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 12/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- regular expression (640 Solve the Equation)
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-30
+- DONE :
+	- 606 Construct String from Binary Tree
+	- 459 Repeated Substring Pattern
+- Reviewed:
+	- `cheatsheet/dfs.md`
+	- 098 Validate Binary Search Tree
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 12/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-28
+- DONE :
+	- 269 alien-dictionary (fb)
+- Reviewed:
+	- 355 Design Twitter
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 12/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-27
+- DONE :
+	- 537 Complex Number Multiplication
+	- 553 Optimal Division
+	- 579 Find Cumulative Salary of an Employee
+- Reviewed:
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 12/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-25
+- DONE :
+	- 355 Design Twitter
+	- 119 Pascal's Triangle II
+	- 536 Construct Binary Tree from String
+- Reviewed:
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 11/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- 536 Construct Binary Tree from String
+	- 355 Design Twitter
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-24
+- DONE :
+	- 451 Sort Characters By Frequency
+	- 414 Third Maximum Number
+	- 189 Rotate Array
+- Reviewed:
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 11/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-22
+- DONE :
+	- 725 Split Linked List in Parts
+	- 538 Convert BST to Greater Tree
+	- 089 Gray Code
+- Reviewed:
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 10/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- 089 Gray Code
+	- 725 Split Linked List in Parts
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-21
+- DONE :
+	- 517 Super Washing Machines
+	- 535 Encode and Decode TinyURL
+	- 529 Minesweeper
+- Reviewed:
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf) - 10/13
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-20
+- DONE :
+	- 711 Number of Distinct Islands II
+	- 046 LFU Cache
+	- 126 Word Ladder II (AGAIN)
+	- 127 Word Ladder
+- Reviewed:
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf)
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-19
+- DONE :
+	- 042 Trapping Rain Water
+	- 239 Sliding Window Maximum
+	- 023 Merge k sorted lists
+- Reviewed:
+ 	- 295 Find Median from Data Stream
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf)
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-18
+- DONE :
+	- 675 Cut Off Trees for Golf Event
+	- 297 Serialize and Deserialize Binary Tree
+	- 138 Copy List with Random Pointer
+	- [AMZ V1](https://github.com/yennanliu/CS_basics/blob/master/doc/leetcode_company_V1/Amazon%20-%20LeetCode.pdf)
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-16
+- DONE :
+	- 836 Rectangle Overlap
+	- 860 Lemonade Change
+	- 863 All Nodes Distance K in Binary Tree (AGAIN)
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- ***fibonacci sequence*** -> 1,2,3,5,8,13...
+		- folloing this sequence and re-take the problems after 1,2,3,5... days when first learned it 
+		- ref : [How I learned Mandarin in 18 months](https://www.youtube.com/watch?v=rELeG45fi-w)
+		- Have a script to generate a list for above objects
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-15
+- DONE :
+	- Review `data/to_review.txt`
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- ***fibonacci sequence*** -> 1,2,3,5,8,13...
+		- folloing this sequence and re-take the problems after 1,2,3,5... days when first learned it 
+		- ref : [How I learned Mandarin in 18 months](https://www.youtube.com/watch?v=rELeG45fi-w)
+		- Have a script to generate a list for above objects
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+	- `heap` op review
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-13
+- DONE :
+	- 703 Kth Largest Element in a Stream 
+	- 787 Cheapest Flights Within K Stops (AGAIN)
+	- 819 Most Common Word 
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- ***fibonacci sequence*** -> 1,2,3,5,8,13...
+		- folloing this sequence and re-take the problems after 1,2,3,5... days when first learned it 
+		- ref : [How I learned Mandarin in 18 months](https://www.youtube.com/watch?v=rELeG45fi-w)
+		- Have a script to generate a list for above objects
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-12
+- DONE :
+	- 669 Trim a Binary Search Tree
+	- 682 Baseball Game
+	- 739 Daily Temperatures
+	- 763 Partition Labels
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- ***fibonacci sequence*** -> 1,2,3,5,8,13...
+		- folloing this sequence and re-take the problems after 1,2,3,5... days when first learned it 
+		- ref : [How I learned Mandarin in 18 months](https://www.youtube.com/watch?v=rELeG45fi-w)
+		- Have a script to generate a list for above objects
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-11
+- DONE :
+	- 642 Design Search Autocomplete System 
+	- 652 Find Duplicate Subtrees
+	- 657 Robot Return to Origin
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- ***fibonacci sequence*** -> 1,2,3,5,8,13...
+		- folloing this sequence and re-take the problems after 1,2,3,5... days when first learned it 
+		- ref : [How I learned Mandarin in 18 months](https://www.youtube.com/watch?v=rELeG45fi-w)
+		- Have a script to generate a list for above objects
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-10
+- DONE : 
+	- 545 Boundary of Binary Tree (AGAIN)
+	- 617 Merge Two Binary Trees
+	- 671 Second Minimum Node In a Binary Tree
+	- 628 Maximum Product of Three Numbers
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- ***fibonacci sequence*** -> 1,2,3,5,8,13...
+		- folloing this sequence and re-take the problems after 1,2,3,5... days when first learned it 
+		- ref : [How I learned Mandarin in 18 months](https://www.youtube.com/watch?v=rELeG45fi-w)
+		- Have a script to generate a list for above objects
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-08
+- DONE : 
+	- 445 Add Two Numbers II
+	- 508 Most Frequent Subtree Sum
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- ***fibonacci sequence*** -> 1,2,3,5,8,13...
+		- folloing this sequence and re-take the problems after 1,2,3,5... days when first learned it 
+		- ref : [How I learned Mandarin in 18 months](https://www.youtube.com/watch?v=rELeG45fi-w)
+		- Have a script to generate a list for above objects
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-07
+- DONE : 
+	- 322 Coin Change (AGAIN)
+	- 380 Insert Delete GetRandom O(1)
+	- 394 Decode String
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- ***fibonacci sequence*** -> 1,2,3,5,8,13...
+		- folloing this sequence and re-take the problems after 1,2,3,5... days when first learned it 
+		- ref : [How I learned Mandarin in 18 months](https://www.youtube.com/watch?v=rELeG45fi-w)
+		- Have a script to generate a list for above objects
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-06
+- DONE :
+	- 289 Game of Life
+	- 295 Find Median from Data Stream (AGAIN)
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- ***fibonacci sequence*** -> 1,2,3,5,8,13...
+		- folloing this sequence and re-take the problems after 1,2,3,5... days when first learned it 
+		- ref : [How I learned Mandarin in 18 months](https://www.youtube.com/watch?v=rELeG45fi-w)
+		- Have a script to generate a list for above objects
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-05
+- DONE :
+	- 251 Flatten 2D Vector
+	- 287 Find the Duplicate Number (AGAIN)
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- ***fibonacci sequence*** -> 1,2,3,5,8,13...
+		- folloing this sequence and re-take the problems after 1,2,3,5... days when first learned it 
+		- ref : [How I learned Mandarin in 18 months](https://www.youtube.com/watch?v=rELeG45fi-w)
+		- Have a script to generate a list for above objects
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-04
+- DONE :
+	- 231 Power of Two
+	- 232 Implement Queue using Stacks
+	- 240 Search a 2D Matrix II
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- ***fibonacci sequence*** -> 1,2,3,5,8,13...
+		- folloing this sequence and re-take the problems after 1,2,3,5... days when first learned it 
+		- ref : [How I learned Mandarin in 18 months](https://www.youtube.com/watch?v=rELeG45fi-w)
+		- Have a script to generate a list for above objects
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-03
+- DONE :
+	- 198 House Robber
+	- 203 Remove Linked List Elements
+	- 230 Kth Smallest Element in a BST
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- ***fibonacci sequence*** -> 1,2,3,5,8,13...
+		- folloing this sequence and re-take the problems after 1,2,3,5... days when first learned it 
+		- ref : [How I learned Mandarin in 18 months](https://www.youtube.com/watch?v=rELeG45fi-w)
+		- Have a script to generate a list for above objects
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+	- how to write test for - `linked list`, `tree`, `BST`
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-05-02
+- DONE :
+	- 155 Min Stack
+	- 165 Compare Version Numbers
+	- 167 Two Sum II - Input array is sorted
+	- 179 Largest Number
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-04-30
+- DONE :
+	- 153 Find Minimum in Rotated Sorted Array
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-04-29
+- DONE :
+	- 131 Palindrome Partitioning
+	- 134 Gas Station
+	- 150 Evaluate Reverse Polish Notation
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- 0146 LRU Cache
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-04-28
+- DONE :
+	- 122 Best Time to Buy and Sell Stock II
+	- 130 Surrounded Regions
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- 120 Triangle
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-04-27
+- DONE :
+	- 100 Same Tree
+	- 104 Maximum Depth of Binary Tree
+	- 117 Populating Next Right Pointers in Each Node II
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-04-26
+- DONE :
+	- 073 Set Matrix Zeroes	
+	- 074 Search a 2D Matrix
+	- 093 Restore IP Addresses
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+- REDO:
+	- 063 Unique Paths II
+	- 064 Minimum Path Sum
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-04-25
+- DONE :
+	- 059 Spiral Matrix II
+	- 066 Permutation Sequence
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+- REDO:
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-04-24
+- DONE :
+	- 048 Rotate Image
+	- 054 Spiral Matrix
+	- 055 Jump Game
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+- REDO:
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-04-19
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- "algorithm" `abstract form` 
+- REDO:
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+	- sliding window with questions
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md
+
+# 2020-04-16
+- DONE :
+	- Generate Parentheses
+	- Remove Element
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- follow up questions
+- REDO:
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+
+# 2020-04-15
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent interview recap
+- TODO :
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- follow up questions
+	- refine preparation method/strategy
+- REDO:
+	- binary search and `find left, right boundary`
+		- https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md
+
+# 2020-04-13
+- DONE :
+	- Reverse Integer
+	- Palindrome Number
+	- 3 Sum Closest
+- DOING : 
+	- AMZ leetcode questions go through
+	- recent intervie recap
+- TODO :
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- follow up questions
+	- refine preparation method/strategy
+
+# 2020-04-12
+- DOING : 
+	- recent intervie recap
+- TODO :
+	- AMZ leetcode questions go through
+	- start write "test" when do leetcode questions
+	- time & space complexity analysis
+	- follow up questions
+	- refine preparation method/strategy
+
+# 2020-04-10
+- DOING : 
+	- recent intervie recap
+- TODO :
+	- AMZ leetcode questions go through
+	- start write "test" when do leetcode questions
+	- refine preparation method/strategy
+
+# 2020-03-11
+
+- DOING :
+	- `Bit Manipulation`
+	- `Recursion`
+	-  tricks deal with `string` : `dp`, `two pointers`, `recursion` (?), `union find`, `route compression`
+
+- TODO :
+ 	-   ==================
+ 	-  `# 750 Number Of Corner Rectangle`
+ 	- ` # 764 Largest Plus Sign`
+ 	-  `# 477 Total Hamming Distance`
+ 	-  Sync `leetcode_company_V1` and `leetcode_company_V2` (fb)
+ 	- `bfs.py`
+
+- DONE : 
+	- go through `SQL` quesitons (AGAIN, OK)
+	- data_structure : array, queue, stack, hash-table, tree
+	- `# 801 Minimum Swaps To Make Sequences Increasing`  AGAIN
+	- `# 784 Letter Case Permutation` AGAIN
+	- `# 274 H-Index`
+	- `# 275 H-Index II`
+	- `# 572 Subtree of Another Tree`
+	- `# 578 Get Highest Answer Rate Question`
+	- `# 637 Average of Levels in Binary Tree`
+	-  `## 525 Contiguous Array`
+ 	-  `## 673 Number of Longest Increasing Subsequence`
+  	-  `## 653 Two Sum IV - Input is a BST`
+  	-  `## 535 Encode and Decode TinyURL`
+  	-  `## 168 Excel Sheet Column Title`
+  	-  `## 380 Insert Delete GetRandom O(1)`
+   	-  `## 080 Remove Duplicates from Sorted Array II`
+  	-  `# 268 Missing Number`
+  	-  `# 404 Sum of Left Leaves`
+  	-  `# 234 Palindrome Linked List`
+  	-  `## 221 Maximal Square`
+   	-  `# 461 Hamming Distance`
+  	-  `# 69 Sqrt(x)`
+  	-  `# 116 Populating Next Right Pointers in Each Node`
+  	-  `# 714 Best Time to Buy and Sell Stock with Transaction Fee`
+ 	-  `# 235 Lowest Common Ancestor of a Binary Search Tree`
+ 	-  `# 334 Increasing Triplet Subsequence`
+ 	-  DELETE duplicated (whole columns duplicated) records from table 
+ 	-  `## 377 Combination Sum IV`
+ 	-  `# 28 Implement strStr()`
+ 	-  `## 90 Subsets II`
+ 	-  `# 078 Subsets`
+ 	-  `# 071 Simplify Path`
+ 	-  `# 554 Brick Wall`
+ 	-  `## 494 Target Sum`
+  	-  `## 602 Friend Requests II: Who Has Most Friend? `
+ 	-  `# 285 Inorder Successor in BST`
+  	-  `# 311 Sparse Matrix Multiplication`
+  	-  `# 670 Maximum Swap`
+	-  go through `leetcode_company_V1`
+	- SQL deal with NULL value
+
+# 2020-03-10
+
+- DOING :
+	- `Bit Manipulation`
+	- `Recursion`
+	-  tricks deal with `string` : `dp`, `two pointers`, `recursion` (?), `union find`, `route compression`
+
+- TODO :
+	-  go through `leetcode_company_V1`
+ 	-  `# 285 Inorder Successor in BST`
+ 	-  `# 602 Friend request II`
+ 	-  `# 670 Maximum Swap`
+ 	-  `# 311 Sparse Matrix Multiplication`
+ 	-  `# 285 Inorder Successor in BST`
+ 	-  `## 602 Friend Requests II: Who Has Most Friend? `
+ 	-  `## 494 Target Sum`
+ 	-  `# 477 Total Hamming Distance`
+ 	-   ==================
+ 	-  `# 750 Number Of Corner Rectangle`
+ 	- ` # 764 Largest Plus Sign`
+ 	-  Sync `leetcode_company_V1` and `leetcode_company_V2` (fb)
+ 	- `bfs.py`
+
+- DONE : 
+	- go through `SQL` quesitons (AGAIN, OK)
+	- data_structure : array, queue, stack, hash-table, tree
+	- `# 801 Minimum Swaps To Make Sequences Increasing`  AGAIN
+	- `# 784 Letter Case Permutation` AGAIN
+	- `# 274 H-Index`
+	- `# 275 H-Index II`
+	- `# 572 Subtree of Another Tree`
+	- `# 578 Get Highest Answer Rate Question`
+	- `# 637 Average of Levels in Binary Tree`
+	-  `## 525 Contiguous Array`
+ 	-  `## 673 Number of Longest Increasing Subsequence`
+  	-  `## 653 Two Sum IV - Input is a BST`
+  	-  `## 535 Encode and Decode TinyURL`
+  	-  `## 168 Excel Sheet Column Title`
+  	-  `## 380 Insert Delete GetRandom O(1)`
+   	-  `## 080 Remove Duplicates from Sorted Array II`
+  	-  `# 268 Missing Number`
+  	-  `# 404 Sum of Left Leaves`
+  	-  `# 234 Palindrome Linked List`
+  	-  `## 221 Maximal Square`
+   	-  `# 461 Hamming Distance`
+  	-  `# 69 Sqrt(x)`
+  	-  `# 116 Populating Next Right Pointers in Each Node`
+  	-  `# 714 Best Time to Buy and Sell Stock with Transaction Fee`
+ 	-  `# 235 Lowest Common Ancestor of a Binary Search Tree`
+ 	-  `# 334 Increasing Triplet Subsequence`
+ 	-  DELETE duplicated (whole columns duplicated) records from table 
+ 	-  `## 377 Combination Sum IV`
+ 	-  `# 28 Implement strStr()`
+ 	-  `## 90 Subsets II`
+ 	-  `# 078 Subsets`
+ 	-  `# 071 Simplify Path`
+ 	-  `# 554 Brick Wall`
+
+# 2020-03-09
+
+- DOING :
+	- `Bit Manipulation`
+	- `Recursion`
+	-  tricks deal with `string` : `dp`, `two pointers`, `recursion` (?), `union find`, `route compression`
+
+- TODO :
+	-  go through `leetcode_company_V1`
+ 	-  `# 078 Subsets`
+ 	-  `# 285 Inorder Successor in BST`
+ 	-  `# 602 Friend request II`
+ 	-  `# 670 Maximum Swap`
+ 	-  `# 311 Sparse Matrix Multiplication`
+ 	-  `# 285 Inorder Successor in BST`
+ 	-  `## 602 Friend Requests II: Who Has Most Friend? `
+ 	-  `## 494 Target Sum`
+ 	-  `# 477 Total Hamming Distance`
+ 	-  `# 554 Brick Wall`
+ 	-  `# 071 Simplify Path`
+ 	-  `## 90 Subsets II`
+ 	-  `# 28 Implement strStr()`
+ 	-  `## 377 Combination Sum IV`
+ 	-  `# 344 Increasing Triplet Subsequence`
+ 	-  `# 235 Lowest Common Ancestor of a Binary Search Tree`
+ 	-   ==================
+ 	-  `# 750 Number Of Corner Rectangle`
+ 	- ` # 764 Largest Plus Sign`
+ 	-  Sync `leetcode_company_V1` and `leetcode_company_V2` (fb)
+ 	- `bfs.py`
+
+- DONE : 
+	- go through `SQL` quesitons (AGAIN, OK)
+	- data_structure : array, queue, stack, hash-table, tree
+	- `# 801 Minimum Swaps To Make Sequences Increasing`  AGAIN
+	- `# 784 Letter Case Permutation` AGAIN
+	- `# 274 H-Index`
+	- `# 275 H-Index II`
+	- `# 572 Subtree of Another Tree`
+	- `# 578 Get Highest Answer Rate Question`
+	- `# 637 Average of Levels in Binary Tree`
+	-  `## 525 Contiguous Array`
+ 	-  `## 673 Number of Longest Increasing Subsequence`
+  	-  `## 653 Two Sum IV - Input is a BST`
+  	-  `## 535 Encode and Decode TinyURL`
+  	-  `## 168 Excel Sheet Column Title`
+  	-  `## 380 Insert Delete GetRandom O(1)`
+   	-  `## 080 Remove Duplicates from Sorted Array II`
+  	-  `# 268 Missing Number`
+  	-  `# 404 Sum of Left Leaves`
+  	-  `# 234 Palindrome Linked List`
+  	-  `## 221 Maximal Square`
+   	-  `# 461 Hamming Distance`
+  	-  `# 69 Sqrt(x)`
+  	-  `# 116 Populating Next Right Pointers in Each Node`
+  	-  `# 714 Best Time to Buy and Sell Stock with Transaction Fee`
+
+# 2020-03-08
+
+- DOING :
+	- `Bit Manipulation`
+	- `Recursion`
+	-  tricks deal with `string` : `dp`, `two pointers`, `recursion` (?), `union find`, `route compression`
+
+- TODO :
+	-  go through `leetcode_company_V1`
+ 	-  `# 078 Subsets`
+ 	-  `# 285 Inorder Successor in BST`
+ 	-  `# 602 Friend request II`
+ 	-  `# 670 Maximum Swap`
+ 	-  `# 311 Sparse Matrix Multiplication`
+ 	-  `# 285 Inorder Successor in BST`
+ 	-  `## 602 Friend Requests II: Who Has Most Friend? `
+ 	-  `## 494 Target Sum`
+ 	-  `# 477 Total Hamming Distance`
+ 	-  `# 554 Brick Wall`
+ 	-  `# 071 Simplify Path`
+ 	-  `## 380 Insert Delete GetRandom O(1)`
+ 	-  `## 90 Subsets II`
+ 	-  `# 28 Implement strStr()`
+ 	-  `## 377 Combination Sum IV`
+ 	-  `# 344 Increasing Triplet Subsequence`
+ 	-  `# 235 Lowest Common Ancestor of a Binary Search Tree`
+ 	-  `# 714 Best Time to Buy and Sell Stock with Transaction Fee`
+ 	-  `# 116 Populating Next Right Pointers in Each Node`
+ 	-  `# 69 Sqrt(x)`
+ 	-  `# 461 Hamming Distance`
+ 	-  `## 221 Maximal Square`
+ 	-  `# 234 Palindrome Linked List`
+ 	-  `# 404 Sum of Left Leaves`
+ 	-  `# 268 Missing Number`
+ 	-  `## 080 Remove Duplicates from Sorted Array II`
+ 	-   ==================
+ 	-  `# 750 Number Of Corner Rectangle`
+ 	- ` # 764 Largest Plus Sign`
+ 	-  Sync `leetcode_company_V1` and `leetcode_company_V2` (fb)
+ 	- `bfs.py`
+
+- DONE : 
+	- go through `SQL` quesitons (AGAIN, OK)
+	- data_structure : array, queue, stack, hash-table, tree
+	- `# 801 Minimum Swaps To Make Sequences Increasing`  AGAIN
+	- `# 784 Letter Case Permutation` AGAIN
+	- `# 274 H-Index`
+	- `# 275 H-Index II`
+	- `# 572 Subtree of Another Tree`
+	- `# 578 Get Highest Answer Rate Question`
+	- `# 637 Average of Levels in Binary Tree`
+	-  `## 525 Contiguous Array`
+ 	-  `## 673 Number of Longest Increasing Subsequence`
+  	-  `## 653 Two Sum IV - Input is a BST`
+  	-  `## 535 Encode and Decode TinyURL`
+  	-  `## 168 Excel Sheet Column Title`
+
+# 2020-03-06
+
+- DOING :
+	- `Bit Manipulation`
+	- `Recursion`
+	-  tricks deal with `string` : `dp`, `two pointers`, `recursion` (?), `union find`, `route compression`
+
+- TODO :
+	-  go through `leetcode_company_V1`
+ 	-  `# 078 Subsets`
+ 	-  `# 285 Inorder Successor in BST`
+ 	-  `# 602 Friend request II`
+ 	-  `# 670 Maximum Swap`
+ 	-  `# 311 Sparse Matrix Multiplication`
+ 	-  `# 285 Inorder Successor in BST`
+ 	-  `## 602 Friend Requests II: Who Has Most Friend? `
+ 	-  `## 494 Target Sum`
+ 	-  `# 477 Total Hamming Distance`
+ 	-  `# 554 Brick Wall`
+ 	-  `# 071 Simplify Path`
+ 	-  `## 380 Insert Delete GetRandom O(1)`
+ 	-  `## 90 Subsets II`
+ 	-  `# 28 Implement strStr()`
+ 	-  `## 377 Combination Sum IV`
+ 	-  `# 344 Increasing Triplet Subsequence`
+ 	-  `# 235 Lowest Common Ancestor of a Binary Search Tree`
+ 	-  `# 714 Best Time to Buy and Sell Stock with Transaction Fee`
+ 	-  `# 116 Populating Next Right Pointers in Each Node`
+ 	-  `# 69 Sqrt(x)`
+ 	-  `# 461 Hamming Distance`
+ 	-  `## 221 Maximal Square`
+ 	-  `# 234 Palindrome Linked List`
+ 	-  `# 404 Sum of Left Leaves`
+ 	-  `# 268 Missing Number`
+ 	-  `## 080 Remove Duplicates from Sorted Array II`
+ 	-  `## 168 Excel Sheet Column Title`
+ 	-  `## 535 Encode and Decode TinyURL`
+ 	-  `## 653 Two Sum IV - Input is a BST`
+ 	-  `## 673 Number of Longest Increasing Subsequence`
+ 	-   ==================
+ 	-  `# 750 Number Of Corner Rectangle`
+ 	- ` # 764 Largest Plus Sign`
+ 	-  Sync `leetcode_company_V1` and `leetcode_company_V2` (fb)
+
+- DONE : 
+	- go through `SQL` quesitons (AGAIN, OK)
+	- data_structure : array, queue, stack, hash-table, tree
+	- `# 801 Minimum Swaps To Make Sequences Increasing`  AGAIN
+	- `# 784 Letter Case Permutation` AGAIN
+	- `# 274 H-Index`
+	- `# 275 H-Index II`
+	- `# 572 Subtree of Another Tree`
+	- `# 578 Get Highest Answer Rate Question`
+	- `# 637 Average of Levels in Binary Tree`
+	-  `## 525 Contiguous Array`
+
+# 2020-03-05
+
+- DOING :
+	- `Bit Manipulation`
+	- `Recursion`
+	-  tricks deal with `string` : `dp`, `two pointers`, `recursion` (?), `union find`, `route compression`
+
+- TODO :
+	- go through `leetcode_company_V1`
+ 	- `# 078 Subsets`
+ 	- `# 285 Inorder Successor in BST`
+ 	- `# 602 Friend request II`
+ 	- `# 670 Maximum Swap`
+ 	- `# 311 Sparse Matrix Multiplication`
+ 	- `# 285 Inorder Successor in BST`
+ 	- `## 602 Friend Requests II: Who Has Most Friend? `
+ 	- `## 494 Target Sum`
+ 	- `# 477 Total Hamming Distance`
+ 	- `# 554 Brick Wall`
+ 	- `# 071 Simplify Path`
+ 	- `## 380 Insert Delete GetRandom O(1)`
+ 	- `## 90 Subsets II`
+ 	- `# 28 Implement strStr()`
+ 	- `## 377 Combination Sum IV`
+ 	- `# 344 Increasing Triplet Subsequence`
+ 	- `# 235 Lowest Common Ancestor of a Binary Search Tree`
+ 	- `# 714 Best Time to Buy and Sell Stock with Transaction Fee`
+ 	- `# 116 Populating Next Right Pointers in Each Node`
+ 	- `# 69 Sqrt(x)`
+ 	- `# 461 Hamming Distance`
+ 	- `## 221 Maximal Square`
+ 	- `## 274 H-Index`
+ 	- `# 234 Palindrome Linked List`
+ 	- `# 404 Sum of Left Leaves`
+ 	- `# 268 Missing Number`
+ 	- `## 080 Remove Duplicates from Sorted Array II`
+ 	- `## 168 Excel Sheet Column Title`
+ 	- `## 535 Encode and Decode TinyURL`
+ 	- `## 653 Two Sum IV - Input is a BST`
+ 	- `## 673 Number of Longest Increasing Subsequence`
+ 	- `## 525 Contiguous Array`
+ 	- `# 637 Average of Levels in Binary Tree`
+ 	- `# 578 Get Highest Answer Rate Question`
+ 	- `# 572 Subtree of Another Tree`
+ 	- `# 750 Number Of Corner Rectangle`
+ 	- `# 275 H-Index II`
+ 	- `# 764 Largest Plus Sign`
+ 	- `# 784 Letter Case Permutation`
+ 	- `# 801 Minimum Swaps To Make Sequences Increasing`
+ 	- Sync `leetcode_company_V1` and `leetcode_company_V2` (fb)
+
+- DONE : 
+	- go through `SQL` quesitons (AGAIN, OK)
+	- data_structure : `array`, `queue`, `stack`, `hash-table`
+
+
+# 2020-03-04
+
+- DOING :
+	- `Bit Manipulation`
+	- `Recursion`
+	-  tricks deal with `string` : `dp`, `two pointers`, `recursion` (?), `union find`, `route compression`
+
+- TODO :
+	- go through `leetcode_company_V1`
+ 	- `# 078 Subsets`
+ 	- `# 285 Inorder Successor in BST`
+ 	- `# 602 Friend request II`
+ 	- `# 670 Maximum Swap`
+
+- DONE : 
+
+
+# 2020-03-03
+
+- DOING :
+	- `Bit Manipulation`
+	- `Recursion`
+	-  tricks deal with `string` : `dp`, `two pointers`, `recursion` (?), `union find`, `route compression`
+
+- DONE : 
+	-  DONE :`leetcode_company_V2.md` `AGAIN *** >= 3` go again
+	- `# 886 Possible Bipartition`
+
+# 2020-03-02
+
+- DOING :
+	- `Bit Manipulation`
+	- `Recursion`
+	-  tricks deal with `string` : `dp`, `two pointers`, `recursion` (?), `union find`, `route compression`
+
+- DONE : 
+	- `leetcode_company_V2.md` `AGAIN *** >= 3` go again
+	- `# 622 Design Circular Queue`
+	- `# 844 Backspace String Compare`
+
+# 2020-03-01
+
+- DOING :
+	- `Bit Manipulation`
+	- `Recursion`
+	-  tricks deal with `string` : `dp`, `two pointers`, `recursion` (?), `union find`, `route compression`
+
+- DONE : 
+	- `leetcode_company_V2.md` `AGAIN *** >= 3` go again
+	- `# 825 Friends Of Appropriate Ages`
+
+# 2020-02-29
+
+- DOING :
+	- `Bit Manipulation`
+	- `Recursion`
+	-  tricks deal with `string` : `dp`, `two pointers`, `recursion` (?), `union find`, `route compression`
+
+- DONE : 
+	- `leetcode_company_V2.md` `AGAIN *** >= 3` go again
+	- `# 791 Custom Sort String`
+	- `# 708 Insert into a Cyclic Sorted List`
+
+# 2020-02-28
+
+- DOING :
+	- `Bit Manipulation`
+	- `Recursion`
+	-  tricks deal with `string` : `dp`, `two pointers`, `recursion` (?), `union find`, `route compression`
+
+- DONE : 
+	- `leetcode_company_V2.md` `AGAIN *** >= 3` go again
+	- `# 426 Convert Binary Search Tree to Sorted Doubly Linked List`
+	- `# 430 Flatten a Multilevel Doubly Linked List`
+	- `# 767 Reorganize String`
+	- `# 785 Is Graph Bipartite?`
+
+# 2020-02-27
+
+- DOING :
+	- `Bit Manipulation`
+	- `Recursion`
+	-  tricks deal with `string` : `dp`, `two pointers`, `recursion` (?)
+
+- DONE : 
+	- `leetcode_company_V2.md` `AGAIN *** >= 3` go again
+	- `# 636 Exclusive Time of Functions`
+	- `# 674 Longest Continuous Increasing Subsequence`
+	- `# 681 Next Closest Time`
+	- `# 688 Knight Probability in Chessboard`
+
+# 2020-02-26
+
+- DOING :
+	- `Bit Manipulation`
+	- `Recursion`
+	-  tricks deal with `string` : `dp`, `two pointers`, `recursion` (?)
+
+- DONE : 
+	- `leetcode_company_V2.md` `AGAIN *** >= 3` go again
+	- `# 621 Task Scheduler`
+
+# 2020-02-21
+
+- DOING :
+	- `Bit Manipulation`
+	- `Recursion`
+	-  tricks deal with `string` : `dp`, `two pointers`, `recursion` (?)
+
+- DONE : 
+	- `leetcode_company_V2.md` `AGAIN *** >= 3` go again
+	- `# 518 Coin Change 2`
+	- `# 523 Continuous Subarray Sum`
+	- `# 567 Permutation in String`
+
+
+# 2020-02-20
+
+- DOING :
+	- `Bit Manipulation`
+	- `Recursion`
+	-  tricks deal with `string` : `dp`, `two pointers`, `recursion` (?)
+
+- DONE : 
+	- `leetcode_company_V2.md` `AGAIN *** >= 3` go again
+	- `# 490 The Maze`
+	- `# 491 Increasing Subsequences`
+	- `# 505 The Maze II`
+
+# 2020-02-19
+
+- DOING :
+	- `Bit Manipulation`
+	- `Recursion`
+	-  tricks deal with `string` : `dp`, `two pointers`, `recursion` (?)
+
+- DONE : 
+	- `leetcode_company_V2.md` `AGAIN *** >= 3` go again
+	- `# 438 Find All Anagrams in a String`
+	- `# 449 Serialize and Deserialize BST`
+
+# 2020-02-18
+
+- DOING :
+	- `Bit Manipulation`
+	- `Recursion`
+
+- DONE : 
+	- `leetcode_company_V2.md` `AGAIN *** >= 3` go again
+	- `# 395 Longest Substring with At Least K Repeating Characters`
+	- `# 399 Evaluate Division`
+
+# 2020-02-17
+
+- DOING :
+	- `Bit Manipulation`
+	- `# 371 Sum of Two Integers`
+
+- DONE : 
+	- `leetcode_company_V2.md` `AGAIN *** >= 3` go again
+	- `# 325 Maximum Size Subarray Sum Equals k`
+
+# 2020-02-16
+
+- DOING :
+
+- DONE : 
+	- `leetcode_company_V2.md` `AGAIN *** >= 3` go again
+	- `# 300 Longest Increasing Subsequence`
+	- `# 304 Range Sum Query 2D - Immutable`
+	- `# 314 Binary Tree Vertical Order Traversal`
+
+# 2020-02-15
+
+- DOING :
+
+- DONE : 
+	- `leetcode_company_V2.md` `AGAIN *** >= 3` go again
+	- `# 270 Closest Binary Search Tree Value`
+	- `# 277 Find the Celebrity`
+	- `# 286 Walls and Gates`
+
+# 2020-02-14
+
+- DOING :
+
+- DONE : 
+	- `leetcode_company_V2.md` `Not start` go through
+	- `# 261 graph valid tree`
+
+# 2020-02-12
+
+- DOING :
+
+- DONE : 
+	- `leetcode_company_V2.md` `Not start` go through
+	- `# 259 3Sum Smaller`
+	- `# 015 3Sum`
+
+# 2020-02-11
+
+- DOING :
+
+- DONE : 
+	- `leetcode_company_V2.md` `Not start` go through
+	- `# 236 Lowest Common Ancestor of a Binary Tree`
+	- `# 235 Lowest Common Ancestor of a Binary Search Tree`
+	- `# 253 Meeting Rooms II`
+
+# 2020-02-06
+
+- OK : leetcode_company_V2.md` `AGAIN *** >= 3` go again`
+- DOING :
+
+- DONE : 
+	- `leetcode_company_V2.md` `Not start` go through 
+	- `# 031 Next Permutation`, leetcode_company_V2.md` `Not start` go through`
+	- `# 33 Search in Rotated Sorted Array`
+	
+# 2020-02-05
+
+- DOING : `leetcode_company_V2.md` `Not start` go through : 
+	- `# 393 UTF-8 Validation`
+
+# 2019-10-11  
+
+- DOING  : Union find, Graph, Geometry, Simulation 
+	-  `smart*** review`
+		- sql group count on window func
+		- array = [a1, a2..an], find sub array [a1', a2' ..] that `a1' -a2' == k*M` for any  2 elements in  sub array
+- Reviewing : `fb` : 011
+- REDO      : Dynamic Programming, Linked list, Math, Recursion, Stack revisit,  Binary Search, Heap, Backtracking, Greedy, SQL, String, stack, Tree, Binary Search Tree, Bit Manipulation, Hash Table, Array
+- Reviewed : Two Pointers, Sort, Tree, Breadth-First Search, Depth-First Search, Hash table
+
+# 2019-10-09  
+
+- DOING  : Union find, Graph, Geometry, Simulation 
+	-  `smart*** review`
+		- sql group count on window func
+		- array = [a1, a2..an], find sub array [a1', a2' ..] that `a1' -a2' == k*M` for any  2 elements in  sub array
+- Reviewing : `fb` : 005  
+- REDO      : Dynamic Programming, Linked list, Math, Recursion, Stack revisit,  Binary Search, Heap, Backtracking, Greedy, SQL, String, stack, Tree, Binary Search Tree, Bit Manipulation, Hash Table, Array
+- Reviewed : Two Pointers, Sort, Tree, Breadth-First Search, Depth-First Search, Hash table
+
+# 2019-10-08  
+
+- DOING  : Union find, Graph, Geometry, Simulation 
+	-  `smart*** review`
+		- sql group count on window func
+		- array = [a1, a2..an], find sub array [a1', a2' ..] that `a1' -a2' == k*M` for any  2 elements in  sub array
+- Reviewing : `fb`
+- REDO      : Dynamic Programming, Linked list, Math, Recursion, Stack revisit,  Binary Search, Heap, Backtracking, Greedy, SQL, String, stack, Tree, Binary Search Tree, Bit Manipulation, Hash Table, Array
+- Reviewed : Two Pointers, Sort, Tree, Breadth-First Search, Depth-First Search, Hash table
+
+# 2019-09-27  
+
+- DOING  : Union find, Graph, Geometry, Simulation 
+	-  `smart*** review`
+		- sql group count on window func
+		- array = [a1, a2..an], find sub array [a1', a2' ..] that `a1' -a2' == k*M` for any  2 elements in  sub array
+- Reviewing : Hash table 
+- REDO      : Dynamic Programming, Linked list, Math, Recursion, Stack revisit,  Binary Search, Heap, Backtracking, Greedy, SQL, String, stack, Tree, Binary Search Tree, Bit Manipulation, Hash Table, Array
+- Reviewed : Two Pointers, Sort, Tree, Breadth-First Search, Depth-First Search,
+
+# 2019-09-22   
+
+- DOING  : Union find, Graph, Geometry, Simulation 
+	-  `smart*** review`
+		- sql group count on window func
+		- array = [a1, a2..an], find sub array [a1', a2' ..] that `a1' -a2' == k*M` for any  2 elements in  sub array
+- Reviewing : Depth-First Search
+- REDO      : Dynamic Programming, Linked list, Math, Recursion, DFS, Stack revisit, Depth-First Search, Binary Search, Heap, Backtracking, Greedy, SQL, String, stack, Tree, Binary Search Tree, Bit Manipulation, Hash Table, Array
+- Reviewed : Two Pointers, Sort, Tree, Breadth-First Search
+
+# 2019-09-10   
+
+- DOING  : Union find, Graph, Geometry, Simulation 
+	- `shop*** review`
+		- spark 
+		- hadoop 
+	-  `smart*** review`
+		- sql group count on window func
+		- array = [a1, a2..an], find sub array [a1', a2' ..] that `a1' -a2' == k*M` for any  2 elements in  sub array
+- Reviewing : Breadth-First Search
+- REDO      : Dynamic Programming, Linked list, Math, Recursion, DFS, Stack revisit, Depth-First Search, Binary Search, Heap, Backtracking, Greedy, SQL, String, stack, Tree, Binary Search Tree, Bit Manipulation, Hash Table, Array
+- Reviewed : Two Pointers, Sort, Tree
+
+# 2019-09-09  
+
+- DOING  : Union find, Graph, Geometry, Simulation 
+	- `shop*** review`
+		- spark 
+		- hadoop 
+	-  `smart*** review`
+		- sql group count on window func
+		- array = [a1, a2..an], find sub array [a1', a2' ..] that `a1' -a2' == k*M` for any  2 elements in  sub array
+- Reviewing : Tree
+- REDO      : Dynamic Programming, Linked list, Math, Recursion, DFS, Stack revisit, Breadth-First Search, Depth-First Search, Binary Search, Heap, Backtracking, Greedy, SQL, String, stack, Tree, Binary Search Tree, Bit Manipulation, Hash Table, Array
+- Reviewed : Two Pointers, Sort
+
+# 2019-09-08 
+
+- DOING     : Union find, Graph, Geometry, Simulation
+- Reviewing : Tree
+- REDO      : Dynamic Programming, Linked list, Math, Recursion, DFS, Stack revisit, Breadth-First Search, Depth-First Search, Binary Search, Heap, Backtracking, Greedy, SQL, String, stack, Tree, Binary Search Tree, Bit Manipulation, Hash Table, Array
+- Reviewed : Two Pointers, Sort
+
+# 2019-09-03
+
+- DOING     : Array
+- Reviewing : Tree
+- REDO      : Dynamic Programming, Linked list, Math, Recursion, DFS, Stack revisit, Breadth-First Search, Depth-First Search, Binary Search, Heap, Backtracking, Greedy, SQL, String, stack, Tree, Binary Search Tree, Bit Manipulation, Hash Table
+- Reviewed : Two Pointers, Sort
+
+# 2019-08-30
+
+- DOING     : Array
+- Reviewing : Tree
+- REDO      : Dynamic Programming, Linked list, Math, Recursion, DFS, Stack revisit, Breadth-First Search, Depth-First Search, Binary Search, Heap, Backtracking, Greedy, SQL, String, stack, Tree, Binary Search Tree, Bit Manipulation, Hash Table
+- Reviewed : Two Pointers, Sort
+
+# 2019-08-24
+
+- DOING     : Array
+- Reviewing : Sort 
+- REDO      : Dynamic Programming, Linked list, Math, Recursion, DFS, Stack revisit, Breadth-First Search, Depth-First Search, Binary Search, Heap, Backtracking, Greedy, SQL, String, stack, Tree, Binary Search Tree, Bit Manipulation, Hash Table
+- Reviewed : Two Pointers
+
+# 2019-08-22
+
+- DOING     : Array
+- Reviewing : Math 
+- REDO      : Dynamic Programming, Linked list, Math, Recursion, DFS, Stack revisit, Breadth-First Search, Depth-First Search, Binary Search, Heap, Backtracking, Greedy, SQL, String, stack, Tree, Binary Search Tree, Bit Manipulation, Hash Table
+- Reviewed : Two Pointers
+
+# 2019-08-21
+
+- DOING     : Array
+- Reviewing : Two Pointers
+- REDO      : Dynamic Programming, Linked list, Math, Recursion, DFS, Stack revisit, Breadth-First Search, Depth-First Search, Binary Search, Heap, Backtracking, Greedy, SQL, String, stack, Tree, Binary Search Tree, Bit Manipulation, Hash Table
+
+# 2019-08-08
+
+- DOING  : Array
+- REDO   : Dynamic Programming, Linked list, Math, Recursion, DFS, Stack revisit, Breadth-First Search, Depth-First Search, Binary Search, Heap, Backtracking, Greedy, SQL, String, stack, Tree, Binary Search Tree, Bit Manipulation, Hash Table
+
+# 2019-08-01
+
+- DOING  : Hash Table 
+- REDO   : Dynamic Programming, Linked list, Math, Recursion, DFS, Stack revisit, Breadth-First Search, Depth-First Search, Binary Search, Heap, Backtracking, Greedy, SQL, String, stack, Tree, Binary Search Tree, Bit Manipulation
+
+# 2019-07-29
+
+- DOING  : Bit Manipulation 
+- REDO   : Dynamic Programming, Linked list, Math, Recursion, DFS, Stack revisit, Breadth-First Search, Depth-First Search, Binary Search, Heap, Backtracking, Greedy, SQL, String, stack, Tree, Binary Search Tree
+
+# 2019-07-28
+
+- DOING  : String 
+- REDO   : Dynamic Programming (pending, not finished, todo), Linked list, Math, Recursion, DFS, Stack revisit, Breadth-First Search, Depth-First Search, Binary Search, Heap, Backtracking, Greedy, SQL 
+- DONE   : stack, Tree, Binary Search Tree
+
+# 2019-07-22 
+
+- DOING  : SQL, String 
+- REDO   : Dynamic Programming (pending, not finished, todo), Linked list, Math, Recursion, DFS, Stack revisit, Breadth-First Search, Depth-First Search, Binary Search, Heap, Backtracking, Greedy
+- DONE   : stack, Tree, Binary Search Tree
+
+# 2019-07-21 
+
+- DOING  : SQL 
+- REDO   : Dynamic Programming (pending, not finished, todo), Linked list, Math, Recursion, DFS, Stack revisit, Breadth-First Search, Depth-First Search, Binary Search, Heap, Backtracking, Greedy
+- DONE   : stack, Tree, Binary Search Tree
+
+# 2019-07-20 
+
+- DOING  : Greedy
+- REDO   : Dynamic Programming (pending, not finished, todo), Linked list, Math, Recursion, DFS, Stack revisit, Breadth-First Search, Depth-First Search, Binary Search, Heap, Backtracking
+- DONE   : stack, Tree, Binary Search Tree
+
+# 2019-07-19 
+
+- DOING  : Backtracking
+- REDO   : Dynamic Programming (pending, not finished, todo), Linked list, Math, Recursion, DFS, Stack revisit, Breadth-First Search, Depth-First Search, Binary Search, Heap
+- DONE   : stack, Tree, Binary Search Tree
+
+# 2019-07-18 
+
+- DOING  : Heap
+- REDO   : Dynamic Programming (pending, not finished, todo), Linked list, Math, Recursion, DFS, Stack revisit, Breadth-First Search, Depth-First Search, Binary Search
+- DONE   : stack, Tree, Binary Search Tree
+
+# 2019-07-16 
+
+- DOING  : Binary Search
+- REDO   : Dynamic Programming (pending, not finished, todo), Linked list, Math, Recursion, DFS, Stack revisit, Breadth-First Search, Depth-First Search
+- DONE   : stack, Tree, Binary Search Tree
+
+# 2019-07-11
+
+- DOING  : Depth-First Search
+- REDO   : Dynamic Programming (pending, not finished, todo), Linked list, Math, Recursion, DFS, Stack revisit, Breadth-First Search
+- DONE   : stack, Tree, Binary Search Tree 
+
+# 2019-07-10
+
+- DOING  : Breadth-First Search
+- REDO   : Dynamic Programming (pending, not finished, todo), Linked list, Math, Recursion, DFS, Stack revisit
+- DONE   : stack, Tree, Binary Search Tree 
+
+# 2019-07-08
+
+- TODO  : Binary Search Tree      
+- REDO   : Dynamic Programming (pending, not finished, todo), Linked list, Math, Recursion, BFS/DFS, Stack revisit
+- DONE   : stack, Tree
+
+# 2019-07-07
+
+- DOING  : Tree      
+- REDO   : Dynamic Programming (pending, not finished, todo), Linked list, Math, Recursion, BFS/DFS, Stack revisit
+- DONE   : stack 
+
+# 2019-07-01
+
+- TODO  : Tree      
+- REDO  : Dynamic Programming (pending, not finished, todo), Linked list, Math, Recursion, BFS/DFS, Stack revisit
+- DONE  : stack 
+
+# 2019-06-24
+
+- TODO  : Stack     
+- REDO  : Dynamic Programming (pending, not finished, todo), Linked list, Math, Recursion, BFS/DFS revisit 
+
+# 2019-06-18
+
+- TODO  : Dynamic Programming, BFS/DFS revisit      
+- REDO  : Linked list, Math, Recursion 
+
+# 2019-04-28
+
+- TODO  : Dynamic Programming   
+- DONE  : Recursion (1st round)
+- REDO  : Linked list, Math
+
+# 2019-04-15
+
+- TODO  : Recursion  
+- DONE  : Math (1st round)
+- REDO  : Linked list, Math
+
+# 2019-03-12
+
+- DOING : Math 
+- REDO  : Linked list 
